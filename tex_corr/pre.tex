@@ -1,0 +1,84 @@
+
+\documentclass[a4paper,12pt,nogroupskip,nopostdot, nonumberlist]{extbook}
+
+\usepackage[english,russian]{babel}
+\usepackage{fontspec}
+\setmainfont[BoldFont=brillb.ttf, ItalicFont=brilli.ttf, BoldItalicFont=brillbi.ttf]{brill.ttf}
+\usepackage[doublespacing]{setspace}
+\sloppy
+
+% images and floats
+
+\usepackage{graphicx}
+\usepackage{float}
+
+% examples
+
+\usepackage{philex}
+\renewcommand{\eachwordone}
+
+% glossary
+
+\usepackage{leipzig}
+\input{glosses}
+\makeglossaries
+
+% references
+
+%\usepackage{natbib}
+%\bibpunct[: ]{[}{]}{;}{a}{}{,}
+%\usepackage[nottoc]{tocbibind}
+
+% add section levels
+
+\setcounter{secnumdepth}{6}
+\setcounter{tocdepth}{6}
+
+% appendix
+
+\usepackage[toc,page]{appendix}
+\renewcommand{\appendixtocname}{Приложения}
+
+% quotes
+
+\usepackage{csquotes}
+\usepackage{epigraph}
+
+% arrows instead of bulletpoints
+
+\usepackage{enumitem}
+\newlist{arrowlist}{itemize}{1}
+\setlist[arrowlist]{label=$\Rightarrow$}
+
+% enumerate with letters
+
+\usepackage{enumitem}
+\makeatletter
+\AddEnumerateCounter{\asbuk}{\russian@alph}{щ}
+\makeatother
+
+% color in tables
+
+\usepackage[table,xcdraw]{xcolor}
+
+% margins
+
+\usepackage{geometry}
+%	\geometry{top=150mm}
+	\geometry{bottom=25mm}
+%	\geometry{left=150mm}
+%	\geometry{right=150mm}
+
+% bibliography
+
+\usepackage[backend=biber,babel=other,
+        bibstyle=biblatex-sp-unified,
+        citestyle=sp-authoryear-comp,
+        doi=false,
+        maxcitenames=3,
+        maxbibnames=99]{biblatex}
+\addbibresource{bibliography.bib}
+                  
+% links
+
+\usepackage[hidelinks]{hyperref}

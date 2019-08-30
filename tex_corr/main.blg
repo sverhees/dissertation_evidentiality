@@ -1,0 +1,18 @@
+[0] Config.pm:302> INFO - This is Biber 2.9
+[0] Config.pm:305> INFO - Logfile is 'main.blg'
+[27] biber:313> INFO - === Пт авг 30, 2019, 11:25:54
+[49] Biber.pm:371> INFO - Reading 'main.bcf'
+[120] Biber.pm:857> INFO - Found 232 citekeys in bib section 0
+[132] Biber.pm:3981> INFO - Processing section 0
+[141] Biber.pm:4154> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[149] bibtex.pm:1468> INFO - LaTeX decoding ...
+[421] bibtex.pm:1294> INFO - Found BibTeX data source 'bibliography.bib'
+[745] Utils.pm:169> WARN - Range field 'pages' in entry 'diewald2006' is malformed, falling back to literal
+[1066] Utils.pm:169> WARN - year field '2010 (1968)' in entry 'salimov2010' is not an integer - this will probably not sort properly.
+[1810] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1811] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1811] Biber.pm:3809> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'ru-RU'
+[1811] Biber.pm:3815> INFO - No sort tailoring available for locale 'ru-RU'
+[2014] bbl.pm:617> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[2178] bbl.pm:720> INFO - Output to main.bbl
+[2178] Biber.pm:110> INFO - WARNINGS: 2
