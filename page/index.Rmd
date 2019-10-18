@@ -1,0 +1,524 @@
+
+---
+title: "Evidentiality and the perfect in East Caucasian languages"
+output:
+  html_document:
+    fig_cap: yes
+    highlight: tango
+    smooth_scroll: no
+    theme: lumen
+    toc: yes
+    toc_float: yes
+    toc_position: right
+  pdf_document:
+    toc: yes
+  word_document:
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE)
+
+# packages
+
+library(DT)
+library(tidyverse)
+library(lingtypology)
+
+# data
+
+trans <- read_tsv("/home/samira/Git/dissertation_evidentiality/transcr.csv") # transcription correspondences
+vill <- read_tsv("data/villages.csv") # villages, coordinates and languages
+lang <- read_tsv("data/languages.csv") # languages, affiliation and glottocodes
+col <- read_tsv("data/colors.csv") # color schemes
+glot <- read_tsv("data/glottolog_points.csv") # language coordinates from Glottolog
+sys <- read_tsv("data/systems.csv") # EC evidential systems per language
+perfects <- read_tsv("data/perfects.csv") # perfects and their meanings in EC
+part <- read_tsv("data/particles.csv") # particles with evidential(ish) meanings
+mark <- read_tsv("data/marketlang.csv") # distribution of so called "market languages" in the East Caucasus
+
+
+```
+
+The [dissertation_evidentiality](https://github.com/sverhees/dissertation_evidentiality) repository contains data collected for my PhD project on "Evidentiality as part of tense-aspect in East Caucasian languages". The full text of my dissertation (in Russian) and summaries in Russian and English can be downloaded [here](https://www.hse.ru/sci/diss/300367563). 
+
+This page introduces the data and features searchable datatables and interactive maps.
+
+
+##### Acknowledgements
+
+
+# Data
+
+In the repository you will find the following data:
+
+* Tables with data on evidential markers
+* Annotated surveys in pdf / tex format
+* Summary tables of the annotated surveys
+* A summary table of annotated narrative data
+
+# Transcription
+
+Below is a table with the transcription used in my data (**Current**) as compared to **IPA** conventions and the symbols used to transcribe **Tsakhur** and **Bagvalal** in the original sources. 
+
+```{r, include = TRUE, echo = FALSE, message = FALSE, warning = FALSE}
+
+datatable(trans, class = 'cell-border stripe', filter = 'top', rownames = FALSE, options = list(pageLength = 52, autoWidth = TRUE, lengthChange = FALSE, searching = FALSE, info = FALSE, paginate = FALSE))
+
+```
+
+# Evidential markers
+
+```{r}
+
+datapart <- part %>%
+  select(form, type, evidential, meaning, lang, variant, ref)
+
+dataperf <- perfects %>%
+ select(form, type, evidential, meaning, lang, variant, ref)
+
+alldata <- rbind(datapart, dataperf)
+
+colnames(alldata)[4] <- "function"
+
+table(alldata$type, alldata$evidential)
+
+```
+
+```{r}
+
+datatable(alldata, class = 'cell-border stripe', rownames = F, filter = 'top', options = list(pageLength = 20, autoWidth = T))
+
+```
+
+
+## Maps
+
+```{r, include = TRUE, echo = FALSE, message = FALSE, warning = FALSE}
+
+# throw out villages without coordinates
+
+vill <- vill[complete.cases(vill$lat),]
+
+# add colorschemes
+
+vill_col <- merge(vill, col, by = "lang")
+glot_col <- merge(glot, col, by = "lang")
+
+```
+
+### General maps
+
+#### The East Caucasian languages
+
+This map shows all of the East Caucasian idioms present in [Glottolog 4.0](https://glottolog.org/). Click on a dot to see which idiom it represents. In most cases there is a one-on-one correspondence between the language / color and the idiom, with the exception of Dargwa.
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 7}
+
+# order the languages in the legend nicely (by default they are in alphabetical order)
+
+glot_col$lang <- factor(glot_col$lang, levels =c(
+  "Dargwa", "Lak", "Bats", "Ingush", "Chechen", "Khinalugh", "Archi", "Tsakhur", "Rutul", "Kryz", "Budukh", "Udi", "Lezgian", "Aghul", "Tabasaran", "Avar", "Andi", "Botlikh", "Godoberi", "Chamalal", "Bagvalal", "Tindi", "Karata", "Akhvakh", "Tsez", "Hinuq", "Bezhta", "Hunzib", "Xvarshi"))
+
+# draw map
+
+map.feature(glot_col$lang,
+            latitude = glot_col$lat,
+            longitude = glot_col$lon,
+            features = glot_col$lang,
+            title = "Language",
+            width = 8,
+            label = glot_col$lang,
+            color = glot_col$datacol,
+            zoom.control = T,
+            zoom.level = 7,
+            popup = glot_col$name,
+            tile = c("Esri.WorldTopoMap"),
+            minimap = T,
+            minimap.position = "bottomleft")
+
+```
+
+#### All East Caucasian villages
+
+The map below shows the villages where East Caucasian languages are spoken. It also includes their non-East Caucasian neighbors. This map is based on an old version of the East Caucasian villages dataset (before the October 2019 update) - get the latest version [here](https://github.com/sverhees/master_villages).
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 7}
+
+# order the languages in the legend nicely (by default they are in alphabetical order)
+
+vill_col$lang <- factor(vill_col$lang, levels =c(
+  "Dargwa", "Lak", "Bats", "Ingush", "Chechen", "Khinalugh", "Archi", "Tsakhur", "Rutul", "Kryz", "Budukh", "Udi", "Lezgian", "Aghul", "Tabasaran", "Avar", "Andi", "Botlikh", "Godoberi", "Chamalal", "Bagvalal", "Tindi", "Karata", "Akhvakh", "Tsez", "Hinuq", "Bezhta", "Hunzib", "Xvarshi", "Armenian", "Kumyk", "Nogai", "North Azerbaijani"))
+
+# draw map
+
+map.feature(vill_col$lang,
+            latitude = vill_col$lat,
+            longitude = vill_col$lon,
+            features = vill_col$lang,
+            title = "Language",
+            color = vill_col$datacol,
+            width = 4,
+            label = vill_col$lang,
+            zoom.control = T,
+            popup = vill_col$name,
+            tile = c("Esri.WorldTopoMap", "OpenStreetMap.Mapnik"),
+            tile.name = c("English placenames", "Local placenames"))
+
+```
+
+#### All East Caucasian villages by genealogical branch
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 7}
+
+# order the groups in the legend nicely (by default they are in alphabetical order)
+
+vill_col$group <- factor(vill_col$group, levels =c("Dargwa", "Lak", "Nakh", "Khinalugh", "Lezgic", "Avar", "Andic", "Tsezic", "Armenian", "Kipchak", "West Oghuz"))
+
+# draw map
+
+map.feature(vill_col$lang,
+            latitude = vill_col$lat,
+            longitude = vill_col$lon,
+            features = vill_col$group,
+            title = "Branch",
+            color = vill_col$groupcol,
+            label = vill_col$lang,
+            zoom.control = T,
+            popup = vill_col$name,
+            tile = c("Esri.WorldGrayCanvas"))
+
+```
+
+#### East Caucasian villages and market languages of the Eastern Caucasus
+
+
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height=7}
+
+# order the languages in the legend nicely (by default they are in alphabetical order)
+
+vill_col$lang <- factor(vill_col$lang, levels =c(
+  "Dargwa", "Lak", "Bats", "Ingush", "Chechen", "Khinalugh", "Archi", "Tsakhur", "Rutul", "Kryz", "Budukh", "Udi", "Lezgian", "Aghul", "Tabasaran", "Avar", "Andi", "Botlikh", "Godoberi", "Chamalal", "Bagvalal", "Tindi", "Karata", "Akhvakh", "Tsez", "Hinuq", "Bezhta", "Hunzib", "Xvarshi", "Armenian", "Kumyk", "Nogai", "North Azerbaijani"))
+
+# draw map
+
+map.feature(vill_col$lang,
+            latitude = vill_col$lat,
+            longitude = vill_col$lon,
+            features = vill_col$lang,
+            title = "Language",
+            color = vill_col$datacol,
+            width = 4,
+            label = vill_col$lang,
+            popup = vill_col$name) %>%
+            map.feature(mark$lang,
+                        latitude = mark$lat,
+                        longitude = mark$lon,
+                        features = mark$lang,
+                        popup = paste("market language of", mark$city),
+                        label = mark$lang,
+                        title = "Lingua Franca",
+                        shape =  c("❖", "⬖", "◇", "◆"),
+                        shape.size = "30",
+                        tile = c("Esri.WorldGrayCanvas"),
+                        legend.position = "topleft",
+                        pipe.data = .)
+
+```
+
+### Evidentiality
+
+#### Evidential systems in EC
+
+This map roughly follows the classification and colors of the [WALS](http://wals.info/feature/78A#2/16.6/149.8) map on "Coding of evidentiality". Based on the sources I used, individual languages received a different classification than they have on the WALS map (see [issue](https://github.com/clld/wals-data/issues/164)). Most typical for EC are **mixed systems**, featuring both **verb tense** and **verb particles**. Hover over a dot to see the language and click to view the source used.
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 7}
+
+# re-order values in the legend
+
+sys$system <- factor(sys$system, levels = c("verb tense", "verb particle", "mixed", "no"))
+
+# draw map
+
+map.feature(sys$lang,
+            features = sys$system,
+            color = sys$system_color,
+            width = 8,
+            title = "Evidential marking",
+            label = sys$lang,
+            label.hide = TRUE,
+            popup = paste("Source(s):", sys$ref),
+            tile = c("Esri.WorldGrayCanvas"))
+
+```
+
+#### All villages by general systems
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 7}
+
+vill_sys <- left_join(vill, sys, by = "lang")
+
+vill_sys <- vill_sys[complete.cases(vill_sys$system),]
+
+vill_sys$system <- factor(vill_sys$system, levels = c("verb tense", "verb particle", "mixed", "no"))
+
+map.feature(vill_sys$lang,
+            latitude = vill_sys$lat.x,
+            longitude = vill_sys$lon.x,
+            features = vill_sys$system,
+            color = vill_sys$system_color,
+            width = 4,
+            title = "Evidential marking",
+            label = vill_sys$lang,
+            label.hide = TRUE,
+            zoom.control = T,
+            popup = paste("Source(s):", vill_sys$ref),
+            tile = c("Esri.WorldGrayCanvas"))
+
+```
+
+#### Villages versus datapoints
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 7}
+
+vill_sys <- left_join(vill, sys, by = "lang")
+
+vill_sys <- vill_sys[complete.cases(vill_sys$system),]
+
+vill_sys$system <- factor(vill_sys$system, levels = c("verb tense", "verb particle", "mixed", "no"))
+
+map.feature(vill_sys$lang,
+            latitude = vill_sys$lat.x,
+            longitude = vill_sys$lon.x,
+            features = vill_sys$system,
+            #color = c("red4", "orchid4", "snow4", "snow1"),
+            color = vill_sys$system_color,
+            opacity = 0.2,
+            width = 9,
+            legend = F,
+            label = vill_sys$lang,
+            label.hide = TRUE,
+            popup = paste("Source(s):", vill_sys$ref)) %>% map.feature(sys$lang,
+            features = sys$system,
+            color = sys$system_color,
+            width = 5,
+            title = "Evidential marking",
+            label = sys$lang,
+            label.hide = TRUE,
+            popup = paste("Source(s):", sys$ref),
+            tile = c("Esri.WorldGrayCanvas"),
+            zoom.control = T,
+            pipe.data = .)
+```
+
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 7}
+
+vill_col$lang <- factor(vill_col$lang, levels =c(
+  "Dargwa", "Lak", "Bats", "Ingush", "Chechen", "Khinalugh", "Archi", "Tsakhur", "Rutul", "Kryz", "Budukh", "Udi", "Lezgian", "Aghul", "Tabasaran", "Avar", "Andi", "Botlikh", "Godoberi", "Chamalal", "Bagvalal", "Tindi", "Karata", "Akhvakh", "Tsez", "Hinuq", "Bezhta", "Hunzib", "Xvarshi", "Armenian", "Kumyk", "Nogai", "North Azerbaijani"))
+
+map.feature(vill_col$lang,
+            latitude = vill_col$lat,
+            longitude = vill_col$lon,
+            features = vill_col$lang,
+            title = "Language",
+            width = 3,
+            label = vill_col$lang,
+            color = vill_col$gencol,
+            popup = paste("Village:", vill_col$name)) %>%
+  map.feature(sys$lang,
+              features = sys$system,
+              color = sys$system_color,
+              width = 5,
+              legend.position = "topleft",
+              title = "Evidential marking",
+              tile = c("Esri.WorldGrayCanvas"),
+              pipe.data = .)
+
+```
+
+#### Evidentiality as part of the tense system
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 7}
+
+sys <- sys %>%
+  mutate(tense = case_when(
+    system == "verb tense" ~ "yes", 
+    system == "mixed" ~"yes",
+    TRUE ~ "no"))
+
+sys_col <- left_join(sys, col, by = "lang")
+sys_col <- sys_col[complete.cases(sys_col$group.y),]
+
+sys_col$tense <- factor(sys_col$tense, levels = c("yes", "no"))
+sys_col$lang <- factor(sys_col$lang, levels = c("Ingush", "Chechen", "Bats", "Bezhta", "Hinuq", "Hunzib", "Xvarshi", "Tsez", "Avar", "Akhvakh", "Andi", "Bagvalal", "Botlikh", "Chamalal", "Godoberi", "Karata", "Tindi", "Dargwa", "Lak", "Aghul", "Archi", "Budukh", "Kryz", "Lezgian", "Rutul", "Tabasaran", "Tsakhur", "Udi", "Khinalugh"))
+
+
+map.feature(sys_col$lang,
+            features = sys_col$lang,
+            color = sys_col$datacol,
+            width = 5,
+            stroke.features = sys_col$tense,
+            stroke.color = c("grey", "white"),
+            stroke.title = "Evidentiality and tense",
+            stroke.radius = 13,
+            label = sys_col$lang,
+            label.hide = TRUE,
+            popup = paste("Source(s):", sys_col$ref),
+            tile = c("Esri.WorldGrayCanvas"))
+
+```
+
+#### Perfect-based indirect evidential past
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 7}
+
+sys_col$perfect <- factor(sys_col$perfect, levels = c("yes", "no"))
+
+map.feature(sys_col$lang,
+            features = sys_col$lang,
+            color = sys_col$datacol,
+            legend = F,
+            width = 5,
+            stroke.features = sys_col$perfect,
+            stroke.color = c("grey", "white"),
+            stroke.title = "Evidential perfect",
+            stroke.radius = 13,
+            label = sys_col$lang,
+            label.hide = TRUE,
+            popup = paste("Source(s):", sys_col$ref),
+            tile = c("Esri.WorldGrayCanvas"))
+
+
+```
+
+#### Perfect meanings
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 7}
+
+
+notu <- perfects %>%
+  filter(aff != 'Turkic')
+
+resultative <- notu %>%
+  filter(complete.cases(res))
+
+cr <- notu %>%
+  filter(complete.cases(cr))
+
+ev <- notu %>%
+  filter(complete.cases(evidential))
+
+map.feature(resultative$lang,
+            features = resultative$res,
+            color = c("white"),
+            width = 15,
+            latitude = resultative$lat,
+            longitude = resultative$lon) %>%
+   map.feature(ev$lang,
+            features = ev$evidential,
+            color = c("grey"),
+            width = 11,
+            latitude = ev$lat,
+            longitude = ev$lon,
+            pipe.data = .) %>%
+  map.feature(cr$lang,
+            features = cr$cr,
+            shape = c("▲"),
+            latitude = cr$lat,
+            longitude = cr$lon,
+            tile = c("Esri.WorldGrayCanvas"),
+            pipe.data = .)
+  
+
+```
+
+
+
+#### Tense vs. particles
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 7}
+
+sys <- sys %>%
+  mutate(tense = case_when(
+    system == "verb tense" ~ "yes", 
+    system == "mixed" ~"yes",
+    TRUE ~ "no"))
+
+sys_col <- left_join(sys, col, by = "lang")
+sys_col <- sys_col[complete.cases(sys_col$group.y),]
+
+sys_col$tense <- factor(sys_col$tense, levels = c("yes", "no"))
+
+
+evpart <- part %>%
+  filter(type != 'verb form')
+
+evpart$evidential <- factor(evpart$evidential, levels = c("reportative", "inferential", "unwitnessed"))
+
+map.feature(sys_col$lang,
+            features = sys_col$tense,
+            title = "Tense",
+            color = c("grey", "white"),
+            width = 9,
+            label = sys_col$lang,
+            label.hide = TRUE,
+            popup = paste("Source(s):", sys_col$ref)) %>%
+              map.feature(evpart$lang,
+                          features = evpart$evidential,
+                          shape = c("▲", "△", "◭"),
+                          title = "Particle",
+                          tile = c("Esri.WorldGrayCanvas"),
+                          pipe.data = .)
+```
+
+#### Particles only
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 7}
+
+syspart <- sys %>%
+  mutate(evpart = case_when(
+    system == "verb tense" ~ "no", 
+    system == "mixed" ~"yes",
+    TRUE ~ "no"))
+
+syspart$evpart <- factor(syspart$evpart, levels = c("yes", "no"))
+
+partev <- part %>%
+  filter(complete.cases(evidential))
+
+partev$type <- factor(partev$type, levels = c("verb particle", "free particle", "verb form", "no particle"))
+
+map.feature(syspart$lang,
+            features = syspart$evpart,
+            title = "Evidential particle",
+            color = c("grey", "white"),
+            width = 10,
+            label = syspart$lang,
+            label.hide = TRUE,
+            popup = paste("Source(s):", syspart$ref)) %>%
+  map.feature(partev$lang,
+              features = partev$type,
+              shape = c("●", "◍", "○", "◌"),
+              shape.size = 14,
+              title = "Clitic type",
+              tile = c("Esri.WorldGrayCanvas"),
+              pipe.data = .)
+```
+
+# Surveys
+
+
+# Narrative data
+
+
+
+
+---
+
+[Samira Verhees](https://www.hse.ru/staff/jannigjehelenaverhees/) | Version: `r Sys.Date()`
+
+---
+
+
