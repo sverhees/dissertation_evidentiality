@@ -1,4 +1,45 @@
 
 ---
 title: "Эвиденциальность и перфект в нахско-дагестанских языках"
+output:
+  html_document:
+    fig_cap: yes
+    highlight: tango
+    smooth_scroll: no
+    theme: lumen
+    toc: yes
+    toc_float: yes
+    toc_position: right
+  pdf_document:
+    toc: yes
+  word_document:
+    toc: yes
 ---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE)
+
+# packages
+
+library(DT)
+library(tidyverse)
+library(lingtypology)
+
+# data
+
+trans <- read_tsv("/home/samira/Git/dissertation_evidentiality/transcr.csv") # transcription correspondences
+vill <- read_tsv("data/villages.csv") # villages, coordinates and languages
+lang <- read_tsv("data/languages.csv") # languages, affiliation and glottocodes
+col <- read_tsv("data/colors.csv") # color schemes
+glot <- read_tsv("data/glottolog_points.csv") # language coordinates from Glottolog
+sys <- read_tsv("data/systems.csv") # EC evidential systems per language
+perfects <- read_tsv("data/perfects.csv") # perfects and their meanings in EC
+part <- read_tsv("data/particles.csv") # particles with evidential(ish) meanings
+mark <- read_tsv("data/marketlang.csv") # distribution of so called "market languages" in the East Caucasus
+
+
+```
+
+Здесь будет русская версия. :)
+

@@ -1,0 +1,837 @@
+"","id","map","feature","lang","ref","iso","gltc"
+"1","abi","77a","No grammatical evidentials","Abipón","Najlis 1966","axb","abip1241"
+"2","abk","77a","Indirect only","Abkhaz","Hewitt 1979","abk","abkh1244"
+"3","acm","77a","Indirect only","Achumawi","de Angulo and Freeland 1931","acv","achu1247"
+"4","aco","77a","Direct and indirect","Acoma","Miller 1965","kjq","west2632"
+"5","afr","77a","Indirect only","Afrikaans",NA,"afr","afri1274"
+"6","agr","77a","No grammatical evidentials","Aguaruna","Larsen 1963","agr","agua1253"
+"7","ain","77a","Direct and indirect","Ainu","Shibatani 1990","ain","ainu1240"
+"8","akh","77a","Direct and indirect","Akha","Thurgood 1986","ahk","akha1245"
+"9","abm","77a","Indirect only","Alabama","Sylestine et al. 1993","akz","alab1237"
+"10","ala","77a","No grammatical evidentials","Alamblak","Bruce 1984","amp","alam1246"
+"11","alw","77a","No grammatical evidentials","Alawa","Sharpe 1972","alh","alaw1244"
+"12","alb","77a","Indirect only","Albanian","Friedman 1986","aln","gheg1238"
+"13","amc","77a","Indirect only","Amahuaca","Sparing-Chavez 1998","amc","amah1246"
+"14","amd","77a","Direct and indirect","Amdo","Sun 1993","adx","amdo1237"
+"15","ame","77a","No grammatical evidentials","Amele","Roberts 1987","aey","amel1241"
+"16","amu","77a","Indirect only","Amuesha","Wise 1986","ame","yane1238"
+"17","adk","77a","Direct and indirect","Andoke","Landaburu 1979","ano","ando1256"
+"18","agt","77a","No grammatical evidentials","Anguthimri","Crowley 1981","lnj","leni1238"
+"19","apc","77a","Indirect only","Apache (Chiricahua)","Hoijer 1946a","apm","mesc1238"
+"20","apl","77a","Direct and indirect","Apalaí","Koehn and Koehn 1986","apy","apal1257"
+"21","apu","77a","Indirect only","Apurinã","Facundes 2000","apu","apur1254"
+"22","aeg","77a","No grammatical evidentials","Arabic (Egyptian)","Gary and Gamal-Eldin 1982","arz","egyp1253"
+"23","arg","77a","Indirect only","Arabic (Gulf)","Holes 1990","afb","gulf1241"
+"24","ana","77a","Indirect only","Araona","Pitman 1980","aro","arao1248"
+"25","aho","77a","Indirect only","Arapaho","Salzmann 1967","arp","arap1274"
+"26","arp","77a","No grammatical evidentials","Arapesh (Mountain)","Conrad and Wogiga 1991","ape","buki1249"
+"27","arc","77a","Indirect only","Archi","Kibrik 1994a","aqc","arch1244"
+"28","akr","77a","Indirect only","Arikara","Merlan 1975","ari","arik1262"
+"29","arw","77a","Indirect only","Armenian (Western)","Donabédian 1996","hye","nucl1235"
+"30","asm","77a","Indirect only","Asmat","Voorhoeve 1965","tml","tamn1235"
+"31","awp","77a","No grammatical evidentials","Awa Pit","Curnow 1997","kwi","awac1239"
+"32","aym","77a","Direct and indirect","Aymara (Central)","Hardman 1986","ayc","sout2996"
+"33","baa","77a","No grammatical evidentials","Barai","Olson 1973","bbb","nucl1630"
+"34","brs","77a","Direct and indirect","Barasano","Jones and Jones 1991","bsn","bara1380"
+"35","bsq","77a","Indirect only","Basque","Saltarelli et al. 1988","eus","basq1248"
+"36","bkr","77a","No grammatical evidentials","Batak (Karo)","Woollams 1996","btx","bata1293"
+"37","baq","77a","Indirect only","Baure","Baptista and Wallin 1967","brg","baur1253"
+"38","baw","77a","No grammatical evidentials","Bawm","Reichle 1981","bgr","bawm1236"
+"39","bej","77a","Indirect only","Beja","Dahl 1984","bej","beja1238"
+"40","bco","77a","Indirect only","Bella Coola","Newman 1969","blc","bell1243"
+"41","beb","77a","No grammatical evidentials","Benabena","Young 1971","bef","bena1264"
+"42","bse","77a","No grammatical evidentials","Berber (Ayt Seghrouchen Middle Atlas)","Bentolila 1981","tzm","cent2194"
+"43","blx","77a","Indirect only","Biloxi","Einaudi 1976","bll","bilo1248"
+"44","bla","77a","No grammatical evidentials","Blackfoot","Frantz 1991","bla","siks1238"
+"45","bor","77a","Indirect only","Bora","Thiesen 1996","boa","bora1263"
+"46","brh","77a","No grammatical evidentials","Brahui","Andronov 1980","brh","brah1256"
+"47","bre","77a","No grammatical evidentials","Breton","Press 1986","bre","bret1244"
+"48","bdk","77a","No grammatical evidentials","Budukh","Alekseev 1994a","bdk","budu1248"
+"49","bul","77a","Direct and indirect","Bulgarian","Friedman 1986","bul","bulg1262"
+"50","brm","77a","No grammatical evidentials","Burmese","Bernot 1980","mya","nucl1310"
+"51","bur","77a","No grammatical evidentials","Burushaski","Lorimer 1935","bsk","buru1296"
+"52","cah","77a","Indirect only","Cahuilla","Seiler 1977","chl","cahu1264"
+"53","cax","77a","No grammatical evidentials","Campa (Axininca)","Payne 1981","cni","asha1243"
+"54","can","77a","No grammatical evidentials","Candoshi","Anderson and Wise 1963","cbu","cand1248"
+"55","ckr","77a","No grammatical evidentials","Canela-Krahô","Popjes and Popjes 1986","ram","cane1242"
+"56","cnt","77a","Indirect only","Cantonese","Matthews 1997","yue","yuec1235"
+"57","crp","77a","Direct and indirect","Carapana","Metzger 1981","cbc","cara1272"
+"58","car","77a","Direct and indirect","Carib","Hoff 1986","car","gali1262"
+"59","cyv","77a","No grammatical evidentials","Cayuvava","Key 1967","cyb","cayu1262"
+"60","cbo","77a","Indirect only","Chácobo","Prost 1967","cao","chac1251"
+"61","cha","77a","Indirect only","Chamorro","Topping 1973","cha","cham1312"
+"62","cco","77a","Indirect only","Chasta Costa","Sapir 1914",NA,NA
+"63","cso","77a","No grammatical evidentials","Chatino (Sierra Occidental)","Pride 1965","ctp","west2644"
+"64","chc","77a","Direct and indirect","Chechen","Nichols 1994a","che","chec1245"
+"65","chl","77a","Indirect only","Chehalis (Upper)","Kinkade 1963","cjh","uppe1439"
+"66","cmh","77a","No grammatical evidentials","Chemehuevi","Press 1979","ute","utes1238"
+"67","che","77a","Indirect only","Cherokee","Reyburn 1954a","chr","cher1273"
+"68","cjo","77a","No grammatical evidentials","Chichimeca-Jonaz","de Angulo 1932","pei","chic1272"
+"69","ccm","77a","Indirect only","Chinantec (Comaltepec)","Anderson 1989","cco","coma1246"
+"70","cle","77a","No grammatical evidentials","Chinantec (Lealao)","Rupp 1989","cle","leal1235"
+"71","ckl","77a","No grammatical evidentials","Chinook (Lower)","Boas 1911b","chh","chin1286"
+"72","cku","77a","Indirect only","Chinook (Upper)","Silverstein 1978","wac","wasc1239"
+"73","chp","77a","Indirect only","Chipewyan","Li 1946","chp","chip1261"
+"74","ctm","77a","Indirect only","Chitimacha","Swadesh 1946b","ctm","chit1248"
+"75","cct","77a","Indirect only","Choctaw","Broadwell 1987","cho","choc1276"
+"76","crt","77a","No grammatical evidentials","Chorote","Gerzenstein 1978","crq","iyow1239"
+"77","chr","77a","No grammatical evidentials","Chrau","Thomas 1971","crw","chra1242"
+"78","chk","77a","No grammatical evidentials","Chukchi","Bogoras 1922","ckt","chuk1273"
+"79","coc","77a","Indirect only","Cocama","Faust 1972","cod","coca1259"
+"80","coe","77a","Indirect only","Coeur d'Alene","Reichard 1933-1938","crd","coeu1236"
+"81","cmn","77a","Indirect only","Comanche","Charney 1993","com","coma1245"
+"82","coo","77a","Indirect only","Coos (Hanis)","Frachtenberg 1922a","csz","coos1249"
+"83","cor","77a","Indirect only","Cora","Casad 1984","crn","elna1235"
+"84","dag","77a","No grammatical evidentials","Daga","Murane 1974","dgz","daga1275"
+"85","dni","77a","Indirect only","Dani (Lower Grand Valley)","Bromley 1981","dni","lowe1415"
+"86","den","77a","Indirect only","Dení","Derbyshire 1986","dny","deni1241"
+"87","die","77a","No grammatical evidentials","Diegueño (Mesa Grande)","Langdon 1970","dih","kumi1248"
+"88","dio","77a","No grammatical evidentials","Diola-Fogny","Sapir 1965","dyo","jola1263"
+"89","diy","77a","Direct and indirect","Diyari","Austin 1981","dif","dier1241"
+"90","djp","77a","No grammatical evidentials","Djapu","Morphy 1983","duj","dhuw1249"
+"91","dre","77a","No grammatical evidentials","Drehu","Tryon 1967a","dhv","dehu1237"
+"92","dmi","77a","Indirect only","Dumi","van Driem 1993","dus","dumi1241"
+"93","dut","77a","Indirect only","Dutch",NA,"nld","dutc1256"
+"94","dyi","77a","No grammatical evidentials","Dyirbal","Dixon 1972","dbl","dyir1250"
+"95","eka","77a","Indirect only","Ekari","Drabbe 1952","ekg","ekar1243"
+"96","eng","77a","No grammatical evidentials","English",NA,"eng","stan1293"
+"97","epe","77a","Indirect only","Epena Pedee","Harms 1994","sja","epen1239"
+"98","ese","77a","Indirect only","Ese Ejja","Shoemaker and Shoemaker 1967","ese","esee1248"
+"99","est","77a","Indirect only","Estonian","Valmet et al. 1981","est",NA
+"100","eve","77a","Direct and indirect","Evenki","Nedjalkov 1997","evn","even1259"
+"101","ewe","77a","No grammatical evidentials","Ewe","Westermann 1930","ewe","ewee1241"
+"102","fas","77a","Direct and indirect","Fasu","Loeweke and May 1980","faa","fasu1242"
+"103","fij","77a","No grammatical evidentials","Fijian","Schütz 1985","fij","fiji1243"
+"104","fin","77a","Indirect only","Finnish","Kangasniemi 1992","fin","finn1318"
+"105","for","77a","No grammatical evidentials","Fore","Scott 1973","for","fore1270"
+"106","fox","77a","Indirect only","Fox","Jones and Michelson 1911","sac","mesk1242"
+"107","fre","77a","Indirect only","French",NA,"fra","stan1290"
+"108","fur","77a","No grammatical evidentials","Fur","Jakobi 1990","fvr","furr1244"
+"109","gag","77a","Direct and indirect","Gagauz","Menz 2000","gag","gaga1249"
+"110","grf","77a","Indirect only","Garífuna","Taylor 1956b","cab","gari1256"
+"111","gar","77a","Indirect only","Garo","Burling 1961","grt","garo1247"
+"112","geo","77a","Direct and indirect","Georgian","Boeder 2000","kat","nucl1302"
+"113","ger","77a","Indirect only","German","Palmer 1986","deu","stan1295"
+"114","god","77a","Direct and indirect","Godoberi","Kibrik 1996","gdo","ghod1238"
+"115","goo","77a","Indirect only","Gooniyandi","McGregor 1990","gni","goon1238"
+"116","grb","77a","No grammatical evidentials","Grebo","Innes 1966","grj","sout2826"
+"117","grk","77a","No grammatical evidentials","Greek (Modern)","Joseph and Philippaki-Warburton 1987","ell","mode1248"
+"118","gso","77a","Indirect only","Greenlandic (South)","Swadesh 1946a","kal","kala1399"
+"119","grw","77a","Indirect only","Greenlandic (West)","Fortescue 1984","kal","kala1399"
+"120","gjj","77a","Indirect only","Guajajara","Bendor-Samuel 1972","gub","guaj1255"
+"121","gua","77a","Indirect only","Guaraní","Rosbottom 1967","gug","para1311"
+"122","gum","77a","No grammatical evidentials","Gumbaynggir","Eades 1979","kgs","kumb1268"
+"123","gny","77a","Indirect only","Gunya","Breen 1981a","gyy","guny1241"
+"124","guu","77a","No grammatical evidentials","Guugu Yimidhirr","Haviland 1979","kky","gugu1255"
+"125","hai","77a","Direct and indirect","Haida","Swanton 1911b","hax","sout2956"
+"126","hlu","77a","Indirect only","Halkomelem (Upriver)","Galloway 1993","hur","halk1245"
+"127","ham","77a","Indirect only","Hamtai","Oates and Oates 1968","hmt","hamt1247"
+"128","hau","77a","No grammatical evidentials","Hausa","Smirnova 1982","hau","haus1257"
+"129","heb","77a","No grammatical evidentials","Hebrew (Modern)","Glinert 1989","heb","hebr1245"
+"130","hid","77a","Indirect only","Hidatsa","Robinett 1955","hid","hida1246"
+"131","hin","77a","No grammatical evidentials","Hindi","McGregor 1977","hin","hind1269"
+"132","hix","77a","Direct and indirect","Hixkaryana","Derbyshire 1979","hix","hixk1239"
+"133","hmo","77a","No grammatical evidentials","Hmong Njua","Harriehausen 1990","cqd","chua1256"
+"134","hop","77a","Indirect only","Hopi","Whorf 1935","hop","hopi1249"
+"135","hlp","77a","Direct and indirect","Hualapai","Watahomigie et al. 1982","yuf","hava1248"
+"136","htt","77a","No grammatical evidentials","Huitoto","Wise 1999","hto","mini1256"
+"137","hun","77a","No grammatical evidentials","Hungarian","Kenesei et al. 1998","hun","hung1274"
+"138","hzb","77a","Indirect only","Hunzib","van den Berg 1995","huz","hunz1247"
+"139","hup","77a","Direct and indirect","Hupa","Goddard 1911","hup","hupa1239"
+"140","igb","77a","No grammatical evidentials","Igbo","Green and Igwe 1963","ibo","nucl1417"
+"141","ign","77a","No grammatical evidentials","Ignaciano","Ott and Ott 1967b","ign","igna1246"
+"142","ika","77a","Direct and indirect","Ika","Frank 1990","arh","arhu1242"
+"143","imo","77a","No grammatical evidentials","Imonda","Seiler 1985","imn","imon1245"
+"144","ind","77a","No grammatical evidentials","Indonesian","Roels-Sianturi et al. 1990","ind","indo1316"
+"145","ing","77a","Direct and indirect","Ingush","Nichols 1994b","inh","ingu1240"
+"146","iqu","77a","Indirect only","Iquito","Eastman and Eastman 1963","iqu","iqui1243"
+"147","irq","77a","No grammatical evidentials","Iraqw","Mous 1993","irk","iraq1241"
+"148","iri","77a","No grammatical evidentials","Irish","Ó Siadhail 1989","gle","iris1253"
+"149","ite","77a","No grammatical evidentials","Itelmen","Georg and Volodin 1999","itl","itel1242"
+"150","ito","77a","Indirect only","Itonama","Camp and Liccardi 1967","ito","iton1250"
+"151","itz","77a","Indirect only","Itzaj","Hofling 1991","itz","itza1241"
+"152","jak","77a","Indirect only","Jakaltek","Craig 1977","jac","popt1235"
+"153","jmm","77a","Direct and indirect","Jamamadi","Derbyshire 1986","jaa","jama1261"
+"154","jpn","77a","Indirect only","Japanese","Martin 1975","jpn","nucl1643"
+"155","jaq","77a","Direct and indirect","Jaqaru","Hardman 1986","jqr","jaqa1244"
+"156","jem","77a","Indirect only","Jemez","Yumitani 1998","tow","jeme1245"
+"157","juh","77a","No grammatical evidentials","Ju|'hoan","Snyman 1970","ktz","juho1239"
+"158","kng","77a","Indirect only","Kaingang","Wiesemann 1972","kgp","kain1272"
+"159","klh","77a","Direct and indirect","Kalasha","Bashir 1989","kls","kala1372"
+"160","kls","77a","No grammatical evidentials","Kalispel","Vogt 1940","fla","kali1308"
+"161","kmk","77a","Indirect only","Kalmyk","Todaeva 1968","xal","kalm1243"
+"162","kma","77a","Indirect only","Kamaiurá","Seki 1990","kay","kama1373"
+"163","knd","77a","Indirect only","Kannada","Sridhar 1990","kan","nucl1305"
+"164","knr","77a","No grammatical evidentials","Kanuri","Hutchison 1981","knc","cent2050"
+"165","kpm","77a","No grammatical evidentials","Kapampangan","Mirikitani 1972","pam","pamp1243"
+"166","krk","77a","Indirect only","Karok","Harrington 1931","kyh","karo1304"
+"167","ksh","77a","Direct and indirect","Kashaya","Oswalt 1986","kju","kash1280"
+"168","kto","77a","Direct and indirect","Kato","Goddard 1912","ktw","kato1244"
+"169","kws","77a","Indirect only","Kawaiisu","Zigmond et al. 1990-1991","xaw","kawa1283"
+"170","kyl","77a","Direct and indirect","Kayah Li (Eastern)","Solnit 1997","eky","east2342"
+"171","kay","77a","Direct and indirect","Kayardild","Evans 1995","gyd","kaya1319"
+"172","ker","77a","No grammatical evidentials","Kera","Ebert 1979","ker","kera1255"
+"173","ket","77a","No grammatical evidentials","Ket","Werner 1997a","ket","kett1243"
+"174","kew","77a","Direct and indirect","Kewa","Franklin 1971","kew","west2599"
+"175","khl","77a","No grammatical evidentials","Khalaj","Kiral 2000","klj","turk1303"
+"176","kha","77a","Direct and indirect","Khalkha","Street 1963","khk","halh1238"
+"177","khs","77a","No grammatical evidentials","Khasi","Nagaraja 1985","kha","khas1269"
+"178","khm","77a","No grammatical evidentials","Khmer","Jacob 1968","khm","cent1989"
+"179","kmu","77a","No grammatical evidentials","Khmu'","Premsrirat 1987","kjg","khmu1256"
+"180","kho","77a","No grammatical evidentials","Khoekhoe","Hagman 1977","naq","nama1264"
+"181","khw","77a","Direct and indirect","Khowar","Bashir 1989","khw","khow1242"
+"182","kic","77a","Indirect only","Kickapoo","Voorhis 1974","kic","kick1244"
+"183","klv","77a","No grammatical evidentials","Kilivila","Senft 1986","kij","kili1267"
+"184","kio","77a","Indirect only","Kiowa","Watkins 1984","kio","kiow1266"
+"185","krb","77a","No grammatical evidentials","Kiribati","Groves et al. 1985","gil","gilb1244"
+"186","koa","77a","Direct and indirect","Koasati","Kimball 1991","cku","koas1236"
+"187","kob","77a","No grammatical evidentials","Kobon","Davies 1981b","kpw","kobo1249"
+"188","kod","77a","Direct and indirect","Kodava","Ebert 1996","kfa","koda1255"
+"189","kol","77a","No grammatical evidentials","Kolami","Emeneau 1955","kfb","nort2699"
+"190","kzy","77a","Direct and indirect","Komi-Zyrian","Leinonen 2000","kpv","komi1268"
+"191","kon","77a","No grammatical evidentials","Kongo","Bentley 1887","kng","koon1244"
+"192","kor","77a","Indirect only","Korean","Chang 1996","kor","kore1280"
+"193","kje","77a","Direct and indirect","Koreguaje","Cook and Criswell 1993","coe","kore1283"
+"194","kfe","77a","No grammatical evidentials","Koromfe","Rennison 1997","kfz","koro1298"
+"195","kse","77a","No grammatical evidentials","Koyraboro Senni","Heath 1999a","ses","koyr1242"
+"196","kro","77a","No grammatical evidentials","Krongo","Reh 1985","kgo","kron1241"
+"197","knm","77a","No grammatical evidentials","Kunama","Bender 1996","kun","kuna1268"
+"198","kji","77a","Direct and indirect","Kurmanji","Bulut 2000","kmr","nort2641"
+"199","kut","77a","No grammatical evidentials","Kutenai","Garvin 1948b","kut","kute1249"
+"200","kwk","77a","Indirect only","Kwakw'ala","Boas 1911a","kwk","kwak1269"
+"201","lad","77a","Direct and indirect","Ladakhi","Koshal 1979","lbj","lada1244"
+"202","lah","77a","Indirect only","Lahu","Matisoff 1973","lhu","lahu1253"
+"203","lak","77a","No grammatical evidentials","Lak","Murkelinskij 1967","lbe","lakk1252"
+"204","lkt","77a","Indirect only","Lakhota","Boas and Swanton 1911","lkt","lako1247"
+"205","lan","77a","No grammatical evidentials","Lango","Noonan 1992","laj","lang1324"
+"206","lat","77a","Indirect only","Latvian","Mathiassen 1997","lav","latv1249"
+"207","lav","77a","No grammatical evidentials","Lavukaleve","Terrill 1999","lvk","lavu1241"
+"208","laz","77a","Direct and indirect","Laz","Holisky 1991b","lzz","lazz1240"
+"209","leg","77a","Direct and indirect","Lega","Botne 1995","lea","lega1249"
+"210","lep","77a","No grammatical evidentials","Lepcha","Mainwaring 1876","lep","lepc1244"
+"211","lez","77a","Indirect only","Lezgian","Haspelmath 1993","lez","lezg1247"
+"212","lim","77a","Indirect only","Limbu","van Driem 1987","lif","limb1266"
+"213","lit","77a","Indirect only","Lithuanian","Mathiassen 1996","lit","lith1251"
+"214","kkv","77a","No grammatical evidentials","Lusi","Counts 1969","khl","lusi1240"
+"215","luv","77a","No grammatical evidentials","Luvale","Horton 1949","lue","luva1239"
+"216","mab","77a","No grammatical evidentials","Maba","Trenga 1947","mde","maba1277"
+"217","mch","77a","No grammatical evidentials","Machiguenga","Snell and Wise 1963","mcb","mach1267"
+"218","mac","77a","No grammatical evidentials","Macushi","Abbott 1991","mbc","macu1259"
+"219","mne","77a","Indirect only","Maidu (Northeast)","Dixon 1911","nmu","nort2952"
+"220","mak","77a","Direct and indirect","Makah","Jacobsen 1986","myh","maka1318"
+"221","mal","77a","No grammatical evidentials","Malagasy","Rabenilaina 1983","plt","plat1254"
+"222","mam","77a","Indirect only","Mam","England 1983","mvc","mamc1234"
+"223","mdn","77a","Indirect only","Mandan","Kennard 1936","mhq","mand1446"
+"224","mnd","77a","No grammatical evidentials","Mandarin","Li and Thompson 1981","cmn","mand1415"
+"225","myi","77a","Indirect only","Mangarrayi","Merlan 1982","mpc","mang1381"
+"226","mao","77a","No grammatical evidentials","Maori","Bauer 1993","mri","maor1246"
+"227","map","77a","No grammatical evidentials","Mapudungun","Smeets 1989","arn","mapu1245"
+"228","mku","77a","No grammatical evidentials","Maranungku","Tryon 1970b","zmr","mara1386"
+"229","mny","77a","No grammatical evidentials","Margany","Breen 1981a","zmc","marg1253"
+"230","mar","77a","Direct and indirect","Maricopa","Gordon 1986","mrc","mari1440"
+"231","mrd","77a","Indirect only","Marind","Drabbe 1955","mrz","nucl1622"
+"232","mrt","77a","Indirect only","Martuthunira","Dench 1995","vma","mart1255"
+"233","mtl","77a","Indirect only","Mattole","Li 1930","mvb","matt1238"
+"234","mau","77a","No grammatical evidentials","Maung","Capell and Hinch 1970","mph","maun1240"
+"235","may","77a","No grammatical evidentials","Maybrat","Dol 1999","ayz","maib1239"
+"236","mei","77a","Direct and indirect","Meithei","Bhat and Ningomba 1997","mni","mani1292"
+"237","mgl","77a","Direct and indirect","Mingrelian","Harris 1991","xmf","ming1252"
+"238","mss","77a","Indirect only","Miwok (Southern Sierra)","Broadbent 1964","skd","sout2985"
+"239","mth","77a","Indirect only","Mixe (Tlahuitoltepec)","Lyon 1967","mxp","tlah1239"
+"240","mxt","77a","No grammatical evidentials","Mixtec (Ayutla)","Hills 1990","miy","ayut1236"
+"241","mxc","77a","No grammatical evidentials","Mixtec (Chalcatongo)","Macaulay 1996","mig","sanm1295"
+"242","mxz","77a","No grammatical evidentials","Mixtec (Coatzospan)","Small 1990","miz","coat1241"
+"243","mja","77a","Indirect only","Mixtec (Jamiltepec)","Johnson 1988","mxt","jami1235"
+"244","mxo","77a","Indirect only","Mixtec (Ocotepec)","Alexander 1988","mie","ocot1243"
+"245","mxs","77a","Indirect only","Mixtec (Silacayoapan)","Shields 1988","mks","sila1250"
+"246","moh","77a","Indirect only","Mohawk","Mithun 1986","moh","moha1258"
+"247","mtg","77a","Indirect only","Montagnais","James et al. 1997","moe","mont1268"
+"248","mov","77a","No grammatical evidentials","Movima","Judy and Judy 1967","mzp","movi1243"
+"249","mun","77a","No grammatical evidentials","Mundari","Osada 1992","unr","mund1320"
+"250","mse","77a","No grammatical evidentials","Munsee","Goddard 1979","umu","muns1251"
+"251","mrl","77a","No grammatical evidentials","Murle","Lyth 1971","mur","murl1244"
+"252","nhh","77a","No grammatical evidentials","Nahuatl (Huasteca)","Beller and Beller 1979","nhe","east2538"
+"253","nmi","77a","Indirect only","Nahuatl (Mecayapan Isthmus)","Law 1958","nhx","isth1242"
+"254","nhm","77a","Indirect only","Nahuatl (Michoacán)","Sischo 1979","ncl","mich1245"
+"255","nmp","77a","No grammatical evidentials","Nahuatl (Milpa Alta)","Whorf 1946b",NA,NA
+"256","nhn","77a","Indirect only","Nahuatl (North Puebla)","Brockway 1979","ncj","nort2957"
+"257","nht","77a","Indirect only","Nahuatl (Tetelcingo)","Tuggy 1979","nhg","tete1251"
+"258","nav","77a","Indirect only","Navajo","Willie 1996;Willie 1991","nav","nava1243"
+"259","ndy","77a","No grammatical evidentials","Ndyuka","Huttar and Huttar 1994","djk","ndyu1242"
+"260","nen","77a","Direct and indirect","Nenets","Perrot 1996","yrk","nene1249"
+"261","nep","77a","Indirect only","Nepali","Michailovsky 1996","nep","east1436"
+"262","nev","77a","Indirect only","Nevome","Shaul 1986","ood","toho1245"
+"263","nwd","77a","Indirect only","Newar (Dolakha)","Genetti 1986","new","newa1246"
+"264","nez","77a","No grammatical evidentials","Nez Perce","Aoki 1970","nez","nezp1238"
+"265","nti","77a","No grammatical evidentials","Ngiti","Kutsch Lojenga 1994","niy","ngit1239"
+"266","ngi","77a","Direct and indirect","Ngiyambaa","Donaldson 1980","wyb","wang1291"
+"267","nsn","77a","Indirect only","Nisenan","Eatough 1999","nsz","nise1244"
+"268","nit","77a","Indirect only","Nitinaht","Carlson and Thomas 1979","dtd","diti1235"
+"269","niv","77a","Indirect only","Nivkh","Panfilov 1968","niv","gily1242"
+"270","nko","77a","No grammatical evidentials","Nkore-Kiga","Taylor 1985","cgg","chig1238"
+"271","nbd","77a","No grammatical evidentials","Nubian (Dongolese)","Armbruster 1960","dgl",NA
+"272","nug","77a","No grammatical evidentials","Nunggubuyu","Heath 1984","nuy","nung1290"
+"273","nuu","77a","Indirect only","Nuuchahnulth","Swadesh 1939","noo","noot1239"
+"274","nya","77a","No grammatical evidentials","Nyawaygi","Dixon 1983","nyt","nyaw1247"
+"275","oji","77a","No grammatical evidentials","Ojibwa (Eastern)","Bloomfield 1957","ojg","east2542"
+"276","omh","77a","Indirect only","Omaha","Boas and Swanton 1911","oma","omah1247"
+"277","ond","77a","Indirect only","Oneida","Mithun 1986","one","onei1249"
+"278","ood","77a","Indirect only","O'odham","Saxton 1982","ood","toho1245"
+"279","orh","77a","No grammatical evidentials","Oromo (Harar)","Owens 1985","hae","east2652"
+"280","otm","77a","Indirect only","Otomí (Mezquital)","Hess 1968","ote","mezq1235"
+"281","pms","77a","No grammatical evidentials","Paamese","Crowley 1982","pma","paam1238"
+"282","pae","77a","Indirect only","Páez","Slocum 1986","pbb","paez1247"
+"283","pno","77a","Indirect only","Paiute (Northern)","Snapp et al. 1982","pao","nort2954"
+"284","put","77a","Indirect only","Paiute (Southern)","Sapir 1930","ute","utes1238"
+"285","pai","77a","Indirect only","Paiwan","Egli 1990","pwn","paiw1248"
+"286","plk","77a","No grammatical evidentials","Palikur","Derbyshire 1986","plu","pali1279"
+"287","prc","77a","Indirect only","Paresi","Derbyshire 1986","pab","pare1272"
+"288","psm","77a","Indirect only","Passamaquoddy-Maliseet","Leavitt 1996","pqm","male1292"
+"289","ptw","77a","Indirect only","Patwin","Whistler 1986b","pwu",NA
+"290","pau","77a","Indirect only","Paumarí","Chapman and Derbyshire 1991","pad","paum1247"
+"291","pwn","77a","Indirect only","Pawnee","Parks 1976","paw","pawn1254"
+"292","pem","77a","No grammatical evidentials","Pemon","de Armellada 1944","aoc","pemo1248"
+"293","prs","77a","Direct and indirect","Persian","Windfuhr 1982","pes","west2369"
+"294","pip","77a","No grammatical evidentials","Pipil","Campbell 1985","ppl","pipi1250"
+"295","prh","77a","Direct and indirect","Pirahã","Everett 1986","myp","pira1253"
+"296","pir","77a","Indirect only","Piro","Matteson 1965","pib","yine1238"
+"297","pit","77a","Indirect only","Pitjantjatjara","Bowe 1990","pjt","pitj1243"
+"298","ppi","77a","No grammatical evidentials","Pitta Pitta","Blake 1979c","pit","pitt1247"
+"299","poh","77a","No grammatical evidentials","Pohnpeian","Rehg 1981","pon","pohn1238"
+"300","pme","77a","Direct and indirect","Pomo (Eastern)","McLendon 1975","peb","east2545"
+"301","pmn","77a","Direct and indirect","Pomo (Northern)","O'Connor 1992","pej","nort2966"
+"302","pso","77a","Direct and indirect","Pomo (Southeastern)","Moshinsky 1974","pom","sout2982"
+"303","pot","77a","Indirect only","Potawatomi","Hockett 1948","pot","pota1247"
+"304","pum","77a","Direct and indirect","Pumi","Sun 1993","pmi","nort2723"
+"305","pur","77a","Indirect only","Purépecha","Foster 1969","tsz","pure1242"
+"306","qaw","77a","No grammatical evidentials","Qawasqar","Clairis 1985","alc","qawa1238"
+"307","que","77a","Direct and indirect","Quechan","Halpern 1947","yum","quec1382"
+"308","qhu","77a","Direct and indirect","Quechua (Huallaga)","Weber 1989","qvh","huam1248"
+"309","qim","77a","Direct and indirect","Quechua (Imbabura)","Cole 1982","qvi","imba1240"
+"310","qui","77a","Indirect only","Quileute","Andrade 1933","qui","quil1240"
+"311","ram","77a","No grammatical evidentials","Rama","Grinevald n.d.","rma","rama1270"
+"312","rap","77a","No grammatical evidentials","Rapanui","Du Feu 1996","rap","rapa1244"
+"313","ret","77a","Direct and indirect","Retuarã","Strom 1992",NA,NA
+"314","rom","77a","No grammatical evidentials","Romanian","Mallinson 1986",NA,NA
+"315","rus","77a","No grammatical evidentials","Russian",NA,NA,NA
+"316","rut","77a","Indirect only","Rutul","Alekseev 1994b",NA,NA
+"317","slr","77a","Direct and indirect","Salar","Dwyer 2000",NA,NA
+"318","sba","77a","No grammatical evidentials","Sáliba (in Colombia)","Suarez 1977",NA,NA
+"319","san","77a","No grammatical evidentials","Sango","Samarin 1967b",NA,NA
+"320","snm","77a","Direct and indirect","Sanuma","Borgman 1990",NA,NA
+"321","src","77a","Indirect only","Sarcee","Cook 1984",NA,NA
+"322","say","77a","No grammatical evidentials","Sayula Popoluca","Clark 1962",NA,NA
+"323","slp","77a","No grammatical evidentials","Selepet","McElhanon 1972",NA,NA
+"324","sel","77a","No grammatical evidentials","Selknam","Najlis 1973",NA,NA
+"325","snt","77a","No grammatical evidentials","Sentani","Cowan 1965",NA,NA
+"326","srr","77a","Indirect only","Serrano","Hill 1967",NA,NA
+"327","she","77a","Direct and indirect","Sherpa","Woodbury 1986",NA,NA
+"328","shk","77a","Indirect only","Shipibo-Konibo","Valenzuela 1997",NA,NA
+"329","shu","77a","Indirect only","Shuswap","Kuipers 1974",NA,NA
+"330","sin","77a","Direct and indirect","Siona","Wheeler 1987",NA,NA
+"331","srn","77a","Indirect only","Sirionó","Priest et al. 1961",NA,NA
+"332","siu","77a","No grammatical evidentials","Siuslaw","Frachtenberg 1922b",NA,NA
+"333","sla","77a","Indirect only","Slave","Rice 1989",NA,NA
+"334","spa","77a","No grammatical evidentials","Spanish","Butt and Benjamin 2000",NA,NA
+"335","squ","77a","Direct and indirect","Squamish","Jacobs 1996",NA,NA
+"336","sre","77a","No grammatical evidentials","Sre","Manley 1972",NA,NA
+"337","sue","77a","Indirect only","Suena","Wilson 1974",NA,NA
+"338","sup","77a","No grammatical evidentials","Supyire","Carlson 1994",NA,NA
+"339","swa","77a","No grammatical evidentials","Swahili","Ashton 1947",NA,NA
+"340","swe","77a","Indirect only","Swedish","Dahl 1985",NA,NA
+"341","tab","77a","No grammatical evidentials","Taba","Bowden 1997a",NA,NA
+"342","tac","77a","Indirect only","Tacana","Ottaviano and Ottaviano 1967",NA,NA
+"343","tag","77a","Indirect only","Tagalog","Ramos and Morales Goulet 1981",NA,NA
+"344","tkl","77a","Indirect only","Takelma","Sapir 1922b",NA,NA
+"345","tml","77a","Indirect only","Tamil","Asher 1982",NA,NA
+"346","twe","77a","Direct and indirect","Tarahumara (Western)","Burgess 1984",NA,NA
+"347","tar","77a","Direct and indirect","Tariana","Aikhenvald and Dixon 1998",NA,NA
+"348","tsm","77a","No grammatical evidentials","Tasmanian","Crowley and Dixon 1981",NA,NA
+"349","tau","77a","No grammatical evidentials","Tauya","MacDonald 1990",NA,NA
+"350","tpn","77a","Indirect only","Tepehuan (Northern)","Bascom 1982",NA,NA
+"351","trn","77a","Indirect only","Terêna","Derbyshire 1986",NA,NA
+"352","tew","77a","Indirect only","Tewa (Arizona)","Kroskrity 1993",NA,NA
+"353","trg","77a","No grammatical evidentials","Tewa (Rio Grande)","Speirs 1966",NA,NA
+"354","tha","77a","No grammatical evidentials","Thai","Burusphat 1991",NA,NA
+"355","thk","77a","No grammatical evidentials","Thakali","Georg 1996",NA,NA
+"356","til","77a","No grammatical evidentials","Tillamook","Edel 1939",NA,NA
+"357","tmc","77a","No grammatical evidentials","Timucua","Granberry 1993",NA,NA
+"358","twn","77a","Indirect only","Tiwa (Northern)","Trager 1946",NA,NA
+"359","tws","77a","No grammatical evidentials","Tiwa (Southern)","Leap 1970",NA,NA
+"360","tiw","77a","No grammatical evidentials","Tiwi","Osborne 1974",NA,NA
+"361","tlp","77a","No grammatical evidentials","Tlapanec","Radin 1935",NA,NA
+"362","tli","77a","No grammatical evidentials","Tlingit","Swanton 1911a",NA,NA
+"363","ton","77a","Indirect only","Tonkawa","Hoijer 1946b",NA,NA
+"364","toq","77a","No grammatical evidentials","Toqabaqita","Lichtenberk 1987",NA,NA
+"365","txj","77a","No grammatical evidentials","Totonac (Xicotepec de Juárez)","Reid et al. 1968",NA,NA
+"366","tru","77a","Indirect only","Trumai","Guirardello 1999a",NA,NA
+"367","tsi","77a","Indirect only","Tsimshian (Coast)","Boas 1911c",NA,NA
+"368","ttu","77a","Direct and indirect","Tsova-Tush","Holisky and Gagua 1994",NA,NA
+"369","tuc","77a","Direct and indirect","Tucano","West 1980",NA,NA
+"370","tuk","77a","No grammatical evidentials","Tukang Besi","Donohue 1999a",NA,NA
+"371","tsh","77a","Indirect only","Tümpisa Shoshone","Dayley 1989a",NA,NA
+"372","tnb","77a","No grammatical evidentials","Tunebo","Headland 1997",NA,NA
+"373","tun","77a","Indirect only","Tunica","Haas 1940",NA,NA
+"374","tur","77a","Direct and indirect","Turkish","Aksu-Koç and Slobin 1986",NA,NA
+"375","tus","77a","No grammatical evidentials","Tuscarora","Mithun 1986",NA,NA
+"376","tuy","77a","Direct and indirect","Tuyuca","Barnes 1984",NA,NA
+"377","tzo","77a","Indirect only","Tzotzil","Cowan 1969",NA,NA
+"378","tzu","77a","Indirect only","Tzutujil","Dayley 1985",NA,NA
+"379","una","77a","No grammatical evidentials","Una","Louwerse 1988",NA,NA
+"380","ung","77a","No grammatical evidentials","Ungarinjin","Rumsey 1982",NA,NA
+"381","uhi","77a","No grammatical evidentials","Uradhi","Crowley 1983",NA,NA
+"382","urk","77a","Indirect only","Urubú-Kaapor","Kakumasu 1986",NA,NA
+"383","usa","77a","No grammatical evidentials","Usan","Reesink 1987",NA,NA
+"384","vie","77a","No grammatical evidentials","Vietnamese","Nguyen 1997",NA,NA
+"385","wai","77a","Indirect only","Wai Wai","Hawkins 1998",NA,NA
+"386","wam","77a","No grammatical evidentials","Wambaya","Nordlinger 1998",NA,NA
+"387","wao","77a","Indirect only","Waorani","Wilkendorf 1988",NA,NA
+"388","wra","77a","Indirect only","Warao","Osborn 1967",NA,NA
+"389","wrd","77a","No grammatical evidentials","Wardaman","Merlan 1994",NA,NA
+"390","wrk","77a","No grammatical evidentials","Warekena","Aikhenvald 1998",NA,NA
+"391","war","77a","No grammatical evidentials","Wari'","Everett and Kern 1997",NA,NA
+"392","wrg","77a","No grammatical evidentials","Warrgamay","Dixon 1981",NA,NA
+"393","wat","77a","No grammatical evidentials","Watjarri","Douglas 1981",NA,NA
+"394","wur","77a","Indirect only","Waurá","Derbyshire 1986",NA,NA
+"395","way","77a","Indirect only","Wayampi","Dooley 1990",NA,NA
+"396","wyn","77a","No grammatical evidentials","Wayana","Jackson 1972",NA,NA
+"397","wch","77a","No grammatical evidentials","Wichí","Hunt 1940",NA,NA
+"398","wic","77a","Indirect only","Wichita","Rood 1976",NA,NA
+"399","win","77a","Direct and indirect","Wintu","Pitkin 1984",NA,NA
+"400","wiy","77a","No grammatical evidentials","Wiyot","Teeter 1964",NA,NA
+"401","wol","77a","No grammatical evidentials","Woleaian","Sohn 1975",NA,NA
+"402","yag","77a","No grammatical evidentials","Yagua","Payne and Payne 1990",NA,NA
+"403","ykt","77a","Direct and indirect","Yakut","Buder 1989",NA,NA
+"404","yam","77a","Indirect only","Yaminahua","Eakin 1991",NA,NA
+"405","yaq","77a","Indirect only","Yaqui","Dedrick and Casad 1999",NA,NA
+"406","ywl","77a","No grammatical evidentials","Yawelmani","Newman 1946",NA,NA
+"407","yyg","77a","No grammatical evidentials","Yaygir","Crowley 1979",NA,NA
+"408","yid","77a","No grammatical evidentials","Yidiny","Dixon 1977a",NA,NA
+"409","yim","77a","No grammatical evidentials","Yimas","Foley 1991",NA,NA
+"410","yor","77a","No grammatical evidentials","Yoruba","Bamgbose 1966",NA,NA
+"411","yuc","77a","No grammatical evidentials","Yuchi","Wagner 1933-1938",NA,NA
+"412","yko","77a","Indirect only","Yukaghir (Kolyma)","Maslova 1999",NA,NA
+"413","yuk","77a","No grammatical evidentials","Yukulta","Keen 1983",NA,NA
+"414","ypk","77a","Indirect only","Yup'ik (Central)","Reed et al. 1977",NA,NA
+"415","yur","77a","No grammatical evidentials","Yurok","Robins 1958",NA,NA
+"416","zqc","77a","Indirect only","Zoque (Copainalá)","Wonderly 1951b",NA,NA
+"417","zul","77a","No grammatical evidentials","Zulu","Doke 1927",NA,NA
+"418","zun","77a","No grammatical evidentials","Zuni","Newman 1965",NA,NA
+"419","abi","78a","No grammatical evidentials","Abipón","Najlis 1966","axb","abip1241"
+"420","abk","78a","Verbal affix or clitic","Abkhaz","Hewitt 1979","abk","abkh1244"
+"421","acm","78a","Verbal affix or clitic","Achumawi","de Angulo and Freeland 1931","acv","achu1247"
+"422","aco","78a","Verbal affix or clitic","Acoma","Miller 1965","kjq","west2632"
+"423","afr","78a","Separate particle","Afrikaans",NA,"afr","afri1274"
+"424","agr","78a","No grammatical evidentials","Aguaruna","Larsen 1963","agr","agua1253"
+"425","ain","78a","Verbal affix or clitic","Ainu","Shibatani 1990","ain","ainu1240"
+"426","akh","78a","Verbal affix or clitic","Akha","Thurgood 1986","ahk","akha1245"
+"427","abm","78a","Verbal affix or clitic","Alabama","Sylestine et al. 1993","akz","alab1237"
+"428","ala","78a","No grammatical evidentials","Alamblak","Bruce 1984","amp","alam1246"
+"429","alw","78a","No grammatical evidentials","Alawa","Sharpe 1972","alh","alaw1244"
+"430","alb","78a","Verbal affix or clitic","Albanian","Friedman 1986","aln","gheg1238"
+"431","amc","78a","Verbal affix or clitic","Amahuaca","Sparing-Chavez 1998","amc","amah1246"
+"432","amd","78a","Verbal affix or clitic","Amdo","Sun 1993","adx","amdo1237"
+"433","ame","78a","No grammatical evidentials","Amele","Roberts 1987","aey","amel1241"
+"434","amu","78a","Verbal affix or clitic","Amuesha","Wise 1986","ame","yane1238"
+"435","adk","78a","Verbal affix or clitic","Andoke","Landaburu 1979","ano","ando1256"
+"436","agt","78a","No grammatical evidentials","Anguthimri","Crowley 1981","lnj","leni1238"
+"437","apc","78a","Verbal affix or clitic","Apache (Chiricahua)","Hoijer 1946a","apm","mesc1238"
+"438","apl","78a","Separate particle","Apalaí","Koehn and Koehn 1986","apy","apal1257"
+"439","apu","78a","Verbal affix or clitic","Apurinã","Facundes 2000","apu","apur1254"
+"440","aeg","78a","No grammatical evidentials","Arabic (Egyptian)","Gary and Gamal-Eldin 1982","arz","egyp1253"
+"441","arg","78a","Verbal affix or clitic","Arabic (Gulf)","Holes 1990","afb","gulf1241"
+"442","ana","78a","Separate particle","Araona","Pitman 1980","aro","arao1248"
+"443","aho","78a","Verbal affix or clitic","Arapaho","Salzmann 1967","arp","arap1274"
+"444","arp","78a","No grammatical evidentials","Arapesh (Mountain)","Conrad and Wogiga 1991","ape","buki1249"
+"445","arc","78a","Verbal affix or clitic","Archi","Kibrik 1994a","aqc","arch1244"
+"446","akr","78a","Verbal affix or clitic","Arikara","Merlan 1975","ari","arik1262"
+"447","arw","78a","Part of the tense system","Armenian (Western)","Donabédian 1996","hye","nucl1235"
+"448","asm","78a","Verbal affix or clitic","Asmat","Voorhoeve 1965","tml","tamn1235"
+"449","awp","78a","No grammatical evidentials","Awa Pit","Curnow 1997","kwi","awac1239"
+"450","aym","78a","Verbal affix or clitic","Aymara (Central)","Hardman 1986","ayc","sout2996"
+"451","baa","78a","No grammatical evidentials","Barai","Olson 1973","bbb","nucl1630"
+"452","brs","78a","Part of the tense system","Barasano","Jones and Jones 1991","bsn","bara1380"
+"453","bsq","78a","Separate particle","Basque","Saltarelli et al. 1988","eus","basq1248"
+"454","bkr","78a","No grammatical evidentials","Batak (Karo)","Woollams 1996","btx","bata1293"
+"455","baq","78a","Separate particle","Baure","Baptista and Wallin 1967","brg","baur1253"
+"456","baw","78a","No grammatical evidentials","Bawm","Reichle 1981","bgr","bawm1236"
+"457","bej","78a","Separate particle","Beja","Dahl 1984","bej","beja1238"
+"458","bco","78a","Verbal affix or clitic","Bella Coola","Newman 1969","blc","bell1243"
+"459","beb","78a","No grammatical evidentials","Benabena","Young 1971","bef","bena1264"
+"460","bse","78a","No grammatical evidentials","Berber (Ayt Seghrouchen Middle Atlas)","Bentolila 1981","tzm","cent2194"
+"461","blx","78a","Separate particle","Biloxi","Einaudi 1976","bll","bilo1248"
+"462","bla","78a","No grammatical evidentials","Blackfoot","Frantz 1991","bla","siks1238"
+"463","bor","78a","Verbal affix or clitic","Bora","Thiesen 1996","boa","bora1263"
+"464","brh","78a","No grammatical evidentials","Brahui","Andronov 1980","brh","brah1256"
+"465","bre","78a","No grammatical evidentials","Breton","Press 1986","bre","bret1244"
+"466","bdk","78a","No grammatical evidentials","Budukh","Alekseev 1994a","bdk","budu1248"
+"467","bul","78a","Part of the tense system","Bulgarian","Friedman 1986","bul","bulg1262"
+"468","brm","78a","No grammatical evidentials","Burmese","Bernot 1980","mya","nucl1310"
+"469","bur","78a","No grammatical evidentials","Burushaski","Lorimer 1935","bsk","buru1296"
+"470","cah","78a","Verbal affix or clitic","Cahuilla","Seiler 1977","chl","cahu1264"
+"471","cax","78a","No grammatical evidentials","Campa (Axininca)","Payne 1981","cni","asha1243"
+"472","can","78a","No grammatical evidentials","Candoshi","Anderson and Wise 1963","cbu","cand1248"
+"473","ckr","78a","No grammatical evidentials","Canela-Krahô","Popjes and Popjes 1986","ram","cane1242"
+"474","cnt","78a","Separate particle","Cantonese","Matthews 1997","yue","yuec1235"
+"475","crp","78a","Part of the tense system","Carapana","Metzger 1981","cbc","cara1272"
+"476","car","78a","Part of the tense system","Carib","Hoff 1986","car","gali1262"
+"477","cyv","78a","No grammatical evidentials","Cayuvava","Key 1967","cyb","cayu1262"
+"478","cbo","78a","Separate particle","Chácobo","Prost 1967","cao","chac1251"
+"479","cha","78a","Separate particle","Chamorro","Topping 1973","cha","cham1312"
+"480","cco","78a","Verbal affix or clitic","Chasta Costa","Sapir 1914",NA,NA
+"481","cso","78a","No grammatical evidentials","Chatino (Sierra Occidental)","Pride 1965","ctp","west2644"
+"482","chc","78a","Part of the tense system","Chechen","Nichols 1994a","che","chec1245"
+"483","chl","78a","Verbal affix or clitic","Chehalis (Upper)","Kinkade 1963","cjh","uppe1439"
+"484","cmh","78a","No grammatical evidentials","Chemehuevi","Press 1979","ute","utes1238"
+"485","che","78a","Verbal affix or clitic","Cherokee","Reyburn 1954a","chr","cher1273"
+"486","cjo","78a","No grammatical evidentials","Chichimeca-Jonaz","de Angulo 1932","pei","chic1272"
+"487","ccm","78a","Verbal affix or clitic","Chinantec (Comaltepec)","Anderson 1989","cco","coma1246"
+"488","cle","78a","No grammatical evidentials","Chinantec (Lealao)","Rupp 1989","cle","leal1235"
+"489","ckl","78a","No grammatical evidentials","Chinook (Lower)","Boas 1911b","chh","chin1286"
+"490","cku","78a","Verbal affix or clitic","Chinook (Upper)","Silverstein 1978","wac","wasc1239"
+"491","chp","78a","Verbal affix or clitic","Chipewyan","Li 1946","chp","chip1261"
+"492","ctm","78a","Separate particle","Chitimacha","Swadesh 1946b","ctm","chit1248"
+"493","cct","78a","Verbal affix or clitic","Choctaw","Broadwell 1987","cho","choc1276"
+"494","crt","78a","No grammatical evidentials","Chorote","Gerzenstein 1978","crq","iyow1239"
+"495","chr","78a","No grammatical evidentials","Chrau","Thomas 1971","crw","chra1242"
+"496","chk","78a","No grammatical evidentials","Chukchi","Bogoras 1922","ckt","chuk1273"
+"497","coc","78a","Verbal affix or clitic","Cocama","Faust 1972","cod","coca1259"
+"498","coe","78a","Separate particle","Coeur d'Alene","Reichard 1933-1938","crd","coeu1236"
+"499","cmn","78a","Verbal affix or clitic","Comanche","Charney 1993","com","coma1245"
+"500","coo","78a","Separate particle","Coos (Hanis)","Frachtenberg 1922a","csz","coos1249"
+"501","cor","78a","Separate particle","Cora","Casad 1984","crn","elna1235"
+"502","dag","78a","No grammatical evidentials","Daga","Murane 1974","dgz","daga1275"
+"503","dni","78a","Separate particle","Dani (Lower Grand Valley)","Bromley 1981","dni","lowe1415"
+"504","den","78a","Verbal affix or clitic","Dení","Derbyshire 1986","dny","deni1241"
+"505","die","78a","No grammatical evidentials","Diegueño (Mesa Grande)","Langdon 1970","dih","kumi1248"
+"506","dio","78a","No grammatical evidentials","Diola-Fogny","Sapir 1965","dyo","jola1263"
+"507","diy","78a","Mixed","Diyari","Austin 1981","dif","dier1241"
+"508","djp","78a","No grammatical evidentials","Djapu","Morphy 1983","duj","dhuw1249"
+"509","dre","78a","No grammatical evidentials","Drehu","Tryon 1967a","dhv","dehu1237"
+"510","dmi","78a","Separate particle","Dumi","van Driem 1993","dus","dumi1241"
+"511","dut","78a","Modal morpheme","Dutch",NA,"nld","dutc1256"
+"512","dyi","78a","No grammatical evidentials","Dyirbal","Dixon 1972","dbl","dyir1250"
+"513","eka","78a","Part of the tense system","Ekari","Drabbe 1952","ekg","ekar1243"
+"514","eng","78a","No grammatical evidentials","English",NA,"eng","stan1293"
+"515","epe","78a","Separate particle","Epena Pedee","Harms 1994","sja","epen1239"
+"516","ese","78a","Separate particle","Ese Ejja","Shoemaker and Shoemaker 1967","ese","esee1248"
+"517","est","78a","Verbal affix or clitic","Estonian","Valmet et al. 1981","est",NA
+"518","eve","78a","Part of the tense system","Evenki","Nedjalkov 1997","evn","even1259"
+"519","ewe","78a","No grammatical evidentials","Ewe","Westermann 1930","ewe","ewee1241"
+"520","fas","78a","Verbal affix or clitic","Fasu","Loeweke and May 1980","faa","fasu1242"
+"521","fij","78a","No grammatical evidentials","Fijian","Schütz 1985","fij","fiji1243"
+"522","fin","78a","Modal morpheme","Finnish","Kangasniemi 1992","fin","finn1318"
+"523","for","78a","No grammatical evidentials","Fore","Scott 1973","for","fore1270"
+"524","fox","78a","Verbal affix or clitic","Fox","Jones and Michelson 1911","sac","mesk1242"
+"525","fre","78a","Modal morpheme","French",NA,"fra","stan1290"
+"526","fur","78a","No grammatical evidentials","Fur","Jakobi 1990","fvr","furr1244"
+"527","gag","78a","Part of the tense system","Gagauz","Menz 2000","gag","gaga1249"
+"528","grf","78a","Verbal affix or clitic","Garífuna","Taylor 1956b","cab","gari1256"
+"529","gar","78a","Verbal affix or clitic","Garo","Burling 1961","grt","garo1247"
+"530","geo","78a","Mixed","Georgian","Boeder 2000","kat","nucl1302"
+"531","ger","78a","Modal morpheme","German","Palmer 1986","deu","stan1295"
+"532","god","78a","Part of the tense system","Godoberi","Kibrik 1996","gdo","ghod1238"
+"533","goo","78a","Modal morpheme","Gooniyandi","McGregor 1990","gni","goon1238"
+"534","grb","78a","No grammatical evidentials","Grebo","Innes 1966","grj","sout2826"
+"535","grk","78a","No grammatical evidentials","Greek (Modern)","Joseph and Philippaki-Warburton 1987","ell","mode1248"
+"536","gso","78a","Verbal affix or clitic","Greenlandic (South)","Swadesh 1946a","kal","kala1399"
+"537","grw","78a","Verbal affix or clitic","Greenlandic (West)","Fortescue 1984","kal","kala1399"
+"538","gjj","78a","Separate particle","Guajajara","Bendor-Samuel 1972","gub","guaj1255"
+"539","gua","78a","Separate particle","Guaraní","Rosbottom 1967","gug","para1311"
+"540","gum","78a","No grammatical evidentials","Gumbaynggir","Eades 1979","kgs","kumb1268"
+"541","gny","78a","Verbal affix or clitic","Gunya","Breen 1981a","gyy","guny1241"
+"542","guu","78a","No grammatical evidentials","Guugu Yimidhirr","Haviland 1979","kky","gugu1255"
+"543","hai","78a","Part of the tense system","Haida","Swanton 1911b","hax","sout2956"
+"544","hlu","78a","Separate particle","Halkomelem (Upriver)","Galloway 1993","hur","halk1245"
+"545","ham","78a","Separate particle","Hamtai","Oates and Oates 1968","hmt","hamt1247"
+"546","hau","78a","No grammatical evidentials","Hausa","Smirnova 1982","hau","haus1257"
+"547","heb","78a","No grammatical evidentials","Hebrew (Modern)","Glinert 1989","heb","hebr1245"
+"548","hid","78a","Verbal affix or clitic","Hidatsa","Robinett 1955","hid","hida1246"
+"549","hin","78a","No grammatical evidentials","Hindi","McGregor 1977","hin","hind1269"
+"550","hix","78a","Verbal affix or clitic","Hixkaryana","Derbyshire 1979","hix","hixk1239"
+"551","hmo","78a","No grammatical evidentials","Hmong Njua","Harriehausen 1990","cqd","chua1256"
+"552","hop","78a","Separate particle","Hopi","Whorf 1935","hop","hopi1249"
+"553","hlp","78a","Verbal affix or clitic","Hualapai","Watahomigie et al. 1982","yuf","hava1248"
+"554","htt","78a","No grammatical evidentials","Huitoto","Wise 1999","hto","mini1256"
+"555","hun","78a","No grammatical evidentials","Hungarian","Kenesei et al. 1998","hun","hung1274"
+"556","hzb","78a","Part of the tense system","Hunzib","van den Berg 1995","huz","hunz1247"
+"557","hup","78a","Verbal affix or clitic","Hupa","Goddard 1911","hup","hupa1239"
+"558","igb","78a","No grammatical evidentials","Igbo","Green and Igwe 1963","ibo","nucl1417"
+"559","ign","78a","No grammatical evidentials","Ignaciano","Ott and Ott 1967b","ign","igna1246"
+"560","ika","78a","Mixed","Ika","Frank 1990","arh","arhu1242"
+"561","imo","78a","No grammatical evidentials","Imonda","Seiler 1985","imn","imon1245"
+"562","ind","78a","No grammatical evidentials","Indonesian","Roels-Sianturi et al. 1990","ind","indo1316"
+"563","ing","78a","Part of the tense system","Ingush","Nichols 1994b","inh","ingu1240"
+"564","iqu","78a","Separate particle","Iquito","Eastman and Eastman 1963","iqu","iqui1243"
+"565","irq","78a","No grammatical evidentials","Iraqw","Mous 1993","irk","iraq1241"
+"566","iri","78a","No grammatical evidentials","Irish","Ó Siadhail 1989","gle","iris1253"
+"567","ite","78a","No grammatical evidentials","Itelmen","Georg and Volodin 1999","itl","itel1242"
+"568","ito","78a","Separate particle","Itonama","Camp and Liccardi 1967","ito","iton1250"
+"569","itz","78a","Separate particle","Itzaj","Hofling 1991","itz","itza1241"
+"570","jak","78a","Separate particle","Jakaltek","Craig 1977","jac","popt1235"
+"571","jmm","78a","Verbal affix or clitic","Jamamadi","Derbyshire 1986","jaa","jama1261"
+"572","jpn","78a","Verbal affix or clitic","Japanese","Martin 1975","jpn","nucl1643"
+"573","jaq","78a","Verbal affix or clitic","Jaqaru","Hardman 1986","jqr","jaqa1244"
+"574","jem","78a","Separate particle","Jemez","Yumitani 1998","tow","jeme1245"
+"575","juh","78a","No grammatical evidentials","Ju|'hoan","Snyman 1970","ktz","juho1239"
+"576","kng","78a","Verbal affix or clitic","Kaingang","Wiesemann 1972","kgp","kain1272"
+"577","klh","78a","Verbal affix or clitic","Kalasha","Bashir 1989","kls","kala1372"
+"578","kls","78a","No grammatical evidentials","Kalispel","Vogt 1940","fla","kali1308"
+"579","kmk","78a","Verbal affix or clitic","Kalmyk","Todaeva 1968","xal","kalm1243"
+"580","kma","78a","Separate particle","Kamaiurá","Seki 1990","kay","kama1373"
+"581","knd","78a","Verbal affix or clitic","Kannada","Sridhar 1990","kan","nucl1305"
+"582","knr","78a","No grammatical evidentials","Kanuri","Hutchison 1981","knc","cent2050"
+"583","kpm","78a","No grammatical evidentials","Kapampangan","Mirikitani 1972","pam","pamp1243"
+"584","krk","78a","Separate particle","Karok","Harrington 1931","kyh","karo1304"
+"585","ksh","78a","Verbal affix or clitic","Kashaya","Oswalt 1986","kju","kash1280"
+"586","kto","78a","Verbal affix or clitic","Kato","Goddard 1912","ktw","kato1244"
+"587","kws","78a","Separate particle","Kawaiisu","Zigmond et al. 1990-1991","xaw","kawa1283"
+"588","kyl","78a","Verbal affix or clitic","Kayah Li (Eastern)","Solnit 1997","eky","east2342"
+"589","kay","78a","Verbal affix or clitic","Kayardild","Evans 1995","gyd","kaya1319"
+"590","ker","78a","No grammatical evidentials","Kera","Ebert 1979","ker","kera1255"
+"591","ket","78a","No grammatical evidentials","Ket","Werner 1997a","ket","kett1243"
+"592","kew","78a","Verbal affix or clitic","Kewa","Franklin 1971","kew","west2599"
+"593","khl","78a","No grammatical evidentials","Khalaj","Kiral 2000","klj","turk1303"
+"594","kha","78a","Mixed","Khalkha","Street 1963","khk","halh1238"
+"595","khs","78a","No grammatical evidentials","Khasi","Nagaraja 1985","kha","khas1269"
+"596","khm","78a","No grammatical evidentials","Khmer","Jacob 1968","khm","cent1989"
+"597","kmu","78a","No grammatical evidentials","Khmu'","Premsrirat 1987","kjg","khmu1256"
+"598","kho","78a","No grammatical evidentials","Khoekhoe","Hagman 1977","naq","nama1264"
+"599","khw","78a","Part of the tense system","Khowar","Bashir 1989","khw","khow1242"
+"600","kic","78a","Separate particle","Kickapoo","Voorhis 1974","kic","kick1244"
+"601","klv","78a","No grammatical evidentials","Kilivila","Senft 1986","kij","kili1267"
+"602","kio","78a","Verbal affix or clitic","Kiowa","Watkins 1984","kio","kiow1266"
+"603","krb","78a","No grammatical evidentials","Kiribati","Groves et al. 1985","gil","gilb1244"
+"604","koa","78a","Verbal affix or clitic","Koasati","Kimball 1991","cku","koas1236"
+"605","kob","78a","No grammatical evidentials","Kobon","Davies 1981b","kpw","kobo1249"
+"606","kod","78a","Verbal affix or clitic","Kodava","Ebert 1996","kfa","koda1255"
+"607","kol","78a","No grammatical evidentials","Kolami","Emeneau 1955","kfb","nort2699"
+"608","kzy","78a","Mixed","Komi-Zyrian","Leinonen 2000","kpv","komi1268"
+"609","kon","78a","No grammatical evidentials","Kongo","Bentley 1887","kng","koon1244"
+"610","kor","78a","Verbal affix or clitic","Korean","Chang 1996","kor","kore1280"
+"611","kje","78a","Verbal affix or clitic","Koreguaje","Cook and Criswell 1993","coe","kore1283"
+"612","kfe","78a","No grammatical evidentials","Koromfe","Rennison 1997","kfz","koro1298"
+"613","kse","78a","No grammatical evidentials","Koyraboro Senni","Heath 1999a","ses","koyr1242"
+"614","kro","78a","No grammatical evidentials","Krongo","Reh 1985","kgo","kron1241"
+"615","knm","78a","No grammatical evidentials","Kunama","Bender 1996","kun","kuna1268"
+"616","kji","78a","Part of the tense system","Kurmanji","Bulut 2000","kmr","nort2641"
+"617","kut","78a","No grammatical evidentials","Kutenai","Garvin 1948b","kut","kute1249"
+"618","kwk","78a","Verbal affix or clitic","Kwakw'ala","Boas 1911a","kwk","kwak1269"
+"619","lad","78a","Part of the tense system","Ladakhi","Koshal 1979","lbj","lada1244"
+"620","lah","78a","Separate particle","Lahu","Matisoff 1973","lhu","lahu1253"
+"621","lak","78a","No grammatical evidentials","Lak","Murkelinskij 1967","lbe","lakk1252"
+"622","lkt","78a","Separate particle","Lakhota","Boas and Swanton 1911","lkt","lako1247"
+"623","lan","78a","No grammatical evidentials","Lango","Noonan 1992","laj","lang1324"
+"624","lat","78a","Verbal affix or clitic","Latvian","Mathiassen 1997","lav","latv1249"
+"625","lav","78a","No grammatical evidentials","Lavukaleve","Terrill 1999","lvk","lavu1241"
+"626","laz","78a","Part of the tense system","Laz","Holisky 1991b","lzz","lazz1240"
+"627","leg","78a","Separate particle","Lega","Botne 1995","lea","lega1249"
+"628","lep","78a","No grammatical evidentials","Lepcha","Mainwaring 1876","lep","lepc1244"
+"629","lez","78a","Verbal affix or clitic","Lezgian","Haspelmath 1993","lez","lezg1247"
+"630","lim","78a","Separate particle","Limbu","van Driem 1987","lif","limb1266"
+"631","lit","78a","Verbal affix or clitic","Lithuanian","Mathiassen 1996","lit","lith1251"
+"632","kkv","78a","No grammatical evidentials","Lusi","Counts 1969","khl","lusi1240"
+"633","luv","78a","No grammatical evidentials","Luvale","Horton 1949","lue","luva1239"
+"634","mab","78a","No grammatical evidentials","Maba","Trenga 1947","mde","maba1277"
+"635","mch","78a","No grammatical evidentials","Machiguenga","Snell and Wise 1963","mcb","mach1267"
+"636","mac","78a","No grammatical evidentials","Macushi","Abbott 1991","mbc","macu1259"
+"637","mne","78a","Verbal affix or clitic","Maidu (Northeast)","Dixon 1911","nmu","nort2952"
+"638","mak","78a","Verbal affix or clitic","Makah","Jacobsen 1986","myh","maka1318"
+"639","mal","78a","No grammatical evidentials","Malagasy","Rabenilaina 1983","plt","plat1254"
+"640","mam","78a","Verbal affix or clitic","Mam","England 1983","mvc","mamc1234"
+"641","mdn","78a","Verbal affix or clitic","Mandan","Kennard 1936","mhq","mand1446"
+"642","mnd","78a","No grammatical evidentials","Mandarin","Li and Thompson 1981","cmn","mand1415"
+"643","myi","78a","Modal morpheme","Mangarrayi","Merlan 1982","mpc","mang1381"
+"644","mao","78a","No grammatical evidentials","Maori","Bauer 1993","mri","maor1246"
+"645","map","78a","No grammatical evidentials","Mapudungun","Smeets 1989","arn","mapu1245"
+"646","mku","78a","No grammatical evidentials","Maranungku","Tryon 1970b","zmr","mara1386"
+"647","mny","78a","No grammatical evidentials","Margany","Breen 1981a","zmc","marg1253"
+"648","mar","78a","Verbal affix or clitic","Maricopa","Gordon 1986","mrc","mari1440"
+"649","mrd","78a","Separate particle","Marind","Drabbe 1955","mrz","nucl1622"
+"650","mrt","78a","Verbal affix or clitic","Martuthunira","Dench 1995","vma","mart1255"
+"651","mtl","78a","Verbal affix or clitic","Mattole","Li 1930","mvb","matt1238"
+"652","mau","78a","No grammatical evidentials","Maung","Capell and Hinch 1970","mph","maun1240"
+"653","may","78a","No grammatical evidentials","Maybrat","Dol 1999","ayz","maib1239"
+"654","mei","78a","Verbal affix or clitic","Meithei","Bhat and Ningomba 1997","mni","mani1292"
+"655","mgl","78a","Mixed","Mingrelian","Harris 1991","xmf","ming1252"
+"656","mss","78a","Verbal affix or clitic","Miwok (Southern Sierra)","Broadbent 1964","skd","sout2985"
+"657","mth","78a","Verbal affix or clitic","Mixe (Tlahuitoltepec)","Lyon 1967","mxp","tlah1239"
+"658","mxt","78a","No grammatical evidentials","Mixtec (Ayutla)","Hills 1990","miy","ayut1236"
+"659","mxc","78a","No grammatical evidentials","Mixtec (Chalcatongo)","Macaulay 1996","mig","sanm1295"
+"660","mxz","78a","No grammatical evidentials","Mixtec (Coatzospan)","Small 1990","miz","coat1241"
+"661","mja","78a","Separate particle","Mixtec (Jamiltepec)","Johnson 1988","mxt","jami1235"
+"662","mxo","78a","Separate particle","Mixtec (Ocotepec)","Alexander 1988","mie","ocot1243"
+"663","mxs","78a","Separate particle","Mixtec (Silacayoapan)","Shields 1988","mks","sila1250"
+"664","moh","78a","Separate particle","Mohawk","Mithun 1986","moh","moha1258"
+"665","mtg","78a","Verbal affix or clitic","Montagnais","James et al. 1997","moe","mont1268"
+"666","mov","78a","No grammatical evidentials","Movima","Judy and Judy 1967","mzp","movi1243"
+"667","mun","78a","No grammatical evidentials","Mundari","Osada 1992","unr","mund1320"
+"668","mse","78a","No grammatical evidentials","Munsee","Goddard 1979","umu","muns1251"
+"669","mrl","78a","No grammatical evidentials","Murle","Lyth 1971","mur","murl1244"
+"670","nhh","78a","No grammatical evidentials","Nahuatl (Huasteca)","Beller and Beller 1979","nhe","east2538"
+"671","nmi","78a","Verbal affix or clitic","Nahuatl (Mecayapan Isthmus)","Law 1958","nhx","isth1242"
+"672","nhm","78a","Separate particle","Nahuatl (Michoacán)","Sischo 1979","ncl","mich1245"
+"673","nmp","78a","No grammatical evidentials","Nahuatl (Milpa Alta)","Whorf 1946b",NA,NA
+"674","nhn","78a","Separate particle","Nahuatl (North Puebla)","Brockway 1979","ncj","nort2957"
+"675","nht","78a","Separate particle","Nahuatl (Tetelcingo)","Tuggy 1979","nhg","tete1251"
+"676","nav","78a","Separate particle","Navajo","Willie 1996;Willie 1991","nav","nava1243"
+"677","ndy","78a","No grammatical evidentials","Ndyuka","Huttar and Huttar 1994","djk","ndyu1242"
+"678","nen","78a","Verbal affix or clitic","Nenets","Perrot 1996","yrk","nene1249"
+"679","nep","78a","Verbal affix or clitic","Nepali","Michailovsky 1996","nep","east1436"
+"680","nev","78a","Verbal affix or clitic","Nevome","Shaul 1986","ood","toho1245"
+"681","nwd","78a","Verbal affix or clitic","Newar (Dolakha)","Genetti 1986","new","newa1246"
+"682","nez","78a","No grammatical evidentials","Nez Perce","Aoki 1970","nez","nezp1238"
+"683","nti","78a","No grammatical evidentials","Ngiti","Kutsch Lojenga 1994","niy","ngit1239"
+"684","ngi","78a","Verbal affix or clitic","Ngiyambaa","Donaldson 1980","wyb","wang1291"
+"685","nsn","78a","Mixed","Nisenan","Eatough 1999","nsz","nise1244"
+"686","nit","78a","Verbal affix or clitic","Nitinaht","Carlson and Thomas 1979","dtd","diti1235"
+"687","niv","78a","Verbal affix or clitic","Nivkh","Panfilov 1968","niv","gily1242"
+"688","nko","78a","No grammatical evidentials","Nkore-Kiga","Taylor 1985","cgg","chig1238"
+"689","nbd","78a","No grammatical evidentials","Nubian (Dongolese)","Armbruster 1960","dgl",NA
+"690","nug","78a","No grammatical evidentials","Nunggubuyu","Heath 1984","nuy","nung1290"
+"691","nuu","78a","Verbal affix or clitic","Nuuchahnulth","Swadesh 1939","noo","noot1239"
+"692","nya","78a","No grammatical evidentials","Nyawaygi","Dixon 1983","nyt","nyaw1247"
+"693","oji","78a","No grammatical evidentials","Ojibwa (Eastern)","Bloomfield 1957","ojg","east2542"
+"694","omh","78a","Verbal affix or clitic","Omaha","Boas and Swanton 1911","oma","omah1247"
+"695","ond","78a","Separate particle","Oneida","Mithun 1986","one","onei1249"
+"696","ood","78a","Verbal affix or clitic","O'odham","Saxton 1982","ood","toho1245"
+"697","orh","78a","No grammatical evidentials","Oromo (Harar)","Owens 1985","hae","east2652"
+"698","otm","78a","Separate particle","Otomí (Mezquital)","Hess 1968","ote","mezq1235"
+"699","pms","78a","No grammatical evidentials","Paamese","Crowley 1982","pma","paam1238"
+"700","pae","78a","Verbal affix or clitic","Páez","Slocum 1986","pbb","paez1247"
+"701","pno","78a","Verbal affix or clitic","Paiute (Northern)","Snapp et al. 1982","pao","nort2954"
+"702","put","78a","Verbal affix or clitic","Paiute (Southern)","Sapir 1930","ute","utes1238"
+"703","pai","78a","Verbal affix or clitic","Paiwan","Egli 1990","pwn","paiw1248"
+"704","plk","78a","No grammatical evidentials","Palikur","Derbyshire 1986","plu","pali1279"
+"705","prc","78a","Separate particle","Paresi","Derbyshire 1986","pab","pare1272"
+"706","psm","78a","Modal morpheme","Passamaquoddy-Maliseet","Leavitt 1996","pqm","male1292"
+"707","ptw","78a","Verbal affix or clitic","Patwin","Whistler 1986b","pwu",NA
+"708","pau","78a","Separate particle","Paumarí","Chapman and Derbyshire 1991","pad","paum1247"
+"709","pwn","78a","Verbal affix or clitic","Pawnee","Parks 1976","paw","pawn1254"
+"710","pem","78a","No grammatical evidentials","Pemon","de Armellada 1944","aoc","pemo1248"
+"711","prs","78a","Part of the tense system","Persian","Windfuhr 1982","pes","west2369"
+"712","pip","78a","No grammatical evidentials","Pipil","Campbell 1985","ppl","pipi1250"
+"713","prh","78a","Verbal affix or clitic","Pirahã","Everett 1986","myp","pira1253"
+"714","pir","78a","Separate particle","Piro","Matteson 1965","pib","yine1238"
+"715","pit","78a","Separate particle","Pitjantjatjara","Bowe 1990","pjt","pitj1243"
+"716","ppi","78a","No grammatical evidentials","Pitta Pitta","Blake 1979c","pit","pitt1247"
+"717","poh","78a","No grammatical evidentials","Pohnpeian","Rehg 1981","pon","pohn1238"
+"718","pme","78a","Verbal affix or clitic","Pomo (Eastern)","McLendon 1975","peb","east2545"
+"719","pmn","78a","Verbal affix or clitic","Pomo (Northern)","O'Connor 1992","pej","nort2966"
+"720","pso","78a","Verbal affix or clitic","Pomo (Southeastern)","Moshinsky 1974","pom","sout2982"
+"721","pot","78a","Separate particle","Potawatomi","Hockett 1948","pot","pota1247"
+"722","pum","78a","Verbal affix or clitic","Pumi","Sun 1993","pmi","nort2723"
+"723","pur","78a","Verbal affix or clitic","Purépecha","Foster 1969","tsz","pure1242"
+"724","qaw","78a","No grammatical evidentials","Qawasqar","Clairis 1985","alc","qawa1238"
+"725","que","78a","Verbal affix or clitic","Quechan","Halpern 1947","yum","quec1382"
+"726","qhu","78a","Verbal affix or clitic","Quechua (Huallaga)","Weber 1989","qvh","huam1248"
+"727","qim","78a","Verbal affix or clitic","Quechua (Imbabura)","Cole 1982","qvi","imba1240"
+"728","qui","78a","Verbal affix or clitic","Quileute","Andrade 1933","qui","quil1240"
+"729","ram","78a","No grammatical evidentials","Rama","Grinevald n.d.","rma","rama1270"
+"730","rap","78a","No grammatical evidentials","Rapanui","Du Feu 1996","rap","rapa1244"
+"731","ret","78a","Verbal affix or clitic","Retuarã","Strom 1992",NA,NA
+"732","rom","78a","No grammatical evidentials","Romanian","Mallinson 1986",NA,NA
+"733","rus","78a","No grammatical evidentials","Russian",NA,NA,NA
+"734","rut","78a","Verbal affix or clitic","Rutul","Alekseev 1994b",NA,NA
+"735","slr","78a","Part of the tense system","Salar","Dwyer 2000",NA,NA
+"736","sba","78a","No grammatical evidentials","Sáliba (in Colombia)","Suarez 1977",NA,NA
+"737","san","78a","No grammatical evidentials","Sango","Samarin 1967b",NA,NA
+"738","snm","78a","Mixed","Sanuma","Borgman 1990",NA,NA
+"739","src","78a","Verbal affix or clitic","Sarcee","Cook 1984",NA,NA
+"740","say","78a","No grammatical evidentials","Sayula Popoluca","Clark 1962",NA,NA
+"741","slp","78a","No grammatical evidentials","Selepet","McElhanon 1972",NA,NA
+"742","sel","78a","No grammatical evidentials","Selknam","Najlis 1973",NA,NA
+"743","snt","78a","No grammatical evidentials","Sentani","Cowan 1965",NA,NA
+"744","srr","78a","Verbal affix or clitic","Serrano","Hill 1967",NA,NA
+"745","she","78a","Verbal affix or clitic","Sherpa","Woodbury 1986",NA,NA
+"746","shk","78a","Verbal affix or clitic","Shipibo-Konibo","Valenzuela 1997",NA,NA
+"747","shu","78a","Verbal affix or clitic","Shuswap","Kuipers 1974",NA,NA
+"748","sin","78a","Verbal affix or clitic","Siona","Wheeler 1987",NA,NA
+"749","srn","78a","Verbal affix or clitic","Sirionó","Priest et al. 1961",NA,NA
+"750","siu","78a","No grammatical evidentials","Siuslaw","Frachtenberg 1922b",NA,NA
+"751","sla","78a","Separate particle","Slave","Rice 1989",NA,NA
+"752","spa","78a","No grammatical evidentials","Spanish","Butt and Benjamin 2000",NA,NA
+"753","squ","78a","Separate particle","Squamish","Jacobs 1996",NA,NA
+"754","sre","78a","No grammatical evidentials","Sre","Manley 1972",NA,NA
+"755","sue","78a","Separate particle","Suena","Wilson 1974",NA,NA
+"756","sup","78a","No grammatical evidentials","Supyire","Carlson 1994",NA,NA
+"757","swa","78a","No grammatical evidentials","Swahili","Ashton 1947",NA,NA
+"758","swe","78a","Mixed","Swedish","Dahl 1985",NA,NA
+"759","tab","78a","No grammatical evidentials","Taba","Bowden 1997a",NA,NA
+"760","tac","78a","Separate particle","Tacana","Ottaviano and Ottaviano 1967",NA,NA
+"761","tag","78a","Separate particle","Tagalog","Ramos and Morales Goulet 1981",NA,NA
+"762","tkl","78a","Verbal affix or clitic","Takelma","Sapir 1922b",NA,NA
+"763","tml","78a","Verbal affix or clitic","Tamil","Asher 1982",NA,NA
+"764","twe","78a","Verbal affix or clitic","Tarahumara (Western)","Burgess 1984",NA,NA
+"765","tar","78a","Part of the tense system","Tariana","Aikhenvald and Dixon 1998",NA,NA
+"766","tsm","78a","No grammatical evidentials","Tasmanian","Crowley and Dixon 1981",NA,NA
+"767","tau","78a","No grammatical evidentials","Tauya","MacDonald 1990",NA,NA
+"768","tpn","78a","Verbal affix or clitic","Tepehuan (Northern)","Bascom 1982",NA,NA
+"769","trn","78a","Verbal affix or clitic","Terêna","Derbyshire 1986",NA,NA
+"770","tew","78a","Separate particle","Tewa (Arizona)","Kroskrity 1993",NA,NA
+"771","trg","78a","No grammatical evidentials","Tewa (Rio Grande)","Speirs 1966",NA,NA
+"772","tha","78a","No grammatical evidentials","Thai","Burusphat 1991",NA,NA
+"773","thk","78a","No grammatical evidentials","Thakali","Georg 1996",NA,NA
+"774","til","78a","No grammatical evidentials","Tillamook","Edel 1939",NA,NA
+"775","tmc","78a","No grammatical evidentials","Timucua","Granberry 1993",NA,NA
+"776","twn","78a","Verbal affix or clitic","Tiwa (Northern)","Trager 1946",NA,NA
+"777","tws","78a","No grammatical evidentials","Tiwa (Southern)","Leap 1970",NA,NA
+"778","tiw","78a","No grammatical evidentials","Tiwi","Osborne 1974",NA,NA
+"779","tlp","78a","No grammatical evidentials","Tlapanec","Radin 1935",NA,NA
+"780","tli","78a","No grammatical evidentials","Tlingit","Swanton 1911a",NA,NA
+"781","ton","78a","Verbal affix or clitic","Tonkawa","Hoijer 1946b",NA,NA
+"782","toq","78a","No grammatical evidentials","Toqabaqita","Lichtenberk 1987",NA,NA
+"783","txj","78a","No grammatical evidentials","Totonac (Xicotepec de Juárez)","Reid et al. 1968",NA,NA
+"784","tru","78a","Separate particle","Trumai","Guirardello 1999a",NA,NA
+"785","tsi","78a","Verbal affix or clitic","Tsimshian (Coast)","Boas 1911c",NA,NA
+"786","ttu","78a","Mixed","Tsova-Tush","Holisky and Gagua 1994",NA,NA
+"787","tuc","78a","Part of the tense system","Tucano","West 1980",NA,NA
+"788","tuk","78a","No grammatical evidentials","Tukang Besi","Donohue 1999a",NA,NA
+"789","tsh","78a","Separate particle","Tümpisa Shoshone","Dayley 1989a",NA,NA
+"790","tnb","78a","No grammatical evidentials","Tunebo","Headland 1997",NA,NA
+"791","tun","78a","Verbal affix or clitic","Tunica","Haas 1940",NA,NA
+"792","tur","78a","Part of the tense system","Turkish","Aksu-Koç and Slobin 1986",NA,NA
+"793","tus","78a","No grammatical evidentials","Tuscarora","Mithun 1986",NA,NA
+"794","tuy","78a","Part of the tense system","Tuyuca","Barnes 1984",NA,NA
+"795","tzo","78a","Separate particle","Tzotzil","Cowan 1969",NA,NA
+"796","tzu","78a","Separate particle","Tzutujil","Dayley 1985",NA,NA
+"797","una","78a","No grammatical evidentials","Una","Louwerse 1988",NA,NA
+"798","ung","78a","No grammatical evidentials","Ungarinjin","Rumsey 1982",NA,NA
+"799","uhi","78a","No grammatical evidentials","Uradhi","Crowley 1983",NA,NA
+"800","urk","78a","Separate particle","Urubú-Kaapor","Kakumasu 1986",NA,NA
+"801","usa","78a","No grammatical evidentials","Usan","Reesink 1987",NA,NA
+"802","vie","78a","No grammatical evidentials","Vietnamese","Nguyen 1997",NA,NA
+"803","wai","78a","Separate particle","Wai Wai","Hawkins 1998",NA,NA
+"804","wam","78a","No grammatical evidentials","Wambaya","Nordlinger 1998",NA,NA
+"805","wao","78a","Verbal affix or clitic","Waorani","Wilkendorf 1988",NA,NA
+"806","wra","78a","Verbal affix or clitic","Warao","Osborn 1967",NA,NA
+"807","wrd","78a","No grammatical evidentials","Wardaman","Merlan 1994",NA,NA
+"808","wrk","78a","No grammatical evidentials","Warekena","Aikhenvald 1998",NA,NA
+"809","war","78a","No grammatical evidentials","Wari'","Everett and Kern 1997",NA,NA
+"810","wrg","78a","No grammatical evidentials","Warrgamay","Dixon 1981",NA,NA
+"811","wat","78a","No grammatical evidentials","Watjarri","Douglas 1981",NA,NA
+"812","wur","78a","Verbal affix or clitic","Waurá","Derbyshire 1986",NA,NA
+"813","way","78a","Separate particle","Wayampi","Dooley 1990",NA,NA
+"814","wyn","78a","No grammatical evidentials","Wayana","Jackson 1972",NA,NA
+"815","wch","78a","No grammatical evidentials","Wichí","Hunt 1940",NA,NA
+"816","wic","78a","Verbal affix or clitic","Wichita","Rood 1976",NA,NA
+"817","win","78a","Verbal affix or clitic","Wintu","Pitkin 1984",NA,NA
+"818","wiy","78a","No grammatical evidentials","Wiyot","Teeter 1964",NA,NA
+"819","wol","78a","No grammatical evidentials","Woleaian","Sohn 1975",NA,NA
+"820","yag","78a","No grammatical evidentials","Yagua","Payne and Payne 1990",NA,NA
+"821","ykt","78a","Part of the tense system","Yakut","Buder 1989",NA,NA
+"822","yam","78a","Verbal affix or clitic","Yaminahua","Eakin 1991",NA,NA
+"823","yaq","78a","Verbal affix or clitic","Yaqui","Dedrick and Casad 1999",NA,NA
+"824","ywl","78a","No grammatical evidentials","Yawelmani","Newman 1946",NA,NA
+"825","yyg","78a","No grammatical evidentials","Yaygir","Crowley 1979",NA,NA
+"826","yid","78a","No grammatical evidentials","Yidiny","Dixon 1977a",NA,NA
+"827","yim","78a","No grammatical evidentials","Yimas","Foley 1991",NA,NA
+"828","yor","78a","No grammatical evidentials","Yoruba","Bamgbose 1966",NA,NA
+"829","yuc","78a","No grammatical evidentials","Yuchi","Wagner 1933-1938",NA,NA
+"830","yko","78a","Verbal affix or clitic","Yukaghir (Kolyma)","Maslova 1999",NA,NA
+"831","yuk","78a","No grammatical evidentials","Yukulta","Keen 1983",NA,NA
+"832","ypk","78a","Verbal affix or clitic","Yup'ik (Central)","Reed et al. 1977",NA,NA
+"833","yur","78a","No grammatical evidentials","Yurok","Robins 1958",NA,NA
+"834","zqc","78a","Verbal affix or clitic","Zoque (Copainalá)","Wonderly 1951b",NA,NA
+"835","zul","78a","No grammatical evidentials","Zulu","Doke 1927",NA,NA
+"836","zun","78a","No grammatical evidentials","Zuni","Newman 1965",NA,NA

@@ -1,5 +1,5 @@
 name	lat	lon	lang
-Aghul	41.92418	47.58429	Aghul
+Aghul	41.92418	47.58429	Agul
 Akhvakh	42.40035	46.30369	Akhvakh
 Amuzgi-Shiri	42.060627	47.589895	Dargwa
 Andi	42.80785	46.29187	Andi
@@ -20,11 +20,11 @@ Godoberi	42.74276	46.22524	Godoberi
 Hinuq	42.45022	45.80638	Hinuq
 Hunzib	42.08076	46.13691	Hunzib
 Ingush	43.16667	44.81667	Ingush
-Inkhoqwari	42.410888	46.044877	Xvarshi
+Inkhoqwari	42.410888	46.044877	Khwarshi
 Itsari	41.99733	47.5833	Dargwa
 Kajtak	42.06139	47.79597	Dargwa
 Karata	42.65005	46.31511	Karata
-Khinalugh	41.18014	48.05714	Khinalugh
+Khinalugh	41.18014	48.05714	Khinalug
 Kryz	41.18107	48.18457	Kryz
 Kubachi	42.0856	47.6031	Dargwa
 Lak	42.13275	47.0809	Lak
@@ -40,4 +40,7 @@ Tsakhur	41.59156	46.88585	Tsakhur
 Tsez	42.26458	45.80959	Tsez
 Udi	40.9	47.7236	Udi
 Verhnevurkunskij	41.96638	47.51297	Dargwa
-Xvarshi	42.353471	46.107859	Xvarshi
+Xvarshi	42.353471	46.107859	Khwarshi
+Kumyk	43	47	Kumyk
+Nogai	43.59	46.66	Nogai
+North Azerbaijani	40.98	46.47	Azerbaijani

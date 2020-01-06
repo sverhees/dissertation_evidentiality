@@ -1,0 +1,2252 @@
+text_id	sp_code	lang	sentence	(word)	(rus)	gloss	form	p	atr	ep	clause	seq_nr	comment
+t8	mish4	Tsakhur	0	a=w=q-u	ловить	3=v-pf	aorist	pst	naf		NA	68	title
+b11	kvan5	Bagvalal	1			f=v	preterite	pst	NA	NA	first	6	
+b12	kvan10	Bagvalal	1			hpl=v=hpl=comit hpl=v=hpl	preterite	pst	NA	NA	first	7	comitative construction
+b13	kvan5	Bagvalal	1			n=v-ipf-part=n	participle	other	NA	NA	dependent	8	
+b13	kvan5	Bagvalal	1			n=v=n=conv cop	perfect	pf	NA	NA	first	8	
+b15	kvan9	Bagvalal	1			v=f=conv	converb	other	NA	NA	dependent	14	
+b15	kvan9	Bagvalal	1			f=v=f=conv	converb	other	NA	NA	dependent	14	
+b15	kvan9	Bagvalal	1			f=v-pot.inf	infinitive	other	NA	NA	dependent	14	
+b15	kvan9	Bagvalal	1			f=v=f=conv cop	perfect	pf	NA	NA	first	14	
+b15	kvan9	Bagvalal	1			f=v=f=conv cop	perfect	pf	NA	NA	main line	14	
+b16	kvan13	Bagvalal	1			n=v=m=conv	converb	other	NA	NA	dependent	18	
+b16	kvan13	Bagvalal	1			n=v-pot.inf	infinitive	other	NA	NA	dependent	18	
+b16	kvan13	Bagvalal	1			m=v=m=conv cop	perfect	pf	NA	NA	first	18	
+b17	kvan13	Bagvalal	1			v-pot.inf	infinitive	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	1			hpl=v=hpl=conv cop	perfect	pf	NA	NA	first	19	
+b18	kvan5	Bagvalal	1			n=v-neg-part=f	participle	other	NA	NA	dependent	20	
+b18	kvan5	Bagvalal	1			v=n=conv cop	perfect	pf	NA	NA	first	20	
+b18	kvan5	Bagvalal	1			v-ipf-part=n=temp	sconverb	other	NA	NA	dependent	20	
+b21	kvan4	Bagvalal	1			v-pot.inf	infinitive	other	NA	NA	dependent	25	
+b21	kvan4	Bagvalal	1			v=n=conv cop	perfect	pf	NA	NA	first	25	
+b21	kvan4	Bagvalal	1			v-v-part=n=temp	sconverb	other	NA	NA	dependent	25	
+b24	kvan5	Bagvalal	1			v=m=conv	converb	other	NA	NA	dependent	40	
+b24	kvan5	Bagvalal	1			m=v=m=conv cop	perfect	pf	NA	NA	first	40	
+b4	kvan11	Bagvalal	1	b=eɬi=r=o ek’ʷa	уходить есть	hpl=v=hpl=conv cop	perfect	pf	NA	NA	first	43	
+b7	kvan5	Bagvalal	1	s’ajl-aː	учиться	v-ms.pot.inf	infinitive	other	NA	NA	dependent	46	
+b7	kvan5	Bagvalal	1	j=eɬi=j=o j=uk’a	ехать быть	f=v=f=conv f=v	preterite_pluperfect	other	NA	NA	first	46	
+b9	kvan3	Bagvalal	1			hpl=v=hpl hpl=v=hpl=ipf-conv	preterite_imperfect	other	NA	NA	first	51	
+t01	mish1	Tsakhur	1	ha=r=k’ɨn-niː	идти	1=v.pf-em2	aorist	pst	naf		first	52	
+t02	mish1	Tsakhur	1	w=ukːan-na	хотеть	3=v.ipf-aa	atr_present	other	af		comment	53	
+t02	mish1	Tsakhur	1	haʔ-as	делать	3.v-pot	infinitive	other	naf		comment	53	
+t02	mish1	Tsakhur	1	w=uxa-na	стать	3=v.pf-aa	participle	other	ptcp		comment	53	
+t03	mish9	Tsakhur	1	ɢadže-jn	видеть	4.v.pf-a	atr_aorist	pst	af		intro	54	
+t04	mish4	Tsakhur	1	ɨxa-jn	стать	4.v.pf-a	atr_aorist	pst	af		intro	55	
+t7	mish8	Tsakhur	1	w=uxa-na	стать	3=v.pf-aa	atr_aorist	pst	af		first	67	
+t7	mish8	Tsakhur	1	de=w=xa-na	стать	neg=3=v.pf-aa	atr_aorist	pst	af		first	67	
+t8	mish4	Tsakhur	1	a=w=q-as	ловить	3=v-pot	infinitive	other	naf		dependent	68	
+t8	mish4	Tsakhur	1	-o=b ha=p'=k'ɨn	быть уходить	-v=hpl hpl=v.pf	naf_perfect	pf	naf	ep	first	68	
+b11	kvan5	Bagvalal	2			v-msd	masdar	other	NA	NA	non-clausal	6	
+b11	kvan5	Bagvalal	2			f=v v-ipf-part=f	preterite_habitual	other	NA	NA	main line	6	
+b12	kvan10	Bagvalal	2			v-ipf-part=hpl	participle	other	NA	NA	dependent	7	
+b12	kvan10	Bagvalal	2			cop=part.n	participle	other	NA	NA	dependent	7	
+b12	kvan10	Bagvalal	2			hpl=v=hpl.conv=comit hpl=v=hpl	preterite	pst	NA	NA	main line	7	
+b12	kvan10	Bagvalal	2			n=v	preterite	pst	NA	NA	main line	7	
+b13	kvan5	Bagvalal	2			n=v-caus=n=conv	converb	other	NA	NA	dependent	8	
+b13	kvan5	Bagvalal	2			n=v-ipf-part=n n=v=n=conv cop	perfect_habitual	other	NA	NA	main line	8	
+b15	kvan9	Bagvalal	2			v=n=conv	converb	other	NA	NA	dependent	14	
+b15	kvan9	Bagvalal	2			v=n=conv cop	perfect	pf	NA	NA	main line	14	misprint in gloss
+b15	kvan9	Bagvalal	2			v-neg-re	preterite	pst	NA	NA	quote	14	
+b15	kvan9	Bagvalal	2			f=v=part.n=temp	sconverb	other	NA	NA	dependent	14	
+b15	kvan9	Bagvalal	2			v-ipf-conv m=v-pot-conc	sconverb	other	NA	NA	dependent	14	
+b16	kvan13	Bagvalal	2			n=v=m=conv	converb	other	NA	NA	dependent	18	
+b16	kvan13	Bagvalal	2			n=v=f=conv cop	perfect	pf	NA	NA	main line	18	
+b16	kvan13	Bagvalal	2			m=v-ipf-part=n=temp	sconverb	other	NA	NA	dependent	18	
+b17	kvan13	Bagvalal	2			v-pot.inf	infinitive	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	2			hpl=v-part=hpl	participle	other	NA	NA	non-clausal	19	
+b17	kvan13	Bagvalal	2			hpl=v=hpl=conv cop	perfect	pf	NA	NA	main line	19	
+b18	kvan5	Bagvalal	2			v n=v.imp-redi	imperative	other	NA	NA	quote	20	
+b18	kvan5	Bagvalal	2			v=n=conv cop	perfect	pf	NA	NA	main line	20	
+b20	kvan14	Bagvalal	2			m=v=m=conv	converb	other	NA	NA	dependent	24	
+b20	kvan14	Bagvalal	2			v=n=conv cop	perfect	pf	NA	NA	main line	24	
+b21	kvan4	Bagvalal	2			m=v-neg=m=conv	converb	other	NA	NA	dependent	25	
+b21	kvan4	Bagvalal	2			v-ipf-part=n	participle	other	NA	NA	dependent	25	
+b21	kvan4	Bagvalal	2			v	preterite	pst	NA	NA	main line	25	
+b24	kvan5	Bagvalal	2			cop	present	other	NA	NA	quote	40	
+b3	kvan8	Bagvalal	2	NA	NA	NA	NA	NA	NA	NA	NA	42	
+b3	kvan11	Bagvalal	2	b=uk’a=b=o weč’e	быть не.есть	n=v=n=conv neg.cop	perfect	pf	NA	NA	comment	42	
+b4	kvan11	Bagvalal	2	w=uk’a=w=o ek’ʷa	быть есть	m=v=m=conv cop	perfect	pf	NA	NA	main line	43	
+b7	kvan5	Bagvalal	2	qʷaː-ɬiba	писать	v-lim	converb	other	NA	NA	dependent	46	
+b7	kvan5	Bagvalal	2	j=uħa-č’i	проскальзывать	f=v-neg	preterite	pst	NA	NA	main line	46	
+b9	kvan3	Bagvalal	2			npl=v	preterite	pst	NA	NA	main line	51	
+t01	mish1	Tsakhur	2	a=p’=k’ɨn-niː	идти	hpl=v.pf-em2	aorist	pst	naf		main line	52	
+t01	mish1	Tsakhur	2	ilʲo=b=zur-niː	останавливаться	hpl=v.pf-em2	aorist	pst	naf		main line	52	
+t02	mish1	Tsakhur	2	haːʔ-a-niː w=ejxe-m-mɨ	делать стать	n.3 hpl.v-ipf-em2 hpl=v.ipf-a-pl	atr_unknown	other	af		comment	53	
+t03	mish9	Tsakhur	2	aˁlʲhaː wo=r	идти быть	1.v.pf cop=1	naf_durative	other	naf	ep	first	54	
+t04	mish4	Tsakhur	2	wo=b=na aˁlʲhaː	быть идти	cop=3=aa v.ipf	af_durative	other	af	nep	comment	55	
+t04	mish4	Tsakhur	2	wo=d=un	быть	cop=4=a	atr_present	other	af		comment	55	
+t7	mish8	Tsakhur	2	wo=b=ni deš-di	быть не.быть	v=3=aobl neg.cop-aobl	atr_aorist	pst	af		main line	67	
+t7	mish8	Tsakhur	2	ɨxa-na	стать	1.v.pf-aa	atr_aorist	pst	af		main line	67	
+t8	mish4	Tsakhur	2	t’abalʲ-aːʔ-a	искать-делать	v-3.v-ipf	converb	other	naf		dependent	68	
+t8	mish4	Tsakhur	2	a=w=q-as	ловить	3=v-pot	infinitive	other	naf		dependent	68	
+t8	mish4	Tsakhur	2	gi=b=ʁɨl-o=b	начинать-быть	hpl=v.pf-v=hpl	naf_perfect	pf	naf	ep	main line	68	
+b10	kvan14	Bagvalal	3			f=v-ipf-conv	converb	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	3			v n=v-pot.inf	infinitive	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	3			f=v=f=conv cop	perfect	pf	NA	NA	first	5	
+b11	kvan5	Bagvalal	3			f=v	preterite	pst	NA	NA	main line	6	
+b12	kvan10	Bagvalal	3			m=v-ipf-conv	converb	other	NA	NA	dependent	7	
+b12	kvan10	Bagvalal	3			v	preterite	pst	NA	NA	main line	7	
+b13	kvan5	Bagvalal	3			v=n=conv cop	perfect	pf	NA	NA	main line	8	
+b13	kvan5	Bagvalal	3			cop-rala	present	other	NA	NA	quote	8	
+b15	kvan9	Bagvalal	3			v m=v=m=conv cop	perfect	pf	NA	NA	main line	14	
+b16	kvan13	Bagvalal	3			n=v-caus=n=conv	converb	other	NA	NA	dependent	18	
+b16	kvan13	Bagvalal	3			n=v-caus=n=conv cop	perfect	pf	NA	NA	main line	18	
+b16	kvan13	Bagvalal	3			v=f=conv cop	perfect	pf	NA	NA	main line	18	
+b17	kvan13	Bagvalal	3			hpl=v=hpl=conv	converb	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	3			neg.cop=n=conv	converb	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	3			hpl=v-pot-fut1	future	other	NA	NA	main line	19	
+b17	kvan13	Bagvalal	3			v-pot.inf	infinitive	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	3			hpl=v-ms.pot.inf	infinitive	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	3			hpl=v=hpl=conv cop	perfect	pf	NA	NA	main line	19	
+b18	kvan5	Bagvalal	3			v n=v-ipf.inf-da	infinitive	other	NA	NA	dependent	20	
+b18	kvan5	Bagvalal	3			v=n=conv cop	perfect	pf	NA	NA	main line	20	
+b18	kvan5	Bagvalal	3			v n=v=n=conv cop	perfect	pf	NA	NA	main line	20	
+b18	kvan5	Bagvalal	3			v n=v-neg-part-temp	sconverb	other	NA	NA	dependent	20	
+b20	kvan14	Bagvalal	3			n=v-bi-neg-pot.inf	infinitive	other	NA	NA	dependent	24	
+b20	kvan14	Bagvalal	3			v=npl=conv cop	perfect	pf	NA	NA	main line	24	
+b20	kvan14	Bagvalal	3			v-pot-ant2	sconverb	other	NA	NA	dependent	24	
+b21	kvan4	Bagvalal	3			v=n=conv	converb	other	NA	NA	dependent	25	
+b21	kvan4	Bagvalal	3			v=n=conv cop	perfect	pf	NA	NA	main line	25	
+b24	kvan5	Bagvalal	3			cop	present	other	NA	NA	quote	40	
+b3	kvan11	Bagvalal	3	heƛ’i-r-oː=w	говорить	v-ipf-part=m	participle	other	NA	NA	dependent	42	
+b3	kvan11	Bagvalal	3	w=uk’a=w=o ek’ʷa 	быть есть	m=v=conv=m cop	perfect	pf	NA	NA	first	42	
+b4	kvan11	Bagvalal	3	b=aː=b=o	приходить	n=v=n=conv	converb	other	NA	NA	dependent	43	
+b4	kvan11	Bagvalal	3	b=eɬi=b=o	уходить	n=v=n=conv	converb	other	NA	NA	dependent	43	
+b4	kvan11	Bagvalal	3	b=uχːu=r=o ek’ʷa	оставаться есть	hpl=v=hpl=conv cop	perfect	pf	NA	NA	main line	43	
+b5	kvan4	Bagvalal	3	sːʷard-aː-χ	кружиться	v-ms.ipf-conv	converb	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	3	w=uk’a	быть	m=v	preterite	pst	NA	NA	first	44	
+b5	kvan4	Bagvalal	3	w=aː	приходить	m=v	preterite	pst	NA	NA	main line	44	
+b7	kvan5	Bagvalal	3	heƛ’i=j=eːna	говорить	v=f.conv=comit	converb	other	NA	NA	dependent	46	
+b7	kvan5	Bagvalal	3	j=ič’a	смотреть	f=v-pot.inf	infinitive	other	NA	NA	dependent	46	
+b7	kvan5	Bagvalal	3	weč’e-ʁala-di-la	не.есть	neg.cop-rala-di-la	present	other	NA	NA	quote	46	
+b7	kvan5	Bagvalal	3	j=eɬi	идти	f=v	preterite	pst	NA	NA	main line	46	
+b9	kvan3	Bagvalal	3			adj-vrb-part=n	participle	other	NA	NA	non-clausal	51	
+b9	kvan3	Bagvalal	3			n=v	preterite	pst	NA	NA	main line	51	
+t01	mish1	Tsakhur	3	qod-a	рвать	npl.v-ipf	present	other	naf		main line	52	
+t01	mish1	Tsakhur	3	pis=da-jiː	плохой	adj=adv.npl-em1	unknown	other	naf		main line	52	em1 as a copula
+t02	mish1	Tsakhur	3	ha=w-ʔ-u-niː	делать	3=v-pf-em2	aorist	pst	naf		comment	53	
+t03	mish9	Tsakhur	3	ɢadže-n	видеть	4.v.ipf-a	atr_present	other	af		main line	54	
+t03	mish9	Tsakhur	3	wo=b alʁaːh-a	быть переходить	cop=3 3.v-ipf	naf_durative	other	naf	ep	main line	54	
+t04	mish4	Tsakhur	3	ješemiš-exe	жить-стать	v-1.v.ipf	atr_present	other	af		comment	55	
+t4	mish4	Tsakhur	3	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	62	
+t4	mish4	Tsakhur	3	balkan-o=b=na	лощадь-быть	noun.3-v=3=aa	atr_present	other	af		quote	62	
+t4	mish4	Tsakhur	3	wo=r ič’-u	быть входить	v=1 1.v-pf	naf_perfect	pf	naf	ep	main line	62	
+t4	mish4	Tsakhur	3	k’ɨr-o=d gʲaqː-ɨ	ухо.быть снимать	noun.4-v=4 4.v-pf	naf_perfect	pf	naf	ep	main line	62	
+t4	mish4	Tsakhur	3	w=ix-es deš	стать не.быть	3=v-pot neg.cop	naf_prospective	other	naf	ep	quote	62	
+t4	mish4	Tsakhur	3	ha=r=k’ɨn-iːnɢaˁ	идти	1=v.pf-temp1	sconverb	other	naf		dependent	62	
+t7	mish8	Tsakhur	3	ɨxa-jn	стать	4.v-a	atr_aorist	pst	af		main line	67	
+t8	mish4	Tsakhur	3	w-uxa	стать	3=v.pf	aorist	pst	naf		main line	68	
+b10	kvan14	Bagvalal	4			f=v.ipf-part=n	participle	other	NA	NA	non-clausal	5	
+b10	kvan14	Bagvalal	4			n=v-ipf-part=hpl	participle	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	4			hpl=v=hpl=conv cop	perfect	pf	NA	NA	main line	5	
+b11	kvan5	Bagvalal	4			n=v=f=conv	converb	other	NA	NA	dependent	6	
+b11	kvan5	Bagvalal	4			v-msd-la	masdar	other	NA	NA	non-clausal	6	
+b11	kvan5	Bagvalal	4			f=v.ipf-part=f f=v	preterite_habitual	other	NA	NA	main line	6	
+b12	kvan10	Bagvalal	4			v=m=conv	converb	other	NA	NA	dependent	7	
+b12	kvan10	Bagvalal	4			v=n=conv	converb	other	NA	NA	dependent	7	
+b12	kvan10	Bagvalal	4			n=v-neg-part=n=da	participle	other	NA	NA	dependent	7	
+b12	kvan10	Bagvalal	4			v=hpl=comit hpl=v=hpl	preterite	pst	NA	NA	main line	7	
+b13	kvan5	Bagvalal	4			n-v-ipf-fut.neg	future	other	NA	NA	quote	8	
+b13	kvan5	Bagvalal	4			neg.cop	present	other	NA	NA	quote	8	
+b13	kvan5	Bagvalal	4			n=v-neg	preterite	pst	NA	NA	quote	8	
+b15	kvan9	Bagvalal	4			neg.cop-re	present	other	NA	NA	quote	14	
+b16	kvan13	Bagvalal	4			n=v-ipf-conv n=v=n=conv cop	perfect_imperfect	other	NA	NA	main line	18	
+b17	kvan13	Bagvalal	4			n=v-neg.conv	converb	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	4			hpl=v-pot.inf	infinitive	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	4			m=v-ipf-conv m=v=m=conv cop	perfect_imperfect	other	NA	NA	main line	19	
+b18	kvan5	Bagvalal	4			n=v=n=conv	converb	other	NA	NA	dependent	20	
+b18	kvan5	Bagvalal	4			v=n=conv cop	perfect	pf	NA	NA	main line	20	
+b18	kvan5	Bagvalal	4			v n=v-raso-f	preterite	pst	NA	NA	quote	20	
+b18	kvan5	Bagvalal	4			n=v-neg	preterite	pst	NA	NA	quote	20	
+b20	kvan14	Bagvalal	4			v-caus=npl=conv	converb	other	NA	NA	dependent	24	
+b20	kvan14	Bagvalal	4			n=v=n=conv cop	perfect	pf	NA	NA	main line	24	
+b20	kvan14	Bagvalal	4			n=v=n=conv cop	perfect	pf	NA	NA	main line	24	
+b24	kvan5	Bagvalal	4			cop	present	other	NA	NA	quote	40	
+b25	kvan14	Bagvalal	4			v.ipf-part=n	participle	other	NA	NA	dependent	41	
+b25	kvan14	Bagvalal	4			n=v=n=conv cop	perfect	pf	NA	NA	first	41	
+b25	kvan14	Bagvalal	4			cop(=part.n)-temp	sconverb	other	NA	NA	dependent	41	
+b3	kvan11	Bagvalal	4	heƛ’i=b=o	говорить	v=n=conv	converb	other	NA	NA	dependent	42	
+b3	kvan11	Bagvalal	4	dž-aːla	делать	v-pot.inf	infinitive	other	NA	NA	dependent	42	
+b3	kvan11	Bagvalal	4	ʕeː-r-oː=b	свертываться	v-ms.ipf-part=n	participle	other	NA	NA	dependent	42	
+b3	kvan11	Bagvalal	4	mut’iʕ-li-č’-u=b	подчиненный	adj-vrb-neg-part=n	participle	other	NA	NA	NA	42	
+b3	kvan11	Bagvalal	4	b=uʁu=r=o ek’ʷa	посылать есть	hpl=v=hpl=conv cop	perfect	pf	NA	NA	main line	42	
+b4	kvan11	Bagvalal	4	š’ːaː=w=o	убегать	v=m=conv	converb	other	NA	NA	dependent	43	
+b4	kvan11	Bagvalal	4	w=eɬi=w=o ek’ʷa	уходить есть	m=v=m=conv cop	perfect	pf	NA	NA	main line	43	
+b5	kvan4	Bagvalal	4	w=is-aːn-ɬ-o=w	находить	m=v-pot-fut-part=m	participle	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	4	b=as’ĩ	спрашивать	n=v	preterite	pst	NA	NA	main line	44	
+b5	kvan4	Bagvalal	4	haːn-či-ɬe-di	видеть	v-neg-q-di	preterite	pst	NA	NA	quote	44	
+b5	kvan4	Bagvalal	4	w=uk’a	быть	m=v	preterite	pst	NA	NA	main line	44	
+b7	kvan5	Bagvalal	4	j=eɬ-u=b=q’aɬːani	идти	f=v-part=n=temp	converb	other	NA	NA	dependent	46	
+b7	kvan5	Bagvalal	4	r=išːi=j=eːna	держать	npl=v=f=conv.comit	converb	other	NA	NA	dependent	46	
+b7	kvan5	Bagvalal	4	j=aː	приходить	f=v	preterite	pst	NA	NA	main line	46	
+b9	kvan3	Bagvalal	4			v-ipf-part=n=loc	participle	other	NA	NA	non-clausal	51	
+b9	kvan3	Bagvalal	4			hpl=v=hpl=neg	preterite	pst	NA	NA	main line	51	
+t01	mish1	Tsakhur	4	kj’oːč-u-jiː	садиться	3.v-pf-em1	aorist	pst	naf		main line	52	
+t01	mish1	Tsakhur	4	hi=p=xɨr-iːnɢaI	доходить	hpl=v.pf-temp1	sconverb	other	naf		dependent	52	
+t02	mish1	Tsakhur	4	aˁlhjaː ɨxa	идти стать	1.v.ipf 1.v.pf	imperfect	other	naf		first	53	
+t03	mish9	Tsakhur	4	wo=b-iː	быть	cop=3-em1	present	other	naf		main line	54	
+t04	mish4	Tsakhur	4	kočmiš-xa	переезжать-стать	v-1.v.pf	aorist	pst	naf		first	55	
+t2	mish3	Tsakhur	4	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	57	
+t2	mish3	Tsakhur	4	taːm-aʔ-iːnɢaˁ	кончать-делать	v-4.v.pf-temp1	sconverb	other	naf		dependent	57	
+t4	mish4	Tsakhur	4	iwho-jn	говорить	v-pf-a	atr_aorist	pst	af		main line	62	
+t4	mish4	Tsakhur	4	w=aˁχ-as-da	мочь	3=v-pot-aa	atr_potential	other	af		quote	62	
+t4	mish4	Tsakhur	4	deš-da	не.быть	neg.cop-aa	atr_present	other	af		quote	62	corrected translation of the verb
+t4	mish4	Tsakhur	4	qoːˁq-as	красть	3.v-pot	infinitive	other	naf		dependent	62	
+t7	mish8	Tsakhur	4	mɨs-mɨk’a-qi=w=xa	голодный-холодный-стать	adj-adj-3=v.pf	aorist	pst	naf		main line	67	
+t8	mish4	Tsakhur	4	hi=w=χ-u wo=b	убегать быть	3=v-pf v=3	naf_perfect	pf	naf	ep	main line	68	
+t8	mish4	Tsakhur	4	ɢa=w=dži-meː	видеть	hpl=v.pf-lim	sconverb	other	naf		dependent	68	
+b10	kvan14	Bagvalal	5			n=v.ipf-part=n=uq	participle	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	5			v-ipf-part=hpl hpl=v=hpl=conv cop	perfect_habitual	other	NA	NA	main line	5	
+b11	kvan5	Bagvalal	5			f=v-ipf-part=m	participle	other	NA	NA	dependent	6	
+b11	kvan5	Bagvalal	5			n=v	preterite	pst	NA	NA	main line	6	
+b12	kvan10	Bagvalal	5			hpl=v=hpl.conv=comit hpl=v=hpl	preterite	pst	NA	NA	main line	7	comitative construction
+b13	kvan5	Bagvalal	5			v-ipf-part=n	participle	other	NA	NA	quote	8	
+b13	kvan5	Bagvalal	5			v-ipf-part=n	participle	other	NA	NA	quote	8	
+b15	kvan9	Bagvalal	5			n=v-pot.inf	infinitive	other	NA	NA	dependent	15	
+b15	kvan9	Bagvalal	5			f=v=f=conv cop	perfect	pf	NA	NA	first	15	
+b15	kvan9	Bagvalal	5			n=v=part.n=temp	sconverb	other	NA	NA	dependent	15	
+b16	kvan13	Bagvalal	5			n=v-ipf-da-neg-part=n=q=re	participle	other	NA	NA	quote	18	
+b17	kvan13	Bagvalal	5			v-ipf.inf-q-re	infinitive	other	NA	NA	quote	19	
+b17	kvan13	Bagvalal	5			v=n=conv cop	perfect	pf	NA	NA	main line	19	
+b18	kvan5	Bagvalal	5			v-ipf.inf	infinitive	other	NA	NA	dependent	20	
+b18	kvan5	Bagvalal	5			v	preterite	pst	NA	NA	main line	20	
+b19	kvan14	Bagvalal	5			n=v=n=conv cop	perfect	pf	NA	NA	first	21	
+b20	kvan14	Bagvalal	5			n=v=n=conv	converb	other	NA	NA	dependent	24	
+b20	kvan14	Bagvalal	5			v=npl=conv cop	perfect	pf	NA	NA	main line	24	
+b24	kvan5	Bagvalal	5			n=v n=v	preterite	pst	NA	NA	main line	40	
+b24	kvan5	Bagvalal	5			v-la m=v=m=conv m=v=part.m=temp	sconverb	other	NA	NA	dependent	40	
+b25	kvan14	Bagvalal	5			m=v.pot.inf	infinitive	other	NA	NA	dependent	41	
+b25	kvan14	Bagvalal	5			m=v=m=conv neg.cop	perfect	pf	NA	NA	main line	41	
+b25	kvan14	Bagvalal	5			n=v=n=conv neg.cop	perfect	pf	NA	NA	main line	41	
+b25	kvan14	Bagvalal	5			m=v=part.n=temp	sconverb	other	NA	NA	dependent	41	
+b3	kvan11	Bagvalal	5	b=uk’-a-ɬab-oː	быть	hpl=v-pot-abo-m	categorical affirmative	other	NA	NA	main line	42	
+b4	kvan11	Bagvalal	5	w=uχː-a-ɬena	оставаться	m=v-pot-ant2	converb	other	NA	NA	dependent	43	
+b4	kvan11	Bagvalal	5	k’ʷa=r=o ek’ʷa	убивать есть	v=hpl=conv cop	perfect	pf	NA	NA	main line	43	
+b5	kvan4	Bagvalal	5	b=asan-či-ra=b=o	говорить	n=v-neg=n=conv	converb	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	5	ek’ʷa=w=la	есть	cop=part.m=la	participle	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	5	heƛ’-aː-ɬ-o=b	говорить	v-pot-fut-part=n	participle	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	5	b=as’ĩ	спрашивать	n=v	preterite	pst	NA	NA	main line	44	
+b6	kvan4	Bagvalal	5	b=eta=b=q’arɬːir	оставлять	n=v=part.n=temp	converb	other	NA	NA	dependent	45	
+b6	kvan4	Bagvalal	5	b=ešta	пускать	n=v	preterite	pst	NA	NA	dependent	45	
+b6	kvan4	Bagvalal	5	q’aːr-eː	наряжаться	v-caus	preterite	pst	NA	NA	first	45	
+b7	kvan5	Bagvalal	5	b=išːi=b=o	держать	n=v=n=conv	converb	other	NA	NA	dependent	46	
+b7	kvan5	Bagvalal	5	heƛ’i	говорить	v	preterite	pst	NA	NA	main line	46	
+b9	kvan3	Bagvalal	5			v-pot.inf	infinitive	other	NA	NA	dependent	51	
+b9	kvan3	Bagvalal	5			v	preterite	pst	NA	NA	main line	51	
+t02	mish1	Tsakhur	5	w=uxa i=w=iːkɨr	стать ходить	hpl=v.pf hpl=v.pf	pluperfect	other	naf		comment	53	
+t03	mish9	Tsakhur	5	ɢadže deš	видеть не.быть	1.v.pf neg.cop	aorist	pst	naf		main line	54	
+t03	mish9	Tsakhur	5	qi=w=xa-na	стать	3=v.pf-aa	atr_aorist	pst	af		main line	54	
+t04	mish4	Tsakhur	5	ič’-u	входить	1.v-pf	aorist	pst	naf		main line	55	
+t2	mish3	Tsakhur	5	aˁχ-as-ɨn	мочь	4.v-pot-a	atr_potential	other	af		quote	57	
+t2	mish3	Tsakhur	5	qikːe	увозить	1.v-imp	imperative	other	naf		quote	57	
+t2	mish3	Tsakhur	5	qaˁ=t=q-as	учиться	4=v-pot	infinitive	other	naf		quote	57	
+t4	mish4	Tsakhur	5	qoːˁ-as-da	красть	3.v-pot-aa	atr_infinitive	other	af		dependent	62	
+t4	mish4	Tsakhur	5	deš-da-wɨ	не.быть	neg.cop-aa-wy	atr_present	other	af		quote	62	
+t4	mish4	Tsakhur	5	ɢajx-ɨ	слышать	4.v-pf	converb	other	naf		dependent	62	
+t4	mish4	Tsakhur	5	set’u wo=d	задевать быть	4.v-pf v=4	naf_perfect	pf	naf	ep	main line	62	
+t4	mish4	Tsakhur	5	iwho-jnɢaˁ	говорить	v.pf-temp1	sconverb	other	naf		dependent	62	
+t7	mish8	Tsakhur	5	a=w=χ-u	оставаться	3=v-pf	aorist	pst	naf		main line	67	
+t8	mish4	Tsakhur	5	qɨʁaːh-a	доставать	3.v-ipf	converb	other	naf		dependent	68	
+t8	mish4	Tsakhur	5	gi=b=ʁɨl-o=b	начинать-быть	hpl=v.pf-v=hpl	naf_perfect	pf	naf	ep	main line	68	
+t8	mish4	Tsakhur	5	i=w=č’-u-meː	входить	3=v-pf-lim	sconverb	other	naf		dependent	68	
+t01	mish1	Tsakhur	5.6	qačaːxar-iː	спотыкаться	hpl.v.ipf-em1	present	other	naf		main line	52	
+t01	mish1	Tsakhur	5.6	mič’aIχ=da-jiː	темный	adj=adv.4-em1	unknown	other	naf		main line	52	em1 as a copula
+b10	kvan14	Bagvalal	6			n=v=hpl=conv	converb	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	6			npl=v=hpl=conv	converb	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	6			v=hpl=conv	converb	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	6			v=hpl=conv	converb	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	6			v-ipf-part=n n=v=n=conv cop	perfect_habitual	other	NA	NA	main line	5	
+b11	kvan5	Bagvalal	6			n=v-ipf-part=n	participle	other	NA	NA	quote	6	
+b11	kvan5	Bagvalal	6			v	preterite	pst	NA	NA	main line	6	
+b12	kvan10	Bagvalal	6			n=v-neg-conv	converb	other	NA	NA	dependent	7	
+b12	kvan10	Bagvalal	6			v-ipf-part=npl	participle	other	NA	NA	dependent	7	
+b12	kvan10	Bagvalal	6			v	preterite	pst	NA	NA	main line	7	
+b14	kvan4	Bagvalal	6			f=v-rala	preterite	pst	NA	NA	main line	9	quote: first person perspective
+b14	kvan4	Bagvalal	6			n=v-ipf-part=n n=v	preterite_habitual	other	NA	NA	first	9	
+b14	kvan4	Bagvalal	6			cop=part.n=temp	sconverb	other	NA	NA	dependent	9	
+b15	kvan9	Bagvalal	6			n=v=n=conv cop	perfect	pf	NA	NA	main line	15	
+b16	kvan13	Bagvalal	6			n=v-ipf-part=n	participle	other	NA	NA	quote	18	
+b16	kvan13	Bagvalal	6			v-ipf-conv n=v=n=conv cop	perfect_imperfect	other	NA	NA	main line	18	
+b17	kvan13	Bagvalal	6			v-ipf-fut.neg-re	future	other	NA	NA	quote	19	
+b17	kvan13	Bagvalal	6			v=n=conv cop	perfect	pf	NA	NA	main line	19	
+b19	kvan14	Bagvalal	6			v-caus=npl=conv cop	perfect	pf	NA	NA	main line	21	
+b2	kvan6	Bagvalal	6	w=uχː-eː=w=o	оставаться	m=v-caus=m=conv	converb	other	NA	NA	dependent	22	
+b2	kvan6	Bagvalal	6	b=eɬ-u=ba	уходить	hpl=v-part=hpl	preterite	pst	NA	NA	first	22	
+b2	kvan6	Bagvalal	6	b=eɬ-u=ba	уходить	hpl=v-part=hpl	preterite	pst	NA	NA	main line	22	
+b20	kvan14	Bagvalal	6			v-pot.inf	infinitive	other	NA	NA	dependent	24	
+b20	kvan14	Bagvalal	6			hpl=v=hpl=conv cop	perfect	pf	NA	NA	main line	24	
+b24	kvan5	Bagvalal	6			n=v-irr	irrealis	other	NA	NA	quote	40	
+b24	kvan5	Bagvalal	6			v-ms.pot-fut1 n=v	irrealis	other	NA	NA	quote	40	
+b24	kvan5	Bagvalal	6			neg.cop	present	other	NA	NA	quote	40	
+b25	kvan14	Bagvalal	6			v=n=conv	converb	other	NA	NA	dependent	41	
+b25	kvan14	Bagvalal	6			n=v=n=conv cop	perfect	pf	NA	NA	main line	41	
+b3	kvan11	Bagvalal	6	b=uk’a-ɬab-oː	быть	n=v-pot-abo-m	categorical affirmative	other	NA	NA	main line	42	
+b3	kvan11	Bagvalal	6	q’an-oː=b b=uk’a=b=o ek’ʷa	кушать быть есть	v.ipf-part=n n=v=n=conv cop	perfect_imperfect	other	NA	NA	main line	42	
+b4	kvan11	Bagvalal	6	b=as-ãː	рассказывать	n=v-pot.inf	infinitive	other	NA	NA	dependent	43	
+b4	kvan11	Bagvalal	6	b=uɬu=b	становиться	n=v=part.n	participle	other	NA	NA	NA	43	
+b4	kvan11	Bagvalal	6	haː=m	видеть	v=part.n	participle	other	NA	NA	NA	43	
+b4	kvan11	Bagvalal	6	w=eta=w=o ek’ʷa	оставлять есть	m=v=m=conv cop	perfect	pf	NA	NA	main line	43	
+b5	kvan4	Bagvalal	6	b=asaː	рассказывать	n=v	preterite	pst	NA	NA	main line	44	
+b5	kvan4	Bagvalal	6	w=uk’a	быть	m-v-rala	preterite	pst	NA	NA	quote	44	
+b6	kvan4	Bagvalal	6	q’aːr-aːla	наряжаться	v-caus.pot.inf	infinitive	other	NA	NA	dependent	45	
+b6	kvan4	Bagvalal	6	ʕagaɬli-r	участвовать	v-msd	masdar	other	NA	NA	dependent	45	
+b6	kvan4	Bagvalal	6	dže	делать	v	preterite	pst	NA	NA	main line	45	
+b7	kvan5	Bagvalal	6	NA	NA	NA	NA	NA	NA	NA	NA	46	
+b8	kvan6	Bagvalal	6	rek’ʷ-ẽː=w=o	садиться	v-caus=m=conv	converb	other	NA	NA	dependent	47	
+b8	kvan6	Bagvalal	6	ɬ-oː=b=q’aɬːani	ехать	v.ipf-part=n=temp	converb	other	NA	NA	dependent	47	
+b8	kvan6	Bagvalal	6	haː=n=o	видеть	v=hpl=conv	converb	other	NA	NA	dependent	47	
+b8	kvan6	Bagvalal	6	w=ič’-inaː-χ-la w=uk’a=w=o	смотреть быть	m=v-ipf-conv-la m=v=m=conv	converb	other	NA	NA	dependent	47	converbal form of imperfect
+b8	kvan6	Bagvalal	6	q’ʷar-oː=b	переворачиваться	v-caus.part=n	participle	other	NA	NA	first	47	
+b9	kvan3	Bagvalal	6			n=v-pot.imp-rala	imperative	other	NA	NA	quote	51	
+b9	kvan3	Bagvalal	6			v	preterite	pst	NA	NA	main line	51	
+t02	mish1	Tsakhur	6	ge=p=iːm-mɨ	останавливаться.на.привале	hpl=v.pf-a-pl	atr_aorist	pst	af		main line	53	
+t02	mish1	Tsakhur	6	tawsun-mɨ haʔ-as	отдых делать	npl.v-pot	infinitive	other	naf		dependent	53	
+t03	mish9	Tsakhur	6	ɨkːiːkɨn-na	хотеть	v.pf-aa	atr_aorist	pst	af		main line	54	
+t03	mish9	Tsakhur	6	dj-aIχ-a-na	мочь	neg-1.v-ipf-aa	atr_present	other	af		main line	54	
+t03	mish9	Tsakhur	6	aˁlʲhās	идти	v.pot	infinitive	other	naf		dependent	54	
+t03	mish9	Tsakhur	6	iʁikar-as	шевелиться	1.v-pot	infinitive	other	naf		dependent	54	
+t04	mish4	Tsakhur	6	wo=d=un ɢekː-a	быть выпускать	cop=4=a 4.v-ipf	af_durative	other	af	nep	comment	55	
+t2	mish3	Tsakhur	6	aˁχ-as	мочь	4.v-pot	potential	other	naf		quote	57	
+t2	mish3	Tsakhur	6	q-iˁdʲ-a=t=q-iːnɢaˁ	учить	neg=4=v.pf-temp1	sconverb	other	naf		quote	57	
+t4	mish4	Tsakhur	6	ha=r=k’ɨn-o=r	идти	1=v.pf-v=1	naf_perfect	pf	naf	ep	main line	62	
+t7	mish8	Tsakhur	6	ɨxa	стать	1.v.pf	aorist	pst	naf		main line	67	
+t8	mish4	Tsakhur	6	qɨʁaːh-as	доставать	3.v-pot	infinitive	other	naf		dependent	68	
+t8	mish4	Tsakhur	6	mɨsʲlahaˁt-o=b ha=w=ʔ-u	совещание-быть делать	noun.3-v=3 3=v-pf	naf_perfect	pf	naf	ep	main line	68	
+t8	mish4	Tsakhur	6	dʲ-aˁ=w=χ-iːnɢaˁ	мочь	neg=3=v.pf-temp1	sconverb	other	naf		dependent	68	
+b10	kvan14	Bagvalal	7			v=f=conv cop	perfect	pf	NA	NA	main line	5	
+b11	kvan5	Bagvalal	7			v-ms.ipf.inf	infinitive	other	NA	NA	dependent	6	
+b11	kvan5	Bagvalal	7			noun-vrb	preterite	pst	NA	NA	quote	6	past translation
+b12	kvan10	Bagvalal	7			hpl=v-imp-rala	imperative	other	NA	NA	quote	7	
+b12	kvan10	Bagvalal	7			v	preterite	pst	NA	NA	main line	7	
+b14	kvan4	Bagvalal	7			f=v-neg	preterite	pst	NA	NA	main line	9	quote: first person perspective
+b15	kvan9	Bagvalal	7			v=n=conv	converb	other	NA	NA	dependent	15	
+b15	kvan9	Bagvalal	7			f=v=f=conv	converb	other	NA	NA	dependent	15	
+b15	kvan9	Bagvalal	7			n=v=n=conv	converb	other	NA	NA	dependent	15	
+b15	kvan9	Bagvalal	7			v=n=conv cop	perfect	pf	NA	NA	main line	15	
+b15	kvan9	Bagvalal	7			v=n=conv cop-re	perfect	pf	NA	NA	quote	15	
+b15	kvan9	Bagvalal	7			n=v	preterite	pst	NA	NA	main line	15	why is this not a converb, and the following converbs finite forms?
+b15	kvan9	Bagvalal	7			n=v-neg-part=n=temp	sconverb	other	NA	NA	dependent	15	
+b16	kvan13	Bagvalal	7			n=v-neg-part=n=q-re	participle	other	NA	NA	quote	18	
+b16	kvan13	Bagvalal	7			n=v-ipf-part=n	participle	other	NA	NA	quote	18	
+b17	kvan13	Bagvalal	7			v-pot-fut-part=m m=v-re	future-in-the-past	other	NA	NA	quote	19	
+b17	kvan13	Bagvalal	7			v-ipf.inf-je	infinitive	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	7			m=v-neg-irr	irrealis	other	NA	NA	quote	19	
+b17	kvan13	Bagvalal	7			v=n=conv cop	perfect	pf	NA	NA	main line	19	
+b19	kvan14	Bagvalal	7			hpl=v=hpl=conv	converb	other	NA	NA	dependent	21	
+b19	kvan14	Bagvalal	7			n=v-ipf.inf	infinitive	other	NA	NA	dependent	21	
+b19	kvan14	Bagvalal	7			v=hpl=conv cop	perfect	pf	NA	NA	main line	21	
+b19	kvan14	Bagvalal	7			n=v-pot-csl	sconverb	other	NA	NA	dependent	21	
+b2	kvan6	Bagvalal	7	džeː=b=o	делать	v=n=conv	converb	other	NA	NA	dependent	22	
+b2	kvan6	Bagvalal	7	r=uk’a-r-la	быть	npl=v-msd-la	masdar	other	NA	NA	NA	22	
+b2	kvan6	Bagvalal	7	ʁurdi=r=o	истреблять есть	v=hpl=conv cop	perfect	pf	NA	NA	main line	22	
+b20	kvan14	Bagvalal	7			v=npl=conv cop	perfect	pf	NA	NA	main line	24	
+b20	kvan14	Bagvalal	7			n=v=part.n cop	resultative	other	NA	NA	quote	24	
+b20	kvan14	Bagvalal	7			npl=v-pot-cond	sconverb	other	NA	NA	dependent	24	
+b25	kvan14	Bagvalal	7			v-pot.inf	infinitive	other	NA	NA	dependent	41	
+b25	kvan14	Bagvalal	7			m=v-caus.pot.inf	infinitive	other	NA	NA	dependent	41	
+b25	kvan14	Bagvalal	7			v=n=conv neg.cop	perfect	pf	NA	NA	main line	41	
+b25	kvan14	Bagvalal	7			n=v=n=conv neg.cop	perfect	pf	NA	NA	main line	41	
+b4	kvan11	Bagvalal	7	sani-li=ro ek’ʷa	вместе есть	adv-vrb=hpl=conv cop	perfect	pf	NA	NA	main line	43	
+b5	kvan4	Bagvalal	7	džeː-č’i b=uk’-a-la	делать быть	v-neg n=v-pot-csl	converb	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	7	ha=b=už-eː=b=o	смешиваться	n=v-caus=n=conv	converb	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	7	hela=j	любить	v.ipf=part.f	participle	other	NA	NA	NA	44	
+b5	kvan4	Bagvalal	7	iči=b=o ek’ʷa	давать есть	v=n=conv cop	perfect	pf	NA	NA	quote	44	
+b6	kvan4	Bagvalal	7	b=ija-šːu-r	знать	n=v.part-obl.m-erg	participle	other	NA	NA	dependent	45	
+b6	kvan4	Bagvalal	7	b=ija=b	знать	n=v=part.n	participle	other	NA	NA	dependent	45	
+b6	kvan4	Bagvalal	7	džeː	делать	v	preterite	pst	NA	NA	main line	45	
+b7	kvan5	Bagvalal	7	ek’ʷa-redi	есть	cop-redi	present	other	NA	NA	quote	46	
+b7	kvan5	Bagvalal	7	heƛ’i	говорить	v	preterite	pst	NA	NA	main line	46	
+b8	kvan6	Bagvalal	7	b=eː=r=o	приходить	hpl=v=hpl=conv	converb	other	NA	NA	dependent	47	
+b8	kvan6	Bagvalal	7	džeː=b=o	делать	v=n=conv	converb	other	NA	NA	dependent	47	
+b8	kvan6	Bagvalal	7	b=iʁ-eː=b=o ek’ʷa	стоять есть	n=v-caus=n=conv cop	perfect	pf	NA	NA	main line	47	
+b9	kvan3	Bagvalal	7			v-neg=n=conv	converb	other	NA	NA	dependent	51	
+b9	kvan3	Bagvalal	7			n=v-ipf-conv-da n=v=hpl=conv	converb	other	NA	NA	dependent	51	
+b9	kvan3	Bagvalal	7			v	preterite	pst	NA	NA	main line	51	
+t01	mish1	Tsakhur	7	qikːʲo=r=k’ul	падать	1=v.pf	aorist	pst	naf		main line	52	
+t01	mish1	Tsakhur	7	hajq’ʷar-aʔ-u	ломаться-делать	4.v-4.v-pf	aorist	pst	naf		main line	52	
+t01	mish1	Tsakhur	7	qača=r=xɨr-na	спотыкаться	1=v.pf-aa	atr_aorist	pst	af		main line	52	
+t02	mish1	Tsakhur	7	ačmiš-a=w=ʔ-u	открывать-делать	v-3=v-pf	aorist	pst	naf		main line	53	
+t02	mish1	Tsakhur	7	ɢali=r=x-u	ложиться	1=v-pf	aorist	pst	naf		main line	53	
+t02	mish1	Tsakhur	7	a=r=k’ɨn	идти	1=v.pf	aorist	pst	naf		main line	53	
+t02	mish1	Tsakhur	7	a=r=k’ɨn-na	идти	1=v.pf-aa	atr_aorist	pst	af		main line	53	
+t02	mish1	Tsakhur	7	t’abalʲ-aʔ-as	искать-делать	v-4.v-pot	infinitive	other	naf		dependent	53	
+t03	mish9	Tsakhur	7	ɢadže-na	видеть	1.v.pf-aa	atr_aorist	pst	af		main line	54	
+t04	mish4	Tsakhur	7	alʲaːt’-u	брать	4.v-pf	aorist	pst	naf		main line	55	
+t2	mish3	Tsakhur	7	qikː-ɨ deš	увозить не.быть	1.v-pf neg.cop	aorist	pst	naf		comment	57	
+t2	mish3	Tsakhur	7	qaˁ=t=q-as	учить	4=v-pot	infinitive	other	naf		dependent	57	
+t4	mish4	Tsakhur	7	awajk-e w=uxa	находить стать	hpl.v-ipf hpl=v.pf	imperfect	other	naf		main line	62	
+t7	mish8	Tsakhur	7	qoːt’-a w=uxa	прикасаться стать	3.v-ipf 3-v.pf	imperfect	other	naf		main line	67	
+t7	mish8	Tsakhur	7	a=w=h-u-na	бросать	3=v-pf-aa	participle	other	ptcp		dependent	67	
+t8	mish4	Tsakhur	7	ha=r=ʁ-u	волочить	1=v-pf	converb	other	naf		dependent	68	
+t8	mish4	Tsakhur	7	iwho wo=d	сказать быть	v.pf v=4	naf_perfect	pf	naf	ep	main line	68	
+t8	mish4	Tsakhur	7	giwaχan-aʔ-as	висеть-делать	1.v-1.v-pot	potential	other	naf		quote	68	
+t8	mish4	Tsakhur	7	qɨʁah-as	доставать	1.v-pot	potential	other	naf		quote	68	
+t8	mish4	Tsakhur	7	a=w=q-iːnɢaˁ	ловить	3=v.temp1	sconverb	other	naf		dependent	68	
+b10	kvan14	Bagvalal	8			v-pot-fut2	future	other	NA	NA	quote	5	
+b10	kvan14	Bagvalal	8			n=v-ms.pot-fut2	future	other	NA	NA	quote	5	
+b10	kvan14	Bagvalal	8			v=n=conv cop	perfect	pf	NA	NA	main line	5	
+b11	kvan5	Bagvalal	8			v-ms.ipf.inf	infinitive	other	NA	NA	dependent	6	
+b11	kvan5	Bagvalal	8			noun-vrb-pot.inf-q	infinitive	other	NA	NA	dependent	6	
+b11	kvan5	Bagvalal	8			hpl=v-ipf-part=hpl	participle	other	NA	NA	non-clausal	6	
+b11	kvan5	Bagvalal	8			v	preterite	pst	NA	NA	main line	6	
+b12	kvan10	Bagvalal	8			n=v	preterite	pst	NA	NA	main line	7	
+b14	kvan4	Bagvalal	8			v=f=conv	converb	other	NA	NA	dependent	9	
+b14	kvan4	Bagvalal	8			f=v-pot.inf	infinitive	other	NA	NA	dependent	9	
+b14	kvan4	Bagvalal	8			v-part=n=la	participle	other	NA	NA	non-clausal	9	
+b14	kvan4	Bagvalal	8			v=n=conv n=v	preterite_pluperfect	other	NA	NA	main line	9	quote: first person perspective
+b15	kvan9	Bagvalal	8			v=f=conv	converb	other	NA	NA	dependent	15	
+b15	kvan9	Bagvalal	8			f=v=f=conv cop	perfect	pf	NA	NA	main line	15	
+b15	kvan9	Bagvalal	8			n=v=part.n n=v=n=conv cop-re-di-la	perfect_resultative	other	NA	NA	quote	15	
+b16	kvan13	Bagvalal	8			n=v-neg-part=n=re	participle	other	NA	NA	quote	18	
+b16	kvan13	Bagvalal	8			n=v=part.n	participle	other	NA	NA	non-clausal	18	
+b16	kvan13	Bagvalal	8			n=v-ipf-part=n	participle	other	NA	NA	quote	18	
+b16	kvan13	Bagvalal	8			cop-re	present	other	NA	NA	quote	18	
+b17	kvan13	Bagvalal	8			m=v=conv cop	perfect	pf	NA	NA	main line	19	
+b17	kvan13	Bagvalal	8			m=v=m=conv cop	perfect	pf	NA	NA	main line	19	
+b19	kvan14	Bagvalal	8			hpl=v=hpl=conv neg.cop	perfect	pf	NA	NA	main line	21	
+b2	kvan6	Bagvalal	8	b=et=ir=o	оставлять	hpl=v=hpl=conv	converb	other	NA	NA	dependent	22	
+b2	kvan6	Bagvalal	8	b=as-ãː	рассказывать	n=v-pot.inf	infinitive	other	NA	NA	dependent	22	
+b2	kvan6	Bagvalal	8	b=uɬu=b	случаться	n=v=part.n	participle	other	NA	NA	dependent	22	
+b2	kvan6	Bagvalal	8	w=aː=w=o ek’ʷa	приходить есть	m=v=m=conv cop	perfect	pf	NA	NA	main line	22	
+b2	kvan6	Bagvalal	8	w=uʁu	отправлять	m=v	preterite	pst	NA	NA	dependent	22	translated as converb
+b2	kvan6	Bagvalal	8	b=ešt=ir-la	отпускать	hpl=v=hpl=la	preterite	pst	NA	NA	dependent	22	
+b20	kvan14	Bagvalal	8			v=n=conv	converb	other	NA	NA	dependent	24	
+b20	kvan14	Bagvalal	8			n=v=part.n	participle	other	NA	NA	dependent	24	
+b20	kvan14	Bagvalal	8			cop	present	other	NA	NA	quote	24	
+b20	kvan14	Bagvalal	8			n=v	preterite	pst	NA	NA	quote	24	
+b23	kvan9	Bagvalal	8			m=v m=v-ipf-conv	preterite_pluperfect	other	NA	NA	first	27	
+b23	kvan9	Bagvalal	8			hpl=v-neg-part=n=temp	sconverb	other	NA	NA	dependent	27	
+b25	kvan14	Bagvalal	8			m=v=m=conv	converb	other	NA	NA	dependent	41	
+b25	kvan14	Bagvalal	8			n=v=n=conv cop	perfect	pf	NA	NA	main line	41	
+b4	kvan11	Bagvalal	8	b=ešt-iraː-χ b=uk’a=b=o weč’e	отпускать быть не.есть	n=v-ipf-conv n=v=n=conv neg.cop	perfect_imperfect	other	NA	NA	main line	43	
+b5	kvan4	Bagvalal	8	ič-aː	давать	v-pot.inf	infinitive	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	8	q’oča=m=o b=uk’a-či	хотеть быть	v=n=conv n=v-neg	preterite_pluperfect	other	NA	NA	quote	44	
+b6	kvan4	Bagvalal	8	b=uɬu	стать	n=v	preterite	pst	NA	NA	main line	45	
+b7	kvan5	Bagvalal	8	qʷaː=b=o ek’ʷa-ʁala	писать есть	v=n=conv cop-rala	converb	other	NA	NA	dependent	46	
+b7	kvan5	Bagvalal	8	haː-naː-χ	видеть	v-ipf-conv	converb	other	NA	NA	dependent	46	
+b7	kvan5	Bagvalal	8	dž-aːla	делать	v-pot.inf	infinitive	other	NA	NA	dependent	46	
+b7	kvan5	Bagvalal	8	ek’ʷa-ʁala	есть	cop-rala	present	other	NA	NA	quote	46	
+b7	kvan5	Bagvalal	8	heƛ’i	говорить	v	preterite	pst	NA	NA	main line	46	
+b9	kvan3	Bagvalal	8			v=n=conv	converb	other	NA	NA	dependent	51	
+b9	kvan3	Bagvalal	8			n=v n=v=part.n	participle	other	NA	NA	non-clausal	51	
+b9	kvan3	Bagvalal	8			n=v	preterite	pst	NA	NA	main line	51	
+t01	mish1	Tsakhur	8	hajq’ʷar-aʔ-u	ломаться-делать	4.v-4.v-pf	aorist	pst	naf		quote	52	
+t01	mish1	Tsakhur	8	iwo-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	52	
+t02	mish1	Tsakhur	8	ɨxa deš	стать не.быть	4.v.pf neg.cop	aorist	pst	naf		main line	53	
+t02	mish1	Tsakhur	8	muʁur-qixa-jnɢaI	просыпаться-стать	v-1.v.pf-temp1	sconverb	other	naf		dependent	53	
+t03	mish9	Tsakhur	8	ha=w=ʔ-u	делать	3=v-pf	aorist	pst	naf		main line	54	
+t03	mish9	Tsakhur	8	muʁur-qixa	просыпаться-стать	v-1.v.pf	aorist	pst	naf		main line	54	
+t03	mish9	Tsakhur	8	qa=w=al-es-da-niː	приходить	3=v-pot-aa-em2	atr_potential	other	af		main line	54	
+t04	mish4	Tsakhur	8	qojt’al	звать	1.v.ipf	present	other	naf		main line	55	
+t4	mish4	Tsakhur	8	wo=d=un	быть	v=4=a	atr_present	other	af		quote	62	
+t4	mish4	Tsakhur	8	haʔ-u wo=d	делать быть	4.v-pf v=4	naf_perfect	pf	naf	ep	main line	62	
+t7	mish8	Tsakhur	8	ha=r=k’ɨn-na	идти	1=v.pf-aa	atr_aorist	pst	af		main line	67	
+t7	mish8	Tsakhur	8	deš-di	не.быть	4.neg.cop-aobl	participle	other	ptcp		dependent	67	
+t7	mish8	Tsakhur	8	deš-di	не.быть	4.neg.cop-aobl	participle	other	ptcp		dependent	67	
+t8	mish4	Tsakhur	8	qa=b=ɨ	приходить	hpl=v.pf	converb	other	naf		dependent	68	
+t8	mish4	Tsakhur	8	giwaχan-aʔ-u wo=r	висеть-делать быть	1.v-1.v-pf v=1	naf_perfect	pf	naf	ep	main line	68	
+b1	kvan4	Bagvalal	9	kʷaχːi=b=o ek’ʷa	красть есть	v=n=conv cop	perfect	pf	NA	NA	first	1	
+b10	kvan14	Bagvalal	9			hpl=v-ipf-part=n	participle	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	9			n=v=n=conv cop	perfect	pf	NA	NA	main line	5	
+b10	kvan14	Bagvalal	9			n=v=n=conv cop	perfect	pf	NA	NA	main line	5	
+b11	kvan5	Bagvalal	9			npl=v-ipf-part=npl	participle	other	NA	NA	quote	6	
+b12	kvan10	Bagvalal	9			cop=part.n	participle	other	NA	NA	dependent	7	
+b12	kvan10	Bagvalal	9			v	preterite	pst	NA	NA	main line	7	
+b12	kvan10	Bagvalal	9			n=v-bi-prh-re	prohibitive	other	NA	NA	quote	7	
+b14	kvan4	Bagvalal	9			v-part=n	participle	other	NA	NA	dependent	9	
+b14	kvan4	Bagvalal	9			v-ipf-part=n	participle	other	NA	NA	dependent	9	
+b14	kvan4	Bagvalal	9			v	preterite	pst	NA	NA	main line	9	quote: first person perspective
+b15	kvan9	Bagvalal	9			m=v=m=conv	converb	other	NA	NA	dependent	15	
+b15	kvan9	Bagvalal	9			m=v-ipf.inf-la	infinitive	other	NA	NA	dependent	15	
+b15	kvan9	Bagvalal	9			v=n=conv cop	perfect	pf	NA	NA	main line	15	
+b15	kvan9	Bagvalal	9			v n=v=n=conv cop	perfect	pf	NA	NA	quote	15	
+b15	kvan9	Bagvalal	9			n=v-part=n=temp	sconverb	other	NA	NA	dependent	15	
+b16	kvan13	Bagvalal	9			f=v-ipf-part=n=loc.lat	participle	other	NA	NA	non-clausal	18	
+b16	kvan13	Bagvalal	9			hpl=v=hpl=conv cop	perfect	pf	NA	NA	main line	18	
+b16	kvan13	Bagvalal	9			f=v=f=conv cop	perfect	pf	NA	NA	main line	18	
+b17	kvan13	Bagvalal	9			v=part.n	participle	other	NA	NA	quote	19	
+b19	kvan14	Bagvalal	9			n=v=n=conv	converb	other	NA	NA	dependent	21	
+b19	kvan14	Bagvalal	9			v=n=conv cop	perfect	pf	NA	NA	main line	21	
+b19	kvan14	Bagvalal	9			n=v-pot-csl	sconverb	other	NA	NA	dependent	21	
+b2	kvan6	Bagvalal	9	b=eː=r=o	приходить	hpl=v=hpl=conv	converb	other	NA	NA	dependent	22	
+b2	kvan6	Bagvalal	9	b=uɬu=b=q’aɬːani	случаться	n=v=part.n=temp	converb	other	NA	NA	dependent	22	
+b2	kvan6	Bagvalal	9	dž-aːla	делать	v-pot.inf	infinitive	other	NA	NA	dependent	22	
+b2	kvan6	Bagvalal	9	b=asa=m	рассказывать	n=v=part.n	participle	other	NA	NA	main line	22	
+b2	kvan6	Bagvalal	9	b=iː-r-oː=b	знать	n=v-ipf-part=n	participle	other	NA	NA	dependent	22	
+b2	kvan6	Bagvalal	9	weč’-abi	не.есть	neg.cop-rabi	present	other	NA	NA	quote	22	
+b20	kvan14	Bagvalal	9			m=v=m=conv	converb	other	NA	NA	dependent	24	
+b20	kvan14	Bagvalal	9			n=v=n=conv cop	perfect	pf	NA	NA	main line	24	
+b23	kvan9	Bagvalal	9			hpl=v=hpl=ipf-conv-la	converb	other	NA	NA	dependent	27	
+b23	kvan9	Bagvalal	9			v.ipf-part=n	participle	other	NA	NA	main line	27	
+b23	kvan9	Bagvalal	9			v-neg-part=hpl	participle	other	NA	NA	main line	27	
+b23	kvan9	Bagvalal	9			v.ipf-part=n	participle	other	NA	NA	main line	27	
+b23	kvan9	Bagvalal	9			v-neg-part=hpl	participle	other	NA	NA	main line	27	
+b23	kvan9	Bagvalal	9			hpl=v=hpl=gora	preterite	pst	NA	NA	main line	27	
+b25	kvan14	Bagvalal	9			npl=v=npl=conv	converb	other	NA	NA	dependent	41	
+b25	kvan14	Bagvalal	9			v=n=conv	converb	other	NA	NA	dependent	41	
+b25	kvan14	Bagvalal	9			v=n=conv	converb	other	NA	NA	dependent	41	
+b25	kvan14	Bagvalal	9			v v-ipf.inf	infinitive	other	NA	NA	dependent	41	
+b25	kvan14	Bagvalal	9			v.msd-gen	masdar	other	NA	NA	non-clausal	41	
+b25	kvan14	Bagvalal	9			npl=v=part.n	participle	other	NA	NA	non-clausal	41	
+b25	kvan14	Bagvalal	9			n=v=n=conv cop	perfect	pf	NA	NA	main line	41	
+b4	kvan11	Bagvalal	9	iči-r-oː=b b=uk’a=b=o ek’ʷa	давать быть есть	v-ipf-part=n n=v=n=conv cop	perfect_imperfect	other	NA	NA	main line	43	
+b5	kvan4	Bagvalal	9	kʷaχː-aː	красть	v-inf	infinitive	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	9	ek’ʷa=b	есть	cop=part.n	participle	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	9	q’oča=m=o ek’ʷa	хотеть есть	v=n=conv cop	perfect	pf	NA	NA	quote	44	
+b6	kvan4	Bagvalal	9	b=uɬu=b=q’arɬːir	стать	n=v=part.n=temp	converb	other	NA	NA	dependent	45	
+b6	kvan4	Bagvalal	9	dž-aːla	делать	v-pot.inf	infinitive	other	NA	NA	dependent	45	
+b6	kvan4	Bagvalal	9	b=eː-r-oː=ba b=uk’=ur	приходить быть	hpl=v-ipf-part=hpl hpl=v=hpl	preterite_imperfect	other	NA	NA	main line	45	
+b7	kvan5	Bagvalal	9	uh-unaː-č’e-ʁala	мочь	v-ipf-fut.neg-rala	future	other	NA	NA	quote	46	
+b7	kvan5	Bagvalal	9	j=is-an-sː-ʁala	находить	f=v-pot-fut1-rala	future	other	NA	NA	quote	46	
+b7	kvan5	Bagvalal	9	ħalt’ir-aː-la	работать	v-ms.pot.inf-la	infinitive	other	NA	NA	dependent	46	
+b7	kvan5	Bagvalal	9	j=ah-aː	брать	f=v-pot.inf	infinitive	other	NA	NA	dependent	46	
+b9	kvan3	Bagvalal	9			neg.cop n=v-ms.ipf-conv	present	other	NA	NA	main line	51	
+t01	mish1	Tsakhur	9	a=r=k’ɨn	идти	1=v.pf	aorist	pst	naf		main line	52	
+t01	mish1	Tsakhur	9	hixar-aʔʷ-iːnɢaI	доходить-делать	1.v-1.v.pf-temp1	sconverb	other	naf		dependent	52	
+t02	mish1	Tsakhur	9	ɢedž-e ɨxa deš	видеть стать не.быть	1.v-ipf 1.v.pf	imperfect	other	naf		main line	53	
+t03	mish9	Tsakhur	9	sɨʁoːc-as-da	вставать	3.v-pot-aa	atr_infinitive	other	af		dependent	54	
+t03	mish9	Tsakhur	9	waχt-o=b w=uxa	время-быть стать	noun.3-cop=3 3=v.pf	naf_perfect	pf	naf	ep	main line	54	
+t03	mish9	Tsakhur	9	miIč’adiːnɣ-iː	утро	noun-em1	present	other	naf		main line	54	em1 as copula
+t04	mish4	Tsakhur	9	a=r=k’ɨn-na	уезжать	1=v.pf-aa	atr_aorist	pst	af		main line	55	
+t4	mish4	Tsakhur	9	ɨkːiːkɨn	хотеть	4.v.pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	9	ilʲozur	останавливаться	npl.v.pf	aorist	pst	naf		main line	62	citation?
+t4	mish4	Tsakhur	9	χaˁr-qix-es	обучать-стать	v-4.v-pot	infinitive	other	naf		dependent	62	
+t4	mish4	Tsakhur	9	ɢilex-a	ложиться	1.v-ipf	present	other	naf		main line	62	citation?
+t4	mish4	Tsakhur	9	sɨʁoc-a	вставать	1.v-ipf	present	other	naf		main line	62	citation?
+t7	mish8	Tsakhur	9	d-exa-jn	стать	neg-4.pf-a	atr_aorist	pst	af		main line	67	
+t8	mish4	Tsakhur	9	ha=r=aʁʷ-a	волючить	1=v-ipf	converb	other	naf		dependent	68	
+t8	mish4	Tsakhur	9	gi=w=ʁɨl-e	начинать	hpl=v-imp	imperative	other	naf		quote	68	
+t8	mish4	Tsakhur	9	iwho wo=d	сказать быть	v.pf v=4	naf_perfect	pf	naf	ep	main line	68	
+t8	mish4	Tsakhur	9	giwaχan-aʔ-iːni	висеть-делать	1.v-1.v-aobl	participle	other	ptcp		dependent	68	
+t8	mish4	Tsakhur	9	iʁiːkar-aʔ-as	шевелиться-делать	npl.v-npl.v-pot	potential	other	naf		quote	68	
+t8	mish4	Tsakhur	9	giwaχan-aʔ-a-sːe	висеть-делать	1.v-1.v-ipf-temp2	sconverb	other	naf		dependent	68	
+t8	mish4	Tsakhur	9	a=w=q-iːnɢaˁ	хватать	3=v-temp1	sconverb	other	naf		dependent	68	
+b1	kvan4	Bagvalal	10	b=uq’u=b=o	резать	n=v=n=conv	converb	other	NA	NA	dependent	1	
+b1	kvan4	Bagvalal	10	b=iha=m=o	варить	n=v=n=conv	converb	other	NA	NA	dependent	1	
+b1	kvan4	Bagvalal	10	b=uhu=r=o	собираться	hpl=v=hpl=conv	converb	other	NA	NA	dependent	1	
+b1	kvan4	Bagvalal	10	ek-unaː-χ b=uk’=ur=o ek’ʷa	кушать быть есть	v-ipf-conv hpl=v=hpl=conv cop	perfect_imperfect	other	NA	NA	main line	1	
+b10	kvan14	Bagvalal	10			v-pot.inf	infinitive	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	10			v=f=conv cop	perfect	pf	NA	NA	main line	5	
+b10	kvan14	Bagvalal	10			f=v-ipf-part=n=temp	sconverb	other	NA	NA	dependent	5	
+b12	kvan10	Bagvalal	10			m=v=m.conv=comit	converb	other	NA	NA	dependent	7	
+b12	kvan10	Bagvalal	10			v-pot-fut1-rala	future	other	NA	NA	quote	7	
+b12	kvan10	Bagvalal	10			v	preterite	pst	NA	NA	main line	7	
+b14	kvan4	Bagvalal	10			v-pot.imp	imperative	other	NA	NA	quote	9	
+b14	kvan4	Bagvalal	10			n=v-pot.inf	infinitive	other	NA	NA	dependent	9	
+b14	kvan4	Bagvalal	10			f=v-ipf-part=f	participle	other	NA	NA	main line	9	quote: first person perspective
+b14	kvan4	Bagvalal	10			f=v-ipf-part=f	participle	other	NA	NA	main line	9	quote: first person perspective
+b14	kvan4	Bagvalal	10			f=v-neg-part=f	participle	other	NA	NA	main line	9	quote: first person perspective
+b14	kvan4	Bagvalal	10			v-pot-cond	sconverb	other	NA	NA	dependent	9	
+b14	kvan4	Bagvalal	10			v-ms.pot-conc	sconverb	other	NA	NA	dependent	9	
+b15	kvan9	Bagvalal	10			n=v-ipf-part=n	participle	other	NA	NA	non-clausal	16	
+b15	kvan9	Bagvalal	10			v=n=conv cop	perfect	pf	NA	NA	first	16	
+b15	kvan9	Bagvalal	10			cop-re-di	present	other	NA	NA	quote	16	
+b15	kvan9	Bagvalal	10			n=v-temp	sconverb	other	NA	NA	dependent	16	
+b15	kvan9	Bagvalal	10			n=v-caus.part-temp	sconverb	other	NA	NA	dependent	16	
+b16	kvan13	Bagvalal	10			n=v-ipf-part=n	participle	other	NA	NA	quote	18	
+b16	kvan13	Bagvalal	10			v=n=conv cop	perfect	pf	NA	NA	main line	18	
+b16	kvan13	Bagvalal	10			f=v.part-temp	sconverb	other	NA	NA	dependent	18	
+b17	kvan13	Bagvalal	10			n=v-pot.inf	infinitive	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	10			noun-vrb-msd-obl-gen	masdar	other	NA	NA	non-clausal	19	
+b17	kvan13	Bagvalal	10			v=n=conv cop-re	perfect	pf	NA	NA	quote	19	
+b2	kvan6	Bagvalal	10	b=ij-eː=b=o	знать	n=v-caus=n=conv	converb	other	NA	NA	dependent	22	
+b2	kvan6	Bagvalal	10	k’anc’ur-u=ba	прыгать	v-part=hpl	participle	other	NA	NA	main line	22	
+b20	kvan14	Bagvalal	10			v-neg=m=conv	converb	other	NA	NA	dependent	24	
+b20	kvan14	Bagvalal	10			m=v=m=conv	converb	other	NA	NA	dependent	24	
+b20	kvan14	Bagvalal	10			n=v-pot-fut1 n=v	future-in-the-past	other	NA	NA	quote	24	
+b20	kvan14	Bagvalal	10			n=v-pot.inf-la	infinitive	other	NA	NA	dependent	24	
+b20	kvan14	Bagvalal	10			m=v-pot-irr	irrealis	other	NA	NA	quote	24	
+b20	kvan14	Bagvalal	10			v=n=conv cop	perfect	pf	NA	NA	main line	24	
+b25	kvan14	Bagvalal	10			n=v=n=conv cop	perfect	pf	NA	NA	main line	41	
+b4	kvan11	Bagvalal	10	heƛ’-aː	говорить	v-pot.inf	infinitive	other	NA	NA	dependent	43	
+b4	kvan11	Bagvalal	10	b=ešt-ir-oː=b b=uk’a=b=o weč’e	отпускать быть не.есть	n=v-ipf-part=n n=v=n=conv neg.cop	perfect_imperfect	other	NA	NA	main line	43	
+b5	kvan4	Bagvalal	10	b=ažeːr-aː-ɬ-o=b weč’e	мочь не.есть	n=v-ms.pot-fut=part=n neg.cop	future	other	NA	NA	quote	44	
+b6	kvan4	Bagvalal	10	b=et-a-la	оставлять	n=v-pot-csl	converb	other	NA	NA	dependent	45	
+b6	kvan4	Bagvalal	10	ruha-n-la-sː	открывать	v-msd-sup-el	masdar	other	NA	NA	dependent	45	
+b6	kvan4	Bagvalal	10	b=ešta	пускать	n=v	preterite	pst	NA	NA	dependent	45	
+b6	kvan4	Bagvalal	10	b=iχːi=r=o b=uk’=ur	радоваться быть	hpl=v=hpl=conv hpl=v=hpl	preterite_pluperfect	other	NA	NA	main line	45	
+b7	kvan5	Bagvalal	10	ek’ʷa-ʁala	есть	cop-rala	present	other	NA	NA	quote	46	
+b7	kvan5	Bagvalal	10	b=uk’a-či-ʁala	быть	n=v-neg-rala	preterite	pst	NA	NA	quote	46	
+b9	kvan3	Bagvalal	10			v-ipf-conv-di	converb	other	NA	NA	dependent	51	
+b9	kvan3	Bagvalal	10			m=v	preterite	pst	NA	NA	main line	51	
+t01	mish1	Tsakhur	10	ɢa=w=sun-im-mɨ	спать	hpl=v.pf-a-pl	atr_aorist	pst	af		main line	52	
+t02	mish1	Tsakhur	10	ha=w=ʔ-u-na	делать	3=v-pf-aa	atr_aorist	pst	af		main line	53	
+t02	mish1	Tsakhur	10	ɨxa-j	стать	1.v.pf-msd	masdar	other	naf		dependent	53	
+t02	mish1	Tsakhur	10	ac’a-niː	знать	v.ipf-em2	present	other	naf		quote	53	
+t04	mish4	Tsakhur	10	sak’-ɨ deš	возвращаться не.быть	1.v-pf neg.cop	aorist	pst	naf		comment	55	
+t4	mish4	Tsakhur	10	ha=r=k’ɨn-o=r	идти	1=v.pf-v=1	naf_perfect	pf	naf	ep	main line	62	
+t4	mish4	Tsakhur	10	qi=w=xa-jnɢaˁ	стать	3=v.pf-temp1	sconverb	other	naf		dependent	62	
+t7	mish8	Tsakhur	10	iːkɨr	ходить	1.v.pf	aorist	pst	naf		main line	67	
+t7	mish8	Tsakhur	10	iːkɨr	ходить	1.v.pf	aorist	pst	naf		main line	67	
+t7	mish8	Tsakhur	10	ɢa=w=dž-u	видеть	3=v-pf	aorist	pst	naf		main line	67	
+t7	mish8	Tsakhur	10	w=uχ-dʲo=w=χ-u-na	родить-родить	3=v.pf-neg=3=v-pf-aa	participle	other	ptcp		dependent	67	
+t8	mish4	Tsakhur	10	giwaχan-aʔ-u wo=r	висеть-делать быть	1.v=1.v-pf v=1	naf_perfect	pf	naf	ep	main line	68	
+b1	kvan4	Bagvalal	11	b=eː=r=o	приходить	hpl=v=hpl=conv	converb	other	NA	NA	dependent	1	
+b1	kvan4	Bagvalal	11	ƛ’ʷahreː-ra	стрелять	v-ipf.inf	infinitive	other	NA	NA	dependent	1	
+b1	kvan4	Bagvalal	11	bajbihi džeː 	начало делать 	v v 	preterite	pst	NA	NA	main line	1	
+b10	kvan14	Bagvalal	11			npl=v npl=v=npl=conv	converb	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	11			f=f=f=conv	converb	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	11			v-ms.ipf.inf	infinitive	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	11			v-ms.ipf.inf	infinitive	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	11			v-ipf.inf	infinitive	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	11			cop=part.n	participle	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	11			n=v=n=conv cop	perfect	pf	NA	NA	main line	5	
+b10	kvan14	Bagvalal	11			f=v-ipf-part=n=temp	sconverb	other	NA	NA	dependent	5	
+b12	kvan10	Bagvalal	11			hpl=v-pot-fut1-rala	future	other	NA	NA	quote	7	
+b14	kvan4	Bagvalal	11			n=v-ipf-conv neg.cop	present	other	NA	NA	quote	9	
+b14	kvan4	Bagvalal	11			m=v	preterite	pst	NA	NA	main line	9	quote: first person perspective
+b14	kvan4	Bagvalal	11			v	preterite	pst	NA	NA	main line	9	quote: first person perspective
+b15	kvan9	Bagvalal	11			n=v=n=conv-re-di-la	converb	other	NA	NA	dependent	16	
+b15	kvan9	Bagvalal	11			v=f=conv	converb	other	NA	NA	dependent	16	
+b15	kvan9	Bagvalal	11			v f=v=f=conv cop	perfect	pf	NA	NA	main line	16	
+b16	kvan13	Bagvalal	11			n=v-pot-fut1-re	future	other	NA	NA	quote	18	
+b16	kvan13	Bagvalal	11			n=v-neg-part=n=re	participle	other	NA	NA	quote	18	
+b16	kvan13	Bagvalal	11			v=n=conv cop	perfect	pf	NA	NA	main line	18	
+b17	kvan13	Bagvalal	11			n=v-pot-csl	sconverb	other	NA	NA	dependent	19	
+b2	kvan6	Bagvalal	11	b=ija=b=o	знать	n=v=n=conv	converb	other	NA	NA	dependent	22	
+b2	kvan6	Bagvalal	11	k’anc’ur-u=ba	прыгать	v-part=hpl	participle	other	NA	NA	main line	22	
+b2	kvan6	Bagvalal	11	weč’-u=b=la	не.есть	neg.cop-part=n=la	participle	other	NA	NA	dependent	22	
+b2	kvan6	Bagvalal	11	k’anc’ur-u=ba	прыгать	v-part=hpl	participle	other	NA	NA	main line	22	
+b20	kvan14	Bagvalal	11			v-part=n	participle	other	NA	NA	dependent	24	
+b20	kvan14	Bagvalal	11			neg.cop	present	other	NA	NA	quote	24	
+b20	kvan14	Bagvalal	11			cop	present	other	NA	NA	quote	24	
+b20	kvan14	Bagvalal	11			v n=v-pot-csl	sconverb	other	NA	NA	dependent	24	
+b25	kvan14	Bagvalal	11			n=v=n=conv cop	perfect	pf	NA	NA	main line	41	
+b25	kvan14	Bagvalal	11			npl=v=part.n=temp	sconverb	other	NA	NA	dependent	41	
+b4	kvan11	Bagvalal	11	heƛ’i-r-oː=w	говорить	v-ipf-part=m	participle	other	NA	NA	dependent	43	
+b4	kvan11	Bagvalal	11	baɬuʁ-li=w=o ek’ʷa	взрослый есть	adj-vrb=m=conv cop	perfect	pf	NA	NA	main line	43	
+b5	kvan4	Bagvalal	11	b=ažeːr-u=w=išːʷa	мочь	n=v-part=m=obl.m.dat	participle	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	11	ek’ʷa	есть	cop	present	other	NA	NA	quote	44	
+b6	kvan4	Bagvalal	11	weč’ira=b=o 	не.есть 	neg.cop=n=conv 	converb	other	NA	NA	dependent	45	
+b6	kvan4	Bagvalal	11	b=uk’=ur	быть	hpl=v=hpl	preterite	pst	NA	NA	main line	45	
+b7	kvan5	Bagvalal	11	j=ah-aː	брать	f=v-pot.inf	infinitive	other	NA	NA	dependent	46	
+b7	kvan5	Bagvalal	11	b=uk’a-č’-u=b	быть	n=v-neg-part=n	participle	other	NA	NA	quote	46	
+b7	kvan5	Bagvalal	11	heƛ’i	говорить	v	preterite	pst	NA	NA	main line	46	
+b8	kvan3	Bagvalal	11	b=eɬi=r	уезжать	hpl=v=hpl	preterite	pst	NA	NA	first	48	
+b9	kvan3	Bagvalal	11			n=v=m=conv	converb	other	NA	NA	dependent	51	
+b9	kvan3	Bagvalal	11			n=v=m=conv	converb	other	NA	NA	dependent	51	
+b9	kvan3	Bagvalal	11			m=v-msd-obl-erg	masdar	other	NA	NA	non-clausal	51	
+b9	kvan3	Bagvalal	11			n=v v-ms.ipf-conv	preterite_imperfect	other	NA	NA	main line	51	
+t01	mish1	Tsakhur	11	ɨxa	стать	1.v.pf	aorist	pst	naf		main line	52	
+t01	mish1	Tsakhur	11	ɢiːsan-na-niː-xe	спать	1.v.ipf-aa-em2-hab	atr_habitual	other	af		comment	52	
+t01	mish1	Tsakhur	11	haː dešiː	приходить не.быть	v.ipf neg.cop-em1	present	other	naf		main line	52	
+t02	mish1	Tsakhur	11	massa-hiwo-j	продавать-давать	v-1.v.pf-msd	masdar	other	naf		dependent	53	
+t02	mish1	Tsakhur	11	hɨIsab-aʔ-a-niː	считать-делать	v-4.v-ipf-em2	present	other	naf		comment	53	
+t4	mish4	Tsakhur	11	ha=r=k’ɨn	идти	1=v.pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	11	wo=d ɨxa	быть стать	v=npl npl.v.pf	naf_perfect	pf	naf	ep	main line	62	
+t7	mish8	Tsakhur	11	gi=w=k’-u-na	убивать	3=v-pf-aa	atr_aorist	pst	af		main line	67	
+t7	mish8	Tsakhur	11	deš-di	не.быть	neg.cop-aobl	participle	other	ptcp		dependent	67	
+t8	mish4	Tsakhur	11	iʁiːkar-haʔ-a	шевелиться-делать	npl.v-npl.v-ipf	converb	other	naf		dependent	68	
+t8	mish4	Tsakhur	11	gi=r=ʁɨl-o=r	начинать-быть	1=v.pf-v=1	naf_perfect	pf	naf	ep	main line	68	
+b1	kvan4	Bagvalal	12	džeː=r=o	делать	v=hpl=conv	converb	other	NA	NA	dependent	1	
+b1	kvan4	Bagvalal	12	ek-unaː-χ b=uk’=ur=o ek’ʷa	кушать быть есть	v-ipf-conv hpl=v=hpl=conv cop	perfect_imperfect	other	NA	NA	main line	1	
+b10	kvan14	Bagvalal	12			f=v=f=conv neg.cop	perfect	pf	NA	NA	main line	5	
+b10	kvan14	Bagvalal	12			n=v-ant2	sconverb	other	NA	NA	dependent	5	
+b12	kvan10	Bagvalal	12			v=part.n=da	participle	other	NA	NA	dependent	7	converb translation
+b12	kvan10	Bagvalal	12			hpl=v=hpl	preterite	pst	NA	NA	main line	7	
+b14	kvan4	Bagvalal	12			f=v-neg=f=conv	converb	other	NA	NA	dependent	9	
+b14	kvan4	Bagvalal	12			v-pot.inf	infinitive	other	NA	NA	dependent	9	
+b14	kvan4	Bagvalal	12			v-part=n	participle	other	NA	NA	non-clausal	9	
+b14	kvan4	Bagvalal	12			npl=v-ipf-conv cop	present	other	NA	NA	quote	9	
+b15	kvan9	Bagvalal	12			n=v-ipf-conv	converb	other	NA	NA	dependent	17	
+b15	kvan9	Bagvalal	12			npl=v=n=conv	converb	other	NA	NA	dependent	17	
+b15	kvan9	Bagvalal	12			v=n=conv cop	perfect	pf	NA	NA	first	17	
+b15	kvan9	Bagvalal	12			n=v-ipf-part=n=temp	sconverb	other	NA	NA	dependent	17	
+b15	kvan9	Bagvalal	12			v.ipf-part=n=temp	sconverb	other	NA	NA	dependent	17	
+b16	kvan13	Bagvalal	12			v=n=conv	converb	other	NA	NA	dependent	18	
+b16	kvan13	Bagvalal	12			n=v-ipf-part=n=re-di-la	participle	other	NA	NA	quote	18	
+b16	kvan13	Bagvalal	12			v=n=conv cop	perfect	pf	NA	NA	main line	18	
+b16	kvan13	Bagvalal	12			v=n=conv cop	perfect	pf	NA	NA	main line	18	
+b16	kvan13	Bagvalal	12			neg.cop-re	present	other	NA	NA	quote	18	
+b17	kvan13	Bagvalal	12			hpl=v=hpl=conv	converb	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	12			hpl=v-ipf.inf-la	infinitive	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	12			hpl=v-caus=hpl=conv cop	perfect	pf	NA	NA	main line	19	
+b23	kvan3	Bagvalal	12			n=v	preterite	pst	NA	NA	first	29	
+b23	kvan3	Bagvalal	12			v	preterite	pst	NA	NA	main line	29	
+b25	kvan14	Bagvalal	12			v-pot.inf	infinitive	other	NA	NA	dependent	41	
+b25	kvan14	Bagvalal	12			n=v=n=conv cop	perfect	pf	NA	NA	main line	41	
+b4	kvan11	Bagvalal	12	b=e-be-ʁe	приходить	hpl=v-imp-re	imperative	other	NA	NA	quote	43	
+b4	kvan11	Bagvalal	12	r=ah-aː	брать	npl=v-pot.inf	infinitive	other	NA	NA	dependent	43	
+b4	kvan11	Bagvalal	12	b=uʁu=b=o ek’ʷa	посылать есть	n=v=n=conv cop	perfect	pf	NA	NA	main line	43	
+b5	kvan4	Bagvalal	12	razilli	соглашаться	v	preterite	pst	NA	NA	main line	44	
+b6	kvan4	Bagvalal	12	sabal-li=r=o	причина	noun-vrb=hpl=conv	converb	other	NA	NA	dependent	45	
+b6	kvan4	Bagvalal	12	qʷaː-ra	ссориться	v-ipf.inf	infinitive	other	NA	NA	dependent	45	
+b6	kvan4	Bagvalal	12	džeː	делать	v	preterite	pst	NA	NA	main line	45	
+b7	kvan5	Bagvalal	12	woč’e-ʁala-di	не.есть	neg.cop-rala-di	present	other	NA	NA	quote	46	
+b7	kvan5	Bagvalal	12	heƛ’i	говорить	v	preterite	pst	NA	NA	main line	46	
+b8	kvan3	Bagvalal	12	raq’a=m=o	закрываться	v=n=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	12	b=iʁi-č’-u=b	останавливаться	n=v-neg-part=n	participle	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	12	b=uk’a	быть	n=v	preterite	pst	NA	NA	main line	48	
+b9	kvan3	Bagvalal	12			v-ipf-part=n=di	participle	other	NA	NA	dependent	51	
+b9	kvan3	Bagvalal	12			v	preterite	pst	NA	NA	main line	51	
+t01	mish1	Tsakhur	12	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	52	
+t01	mish1	Tsakhur	12	aˁlʲhaːs	идти	v.pot	infinitive	other	naf		quote	52	
+t01	mish1	Tsakhur	12	ačmiš-a=w=ʔ-u w=ux-es	развязывать-делать стать	v-3=v-pf 3=v-pot	potential	other	naf		quote	52	
+t01	mish1	Tsakhur	12	w=ukːan	быть.должным	hpl=v.ipf	present	other	naf		quote	52	
+t01	mish1	Tsakhur	12	qa=b=iːnɢaI	приходить	hpl=v.pf-temp1	sconverb	other	naf		quote	52	
+t02	mish1	Tsakhur	12	gik’-as-da	убивать	1.v-pot-aa	atr_potential	other	af		quote	53	
+t02	mish1	Tsakhur	12	aˁlʲhā	идти	1.v.ipf	converb	other	naf		dependent	53	
+t02	mish1	Tsakhur	12	t’abalʲ-aʔ-u	находить-делать	v-1.v-pf	converb	other	naf		dependent	53	
+t02	mish1	Tsakhur	12	fɨkɨrramiš-exe ɨxa	думать-стать стать	v-1.v.ipf 1.v.pf	imperfect	other	naf		main line	53	
+t02	mish1	Tsakhur	12	a=r=k’ɨn-xe	идти	1=v.pf-cond2	sconverb	other	naf		dependent	53	
+t4	mish4	Tsakhur	12	awajk-e-de w=uxa	находить стать	3.v-ipf-de 3=v.pf	imperfect	other	naf		main line	62	
+t4	mish4	Tsakhur	12	k’ʲa=w=ʔ-u wo=b	класть быть	3=v-pf v=3	naf_perfect	pf	naf	ep	main line	62	
+t7	mish8	Tsakhur	12	ha=w=ʔ-u	делать	3.v-pf	aorist	pst	naf		main line	67	
+t8	mish4	Tsakhur	12	ha=r=aʁʷ-a	волочить	1=v-ipf	converb	other	naf		dependent	68	
+t8	mish4	Tsakhur	12	gi=b=ʁɨl-o=b	начинать-быть	hpl=v.pf-v=hpl	naf_perfect	pf	naf	ep	main line	68	
+b1	kvan4	Bagvalal	13	ƛ’ʷahr-oː=b	стрелять	v-part=n	participle	other	NA	NA	dependent	1	
+b1	kvan4	Bagvalal	13	b=aha=b=o ek’ʷa	падать есть	n=v=n=conv cop	perfect	pf	NA	NA	main line	1	
+b10	kvan14	Bagvalal	13			f=v=f=conv	converb	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	13			adj=n=conv-di	converb	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	13			n=v-pot.inf	infinitive	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	13			v-ipf-part=n	participle	other	NA	NA	quote	5	
+b10	kvan14	Bagvalal	13			f=v=f=conv cop	perfect	pf	NA	NA	main line	5	
+b10	kvan14	Bagvalal	13			v-pot-csl	sconverb	other	NA	NA	dependent	5	
+b12	kvan10	Bagvalal	13			n=v-part=n	participle	other	NA	NA	non-clausal	7	
+b12	kvan10	Bagvalal	13			n=v	preterite	pst	NA	NA	main line	7	
+b12	kvan10	Bagvalal	13			f=v	preterite	pst	NA	NA	main line	7	
+b12	kvan10	Bagvalal	13			hpl=v=part.n=temp	sconverb	other	NA	NA	dependent	7	
+b14	kvan4	Bagvalal	13			f=v	preterite	pst	NA	NA	main line	9	quote: first person perspective
+b15	kvan9	Bagvalal	13			n=v-ipf-conv	converb	other	NA	NA	dependent	17	
+b15	kvan9	Bagvalal	13			v f=v-ms.pot-fut-part=f cop-re	future	other	NA	NA	quote	17	
+b15	kvan9	Bagvalal	13			n=v-caus.pot.imp-re	imperative	other	NA	NA	quote	17	
+b15	kvan9	Bagvalal	13			v-ipf-part=n	participle	other	NA	NA	non-clausal	17	
+b15	kvan9	Bagvalal	13			v=n=conv cop	perfect	pf	NA	NA	main line	17	
+b15	kvan9	Bagvalal	13			cop-re n=v-ipf-conv	present	other	NA	NA	quote	17	
+b15	kvan9	Bagvalal	13			v.part-temp	sconverb	other	NA	NA	dependent	17	
+b17	kvan13	Bagvalal	13			v-pot.imp-re-di	imperative	other	NA	NA	quote	19	
+b17	kvan13	Bagvalal	13			noun-vrb-msd	masdar	other	NA	NA	non-clausal	19	
+b17	kvan13	Bagvalal	13			noun-vrb-msd	masdar	other	NA	NA	non-clausal	19	
+b17	kvan13	Bagvalal	13			n=v-ipf-part=n	participle	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	13			v=n=conv cop	perfect	pf	NA	NA	main line	19	
+b17	kvan13	Bagvalal	13			cop-re	present	other	NA	NA	quote	19	
+b23	kvan3	Bagvalal	13			v=hpl=conv-rabi	converb	other	NA	NA	dependent	29	
+b23	kvan3	Bagvalal	13			v-part=npl	participle	other	NA	NA	non-clausal	29	
+b23	kvan3	Bagvalal	13			v=npl=conv cop	perfect	pf	NA	NA	quote	29	
+b23	kvan3	Bagvalal	13			m=v	preterite	pst	NA	NA	main line	29	
+b23	kvan3	Bagvalal	13			hpl=v=hpl	preterite	pst	NA	NA	main line	29	
+b25	kvan14	Bagvalal	13			v=n=conv cop	perfect	pf	NA	NA	main line	41	
+b25	kvan14	Bagvalal	13			v=n=conv cop	perfect	pf	NA	NA	main line	41	
+b4	kvan11	Bagvalal	13	r=ah-aː	брать	v-pot.inf	infinitive	other	NA	NA	dependent	43	
+b4	kvan11	Bagvalal	13	r=uq’u=r=o ek’ʷa	резать есть	npl=v=npl=conv cop	perfect	pf	NA	NA	main line	43	
+b4	kvan11	Bagvalal	13	b=aː=b=q’aɬːani	приходить	hpl=v=part.n-temp	sconverb	other	NA	NA	dependent	43	
+b5	kvan4	Bagvalal	13	w=aq’ašː-aː	прятаться	m=v-pot.inf	infinitive	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	13	ek’ʷa=r	есть	v=part.npl	participle	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	13	w=eɬi	идти	m=v	preterite	pst	NA	NA	main line	44	
+b6	kvan4	Bagvalal	13	džeː-ra	делать	v-ipf.inf	infinitive	other	NA	NA	dependent	45	
+b6	kvan4	Bagvalal	13	džeː	делать	v	preterite	pst	NA	NA	main line	45	
+b7	kvan5	Bagvalal	13	woč’-u=b	не.есть	neg.cop-part=n	participle	other	NA	NA	quote	46	
+b7	kvan5	Bagvalal	13	heƛ’i	говорить	v	preterite	pst	NA	NA	main line	46	
+b8	kvan3	Bagvalal	13	ɬ-oː=b	везти	v.ipf-part=n	participle	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	13	b=uk’a	быть	n=v	preterite	pst	NA	NA	main line	48	
+b9	kvan3	Bagvalal	13			v v-bi-neg-inf	infinitive	other	NA	NA	dependent	51	
+b9	kvan3	Bagvalal	13			v-ipf-conv cop-rala	present	other	NA	NA	quote	51	
+b9	kvan3	Bagvalal	13			cop	present	other	NA	NA	main line	51	
+t01	mish1	Tsakhur	13	ačmiš-eːx-e-m-mɨ-niː-xe	развязывать-стать	v-npl.v-ipf-a-pl-em2-hab	atr_habitual	other	af		comment	52	
+t02	mish1	Tsakhur	13	alja=r=t’-u-na	брать	1=v-pf-aa	atr_aorist	pst	af		main line	53	
+t4	mish4	Tsakhur	13	k’ʲa=w=ʔ-u	класть	3=v-pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	13	hiwo wo=b	дать быть	3.v.pf v=3	naf_perfect	pf	naf	ep	main line	62	
+t7	mish8	Tsakhur	13	qo=r=t’ul	звать	1=v.pf	aorist	pst	naf		main line	67	
+t7	mish8	Tsakhur	13	qa=w=al-es	приносить	3=v-pot	infinitive	other	naf		dependent	67	
+t8	mish4	Tsakhur	13	c’ɨc’aʔ-a-wo=r	тянуть-быть	1.v-pf-v=1	naf_perfect	pf	naf	ep	main line	68	
+t8	mish4	Tsakhur	13	qɨʁah-u-wo=r	доставать-быть	1.v-pf-v=1	naf_perfect	pf	naf	ep	main line	68	
+b1	kvan4	Bagvalal	14	hec’-aː-ɬi-χ	вставать	v-pot-fut-conv	converb	other	NA	NA	dependent	1	
+b1	kvan4	Bagvalal	14	ašː=ir	начинать	v=hpl	preterite	pst	NA	NA	main line	1	
+b10	kvan14	Bagvalal	14			v-ipf-part=n	participle	other	NA	NA	quote	5	
+b12	kvan10	Bagvalal	14			v	preterite	pst	NA	NA	main line	7	
+b14	kvan4	Bagvalal	14			m=v=m=conv cop	perfect	pf	NA	NA	first	10	
+b17	kvan13	Bagvalal	14			m=v m=v=m=conv	converb	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	14			v-ms.pot.inf	infinitive	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	14			noun-vrb-pot.inf	infinitive	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	14			n=v=n=conv cop	perfect	pf	NA	NA	main line	19	
+b17	kvan13	Bagvalal	14			f=v=f=conv cop	perfect	pf	NA	NA	main line	19	
+b17	kvan13	Bagvalal	14			cop-re	present	other	NA	NA	quote	19	
+b23	kvan3	Bagvalal	14			cop=part.n	participle	other	NA	NA	dependent	29	
+b23	kvan3	Bagvalal	14			v	preterite	pst	NA	NA	main line	29	
+b25	kvan14	Bagvalal	14			v=n=conv cop	perfect	pf	NA	NA	main line	41	
+b4	kvan11	Bagvalal	14	džeː=r=o	делать	v=npl=conv	converb	other	NA	NA	dependent	43	
+b4	kvan11	Bagvalal	14	r=eɬi-č’-u=r	идти	npl=v-neg-part=npl	participle	other	NA	NA	NA	43	
+b4	kvan11	Bagvalal	14	b=eɬi=b=o ek’ʷa	идти есть	n=v=n=conv cop	perfect	pf	NA	NA	main line	43	
+b5	kvan4	Bagvalal	14	b=uk’-a	быть	hpl=v-pot.inf	infinitive	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	14	b=eː=r	приходить	hpl=v=hpl	preterite	pst	NA	NA	main line	44	
+b6	kvan4	Bagvalal	14	kakir-a	критикровать	v-ms.ipf.inf	infinitive	other	NA	NA	dependent	45	
+b6	kvan4	Bagvalal	14	džeː-raː-χ b=uk’a=b	делать быть	v-ipf-conv n=v=part.n	participle	other	NA	NA	dependent	45	
+b6	kvan4	Bagvalal	14	ašːa	начинать	v	preterite	pst	NA	NA	main line	45	
+b7	kvan5	Bagvalal	14	b=ah-a-sːa-ʁe	брать	n=v-pot-fut2-re	future	other	NA	NA	quote	46	
+b8	kvan3	Bagvalal	14	r=išːi-r-oː=b	хватать	npl=v-ipf-part=n	participle	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	14	r=uk’a	быть	npl=v	preterite	pst	NA	NA	main line	48	
+b9	kvan3	Bagvalal	14			n=v n=v	preterite	pst	NA	NA	main line	51	
+t01	mish1	Tsakhur	14	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	52	
+t01	mish1	Tsakhur	14	gozetj-aːʔ-as	ждать-делать	v-hpl.v-pot	potential	other	naf		quote	52	
+t02	mish1	Tsakhur	14	qal-es deš	приходить не.быть	1.v-pot neg.cop	naf_prospective	other	naf	ep	quote	53	
+t4	mish4	Tsakhur	14	saʔ-u	собирать	npl.v-pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	14	giwa=p=χɨn-o=b	вешать-быть	3=v.pf-v=3	naf_perfect	pf	naf	ep	main line	62	
+t4	mish4	Tsakhur	14	a=t’=k’ɨn-iːnɢaˁ	уходить	npl=v.pf-temp1	sconverb	other	naf		dependent	62	
+t6	mish5	Tsakhur	14	aˁlhaː wo=d=un	идти быть	v.ipf v=4=a	af_durative	other	af	nep	main line	66	
+t6	mish5	Tsakhur	14	aˁlhaː wo=d=un	идти быть	v.ipf v=4=a	af_durative	other	af	nep	main line	66	
+t6	mish5	Tsakhur	14	sa=b=iːm-mɨ	собираться	hpl=v.pf-a-pl	atr_aorist	pst	af		main line	66	
+t6	mish5	Tsakhur	14	qa=b=iːm-mɨ	приходить	hpl=v.pf-a-pl	atr_aorist	pst	af		main line	66	
+t6	mish5	Tsakhur	14	wo=b=ɨm-mɨ	быть	v=hpl=a-pl	atr_present	other	af		first	66	past translation
+t7	mish8	Tsakhur	14	šalalamiš e=p=x-e	навьючить.на.спину стать	v hpl=v-ipf	imperfect	other	naf		main line	67	
+t7	mish8	Tsakhur	14	alʲat’-as	брать	4.v-pot	infinitive	other	naf		main line	67	
+t7	mish8	Tsakhur	14	aˁχ-as	мочь	4.v-pot	infinitive	other	naf		dependent	67	not sure, perhaps future
+t8	mish4	Tsakhur	14	ilʲaːk-ɨ wo=b	смотреть быть	hpl.v-pf v=hpl	naf_perfect	pf	naf	ep	main line	68	
+t8	mish4	Tsakhur	14	deš-o=b	не.быть-быть	neg.cop-v=3	present	other	naf		quote	68	
+t8	mish4	Tsakhur	14	wo=d deš	быть не.быть	v=4 neg.cop	present	other	naf		quote	68	
+t8	mish4	Tsakhur	14	qɨʁah-iːnɢaˁ	доставать	1.v.pf-temp1	sconverb	other	naf		dependent	68	
+b1	kvan4	Bagvalal	15	heƛ’i	говорить	v	preterite	pst	NA	NA	main line	1	
+b1	kvan4	Bagvalal	15	hurhir-a-bi-sːe	шевелиться	v-ms-bi-prh	prohibitive	other	NA	NA	quote	1	
+b10	kvan14	Bagvalal	15			v=n=conv cop	perfect	pf	NA	NA	main line	5	
+b10	kvan14	Bagvalal	15			cop	present	other	NA	NA	quote	5	
+b12	kvan10	Bagvalal	15			hpl=v=hpl	preterite	pst	NA	NA	main line	7	
+b12	kvan10	Bagvalal	15			hpl=v.ipf-part=hpl hpl=v=hpl=neg	preterite_habitual	other	NA	NA	main line	7	
+b12	kvan10	Bagvalal	15			cop=part.n=temp	sconverb	other	NA	NA	dependent	7	
+b14	kvan4	Bagvalal	15			m=v=m=conv	converb	other	NA	NA	dependent	10	
+b14	kvan4	Bagvalal	15			n=v=n=conv cop	perfect	pf	NA	NA	main line	10	
+b17	kvan13	Bagvalal	15			n=v-pot-fut1-re	future	other	NA	NA	quote	19	
+b17	kvan13	Bagvalal	15			v-pot.inf	infinitive	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	15			cop.part=obl.m.sup.lat	participle	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	15			n=v-ipf-part=n=re	participle	other	NA	NA	non-clausal	19	
+b17	kvan13	Bagvalal	15			n=v-ipf-part=n	participle	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	15			v=m=conv cop	perfect	pf	NA	NA	main line	19	
+b17	kvan13	Bagvalal	15			cop-re	present	other	NA	NA	quote	19	
+b17	kvan13	Bagvalal	15			m=v m=v m=v-pot-cond-re	sconverb	other	NA	NA	dependent	19	find construction
+b23	kvan3	Bagvalal	15			v=n=conv	converb	other	NA	NA	quote	29	
+b23	kvan3	Bagvalal	15			v	preterite	pst	NA	NA	main line	29	
+b25	kvan14	Bagvalal	15			v-caus-neg-part=n	participle	other	NA	NA	non-clausal	41	
+b25	kvan14	Bagvalal	15			v-ipf-part=n	participle	other	NA	NA	non-clausal	41	
+b25	kvan14	Bagvalal	15			v=m=conv cop	perfect	pf	NA	NA	main line	41	
+b25	kvan14	Bagvalal	15			v=m=conv cop	perfect	pf	NA	NA	main line	41	
+b25	kvan14	Bagvalal	15			v-ms.pot-csl	sconverb	other	NA	NA	dependent	41	
+b25	kvan14	Bagvalal	15			v-ms.pot-csl	sconverb	other	NA	NA	dependent	41	
+b4	kvan11	Bagvalal	15	ɬuq’uri=r=o	ранить	v=hpl=conv	converb	other	NA	NA	dependent	43	
+b4	kvan11	Bagvalal	15	š’ʷaš’ʷari=r=o ek’ʷa	разбегаться есть	v=hpl=conv cop	perfect	pf	NA	NA	main line	43	
+b5	kvan4	Bagvalal	15	b=as-inaː-χ b=uk’a	рассказывать быть	n=v-ipf-conv n=v	preterite_imperfect	other	NA	NA	main line	44	
+b6	kvan4	Bagvalal	15	s’ajli-r	читать	v-msd	masdar	other	NA	NA	dependent	45	
+b6	kvan4	Bagvalal	15	kakir-aː-χ ek’ʷa	критиковать есть	v-ms.ipf-conv cop	present	other	NA	NA	comment	45	
+b7	kvan5	Bagvalal	15	b=uk’a=b=eːna-ʁala	быть	n=v=n=conv.comit-rala	converb	other	NA	NA	dependent	46	
+b7	kvan5	Bagvalal	15	b=uk’-a-lab-aː-ʁala	быть	n=v-pot-abo-f-rala	categorical affirmative	other	NA	NA	quote	46	
+b7	kvan5	Bagvalal	15	b=uk’-ur-oː=b	быть	n=v-ipf-part=n	participle	other	NA	NA	quote	46	
+b7	kvan5	Bagvalal	15	b=uħ-eː-ʁala	проскальзывать	n=v-caus-rala	preterite	pst	NA	NA	quote	46	
+b8	kvan3	Bagvalal	15	k’anc’ur-u=b=q’aɬːani	прыгать	v-part=n=temp	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	15	r=išːi-ra	хватать	npl=v-ipf.inf	infinitive	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	15	b=eχːeː-n-oː=b	начинать	n=v-ipf-part=n	participle	other	NA	NA	unknown	48	
+b8	kvan3	Bagvalal	15	k’anc’ur-a-ɬ-o=b	прыгать	v-ms.pot-fut-part=n	participle	other	NA	NA	unknown	48	
+b8	kvan3	Bagvalal	15	r=išːi-r-oːr	хватать	npl=v-ipf-part=npl	participle	other	NA	NA	unknown	48	
+b8	kvan3	Bagvalal	15	b=uk’ur b=uƛ’eː-raː-χ	быть гнать	hpl=v=hpl hpl=v-ipf-conv	preterite_imperfect	other	NA	NA	main line	48	
+b9	kvan3	Bagvalal	15			v-msd-obl-erg	masdar	other	NA	NA	non-clausal	51	
+b9	kvan3	Bagvalal	15			v-ipf-conv-rabi m=v	preterite_imperfect	other	NA	NA	main line	51	
+t01	mish1	Tsakhur	15	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	52	
+t01	mish1	Tsakhur	15	aXʷ-a-na	оставаться	1.v-ipf-aa	atr_present	other	af		quote	52	
+t02	mish1	Tsakhur	15	ac’a wo=d=un	знать быть	4.v cop=4=a	af_durative	other	af	nep	quote	53	
+t02	mish1	Tsakhur	15	ha=w=ʔ-u-na	делать	3=v-pf-aa	atr_aorist	pst	af		main line	53	
+t02	mish1	Tsakhur	15	taslim-x-e	сдаваться-стать	v-1.v-imp	imperative	other	naf		quote	53	
+t02	mish1	Tsakhur	15	massa hiwo ɨxa-j	продавать давать стать	v 1.v.pf 1.v.pf-msd	masdar	other	naf		dependent	53	
+t4	mish4	Tsakhur	15	giwa=t=χɨn	вешать	npl.v.pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	15	ič’u wo=r	входить быть	1.v-pf v=1	naf_perfect	pf	naf	ep	main line	62	
+t6	mish5	Tsakhur	15	qa=p=pa	приходить	3=v.pf=adv.3	adv_converb	other	naf		dependent	66	adverbialized form used as converb, specific to this speaker
+t6	mish5	Tsakhur	15	wo=d=ɨm-mɨ	быть	v=npl=a-pl	atr_present	other	af		main line	66	
+t6	mish5	Tsakhur	15	wo=d=ɨm-mɨ	быть	v=npl=a-pl	atr_present	other	af		main line	66	
+t6	mish5	Tsakhur	15	(wo=d=niː)	быть	v=4=em2	present	other	naf		main line	66	
+t7	mish8	Tsakhur	15	sa=w=ʔ-u-na	собирать	3=v-pf-aa	atr_aorist	pst	af		main line	67	
+t8	mish4	Tsakhur	15	ɨxa-jn-ne	стать	4.v.pf-a-q2	atr_aorist	pst	af		quote	68	
+t8	mish4	Tsakhur	15	gi=d=ʁɨl-o=d	начаться-быть	4=v.pf-v=4	naf_perfect	pf	naf	ep	main line	68	
+t8	mish4	Tsakhur	15	deš-de	не.быть	neg.cop-q2	present	other	naf		quote	68	
+t8	mish4	Tsakhur	15	ič’e-sːe	входить	1.v-temp2	sconverb	other	naf		dependent	68	
+b1	kvan4	Bagvalal	16	b=et-aː-ɬ-o=ba weč’e	оставлять не.есть	hpl=v-pot-fut-part=hpl neg.cop	future	other	NA	NA	quote	1	
+b1	kvan4	Bagvalal	16	b=ac’-ir-oː=b	достигать	n=v-ipf-part=n	participle	other	NA	NA	dependent	1	
+b1	kvan4	Bagvalal	16	b=ij-a-raː	знать	n=v-pot-cond	sconverb	other	NA	NA	dependent	1	
+b10	kvan14	Bagvalal	16			n=adj=vrb=n=conv	converb	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	16			m=v=m=conv	converb	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	16			v=part.n=da	participle	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	16			n=v=n=conv cop	perfect	pf	NA	NA	main line	5	
+b10	kvan14	Bagvalal	16			v=part.m m=v-di	preterite_resultative	other	NA	NA	quote	5	
+b14	kvan4	Bagvalal	16			cop=part.m	participle	other	NA	NA	dependent	10	
+b14	kvan4	Bagvalal	16			cop	present	other	NA	NA	quote	10	
+b14	kvan4	Bagvalal	16			v	preterite	pst	NA	NA	main line	10	
+b17	kvan13	Bagvalal	16			n=v=n=conv cop	perfect	pf	NA	NA	main line	19	
+b17	kvan13	Bagvalal	16			cop-q-re	present	other	NA	NA	quote	19	
+b23	kvan3	Bagvalal	16			cop-q-rala	present	other	NA	NA	quote	29	
+b25	kvan14	Bagvalal	16			v=n=conv	converb	other	NA	NA	dependent	41	
+b25	kvan14	Bagvalal	16			n=v=n=conv cop	perfect	pf	NA	NA	main line	41	
+b25	kvan14	Bagvalal	16			v-part=n=temp	sconverb	other	NA	NA	dependent	41	
+b4	kvan11	Bagvalal	16	b=uɬu=b	стать	n=v=part.n	participle	other	NA	NA	NA	43	
+b4	kvan11	Bagvalal	16	k’ʷaː=w=o ek’ʷa-di	убивать есть	v=m=conv cop-di	perfect	pf	NA	NA	quote	43	
+b4	kvan11	Bagvalal	16	heƛ’i-raː-χ ek’ʷa	говорить есть	v-ipf-conv cop	present	other	NA	NA	comment	43	
+b5	kvan4	Bagvalal	16	ašti=b=o b=uk’a	слушать быть	v=n=conv n=v	preterite_pluperfect	other	NA	NA	main line	44	
+b6	kvan4	Bagvalal	16	bihi-r-la	брать	v-msd-la	masdar	other	NA	NA	dependent	45	
+b6	kvan4	Bagvalal	16	kakir-aː-χ ek’ʷa	критиковать есть	v-ms.ipf-conv cop	present	other	NA	NA	comment	45	
+b7	kvan5	Bagvalal	16	džeː=j=o	делать	v=f=conv	converb	other	NA	NA	dependent	46	
+b7	kvan5	Bagvalal	16	j=e-be-ʁala	приезжать	f=v-imp-rala	imperative	other	NA	NA	quote	46	
+b8	kvan3	Bagvalal	16	w=ič’a-me-ʁala	смотреть	m=v-imp-rala	imperative	other	NA	NA	quote	48	
+b8	kvan3	Bagvalal	16	heƛ’i-r-oː=b	говорить	v-ipf-part=n	participle	other	NA	NA	main line	48	present translation
+b8	kvan3	Bagvalal	16	ek’ʷ-eːš-dala	есть	cop-q-dala	present	other	NA	NA	quote	48	
+t01	mish1	Tsakhur	16	ɢada=r=xun=na	бежать	1=v.pf-aa	atr_aorist	pst	af		main line	52	
+t01	mish1	Tsakhur	16	sa=p’=k’ɨl	возвращаться	hpl=v.pf	converb	other	naf		dependent	52	
+t01	mish1	Tsakhur	16	qaːI-nɢaI	идти	v.ipf-temp1	sconverb	other	naf		dependent	52	
+t02	mish1	Tsakhur	16	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	53	
+t02	mish1	Tsakhur	16	qik’-e-dže	умирать	1.v-imp-juss	jussive	other	naf		quote	53	
+t02	mish1	Tsakhur	16	gjoxːʷan-na	гореть	1.v.pot-opt	optative	other	naf		quote	53	
+t2	mish3	Tsakhur	16	sɨʁoc-aʔ-u-na	вставать-делать	v-1.v-pf-aa	atr_aorist	pst	af		first	58	
+t2	mish3	Tsakhur	16	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	58	
+t2	mish3	Tsakhur	16	haʔ-a-ni	делать	4.v-ipf-aobl	participle	other	ptcp		dependent	58	
+t3	mish4	Tsakhur	16	ejxe ɨxa	стать стать	1.v-ipf 1.v-pf	imperfect	other	naf		first	61	
+t4	mish4	Tsakhur	16	ačmiš-haʔ-as	открывать-делать	v-4.v-pot	infinitive	other	naf		dependent	62	
+t4	mish4	Tsakhur	16	ɨxa deš-o=d	стать не.быть-быть	4.v.pf neg.cop-v=4	naf_perfect	pf	naf	ep	main line	62	
+t4	mish4	Tsakhur	16	ič’ʷ-iːnɢaˁ	входить	1.v.pf-temp1	sconverb	other	naf		dependent	62	
+t6	mish6	Tsakhur	16	NA	NA	NA	NA	NA			NA	66	
+t7	mish8	Tsakhur	16	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	67	
+t7	mish8	Tsakhur	16	saʔ-u	собирать	npl.v-pf	converb	other	naf		dependent	67	
+t7	mish8	Tsakhur	16	qah-u	зажигать	npl.v-pf	converb	other	naf		dependent	67	
+t7	mish8	Tsakhur	16	deš-in	не.быть	neg.cop-a	participle	other	ptcp		dependent	67	
+t7	mish8	Tsakhur	16	deš-in	не.быть	neg.cop-a	participle	other	ptcp		dependent	67	
+t7	mish8	Tsakhur	16	deš-in	не.быть	neg.cop-a	participle	other	ptcp		dependent	67	
+t7	mish8	Tsakhur	16	qoːxʷar-as	варить	3.v-pot	potential	other	naf		main line	67	
+t8	mish4	Tsakhur	16	ɨxa-j-jiː	стать	4.v.pf-msd-and	masdar	other	naf		non-clausal	68	
+t8	mish4	Tsakhur	16	d-exa-j	стать	neg-4.v-msd	masdar	other	naf		non-clausal	68	
+t8	mish4	Tsakhur	16	iwho-wo=d	сказать-быть	v.pf-v=4	naf_perfect	pf	naf	ep	main line	68	
+t8	mish4	Tsakhur	16	ac’a-x-es	знать-стать	4.v-4.v-pot	potential	other	naf		quote	68	
+b1	kvan4	Bagvalal	17	hurhiri-č’i-raː	шевелиться	v-neg-cond	converb	other	NA	NA	dependent	1	
+b1	kvan4	Bagvalal	17	c’ʷan-aː-ɬ-o=b ek’ʷa	думать есть	v-ms.pot-fut-part=n cop	future	other	NA	NA	quote	1	
+b1	kvan4	Bagvalal	17	b=ac’-iraː-χ weč’e-di	достигать не.есть	n=v-ipf-conv neg.cop-di	present	other	NA	NA	quote	1	
+b10	kvan14	Bagvalal	17			m=v=m=conv neg.cop	perfect	pf	NA	NA	main line	5	
+b14	kvan4	Bagvalal	17			m=v=m=conv	converb	other	NA	NA	dependent	10	
+b14	kvan4	Bagvalal	17			n=v	preterite	pst	NA	NA	main line	10	
+b17	kvan13	Bagvalal	17			m=v=m=conv	converb	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	17			m=v-ipf-part=m	participle	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	17			v=m=conv cop	perfect	pf	NA	NA	main line	19	
+b17	kvan13	Bagvalal	17			cop-re	present	other	NA	NA	quote	19	
+b23	kvan3	Bagvalal	17			n=v	preterite	pst	NA	NA	main line	29	
+b4	kvan11	Bagvalal	17	s’ik’iri=r=o	увеличиваться	v=hpl=conv	converb	other	NA	NA	dependent	43	
+b4	kvan11	Bagvalal	17	b=uh-eː-r	собираться	n=v-caus-msd	masdar	other	NA	NA	dependent	43	
+b4	kvan11	Bagvalal	17	b=eta=b=o ek’ʷa	оставлять есть	n=v=n=conv cop	perfect	pf	NA	NA	comment	43	
+b5	kvan4	Bagvalal	17	b=uku	падать	n=v	preterite	pst	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	17	b=eɬi	уходить	n=v	preterite	pst	NA	NA	main line	44	
+b6	kvan4	Bagvalal	17	b=at’a-li-r	разный	n=v-vrb-msd	masdar	other	NA	NA	NA	45	
+b6	kvan4	Bagvalal	17	ek’ʷa	есть	cop	present	other	NA	NA	comment	45	
+b7	kvan5	Bagvalal	17	heƛ’i=b=eːna	говорить	v=v=conv.comit	converb	other	NA	NA	dependent	46	
+b7	kvan5	Bagvalal	17	j=eː-raː-č’e-ʁe-di	приезжать	f=v-ipf-fut.neg-re-di	future	other	NA	NA	quote	46	
+b7	kvan5	Bagvalal	17	b=is-an-ʁe	находить	n=v-pot.imp-re	imperative	other	NA	NA	quote	46	
+b7	kvan5	Bagvalal	17	j=uħ-aː	проскальзывать	f=v-pot.inf	infinitive	other	NA	NA	dependent	46	
+b7	kvan5	Bagvalal	17	j=uku-č’-u=j=ʁala-di-la	быть.должным	f=v-neg-part=f=rala-di-la	participle	other	NA	NA	quote	46	
+b7	kvan5	Bagvalal	17	j-uk’-ura-da-č’i-ʁe-di	быть	f=v-ipf-da-neg-re-di	preterite	pst	NA	NA	dependent	46	negative preterite, formed from imperfective stem? + form is subordinate to future auxiliary
+b7	kvan5	Bagvalal	17	heƛ’i	говорить	v	preterite	pst	NA	NA	main line	46	
+b8	kvan3	Bagvalal	17	b=ah-a-ʁe	брать	n=v-pot.imp-re	imperative	other	NA	NA	quote	48	
+b8	kvan3	Bagvalal	17	w=ič’-in-oː=w	смотреть	m=v-ipf-part=m	participle	other	NA	NA	main line	48	
+b8	kvan3	Bagvalal	17	heƛ’i-r-oː=b	говорить	v-ipf-part=n	participle	other	NA	NA	quote	48	
+b8	kvan3	Bagvalal	17	ek’ʷa-ʁa-di	есть	cop-ra-di	present	other	NA	NA	quote	48	
+t01	mish1	Tsakhur	17	jug-qixa	хороший-стать	adj-v.pf	aorist	pst	naf		quote	52	
+t01	mish1	Tsakhur	17	ha=w=ʔ-u	делать	3=v-pf	aorist	pst	naf		quote	52	
+t02	mish1	Tsakhur	17	ajt’ɨl-na	связывать	1.v.pf-aa	atr_aorist	pst	af		main line	53	
+t02	mish1	Tsakhur	17	aqq-ɨ	хватать	1.v-pf	converb	other	naf		dependent	53	
+t2	mish3	Tsakhur	17	iwho	говорить	v.pf	aorist	pst	naf		quote	58	
+t2	mish3	Tsakhur	17	iwh-e	говорить	v-imp	imperative	other	naf		quote	58	
+t3	mish4	Tsakhur	17	ič’u	входить	1.v-pf	aorist	pst	naf		main line	61	converb?
+t3	mish4	Tsakhur	17	wo=r j=ixa	быть стать	v=2 2=v.pf	naf_perfect	pf	naf	ep	main line	61	
+t4	mish4	Tsakhur	17	ɨxa	стать	4.v.pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	17	ɨxa	стать	4.v.pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	17	ilʲakː-ɨ-na	смотреть	1.v-pf-aa	atr_aorist	pst	af		main line	62	
+t4	mish4	Tsakhur	17	ič’ʷ-iːnɢaˁ	входить	1.v-pf v=1	sconverb	other	naf		dependent	62	
+t6	mish5	Tsakhur	17	hi=p=xɨr	доходить	hpl=v.pf	aorist	pst	naf		main line	66	
+t6	mish5	Tsakhur	17	ɨxa	стать	4.v.pf	aorist	pst	naf		main line	66	
+t6	mish5	Tsakhur	17	haˁzir-u=w=xa-jm-mɨ	готовиться-стать	v-hpl=v.pf-a-pl	atr_aorist	pst	af		main line	66	
+t6	mish5	Tsakhur	17	atːamiš-u=w=xa-jm-mɨ	трогаться-стать	v-hpl=v.pf-a-pl	atr_aorist	pst	af		main line	66	
+t6	mish5	Tsakhur	17	janašmiš-e=p=xa-jm-mɨ	приступать-стать	v-hpl=v.pf-a-pl	atr_aorist	pst	af		main line	66	
+t6	mish5	Tsakhur	17	hi=p=xɨr-iː-l-e	доходить	hpl=v.pf-msd-sup-el	masdar	other	naf		dependent	66	
+t7	mish8	Tsakhur	17	o=t=xun-in	кушать	4=v.pf-a	atr_aorist	pst	af		main line	67	
+t7	mish8	Tsakhur	17	q’ɨš-o=d qɨʁɨč’-u	масло-быть выходить	noun.4-v=4 4.v-pf	naf_perfect	pf	naf	ep	main line	67	
+t8	mish4	Tsakhur	17	alʲaːt’-u	брать	4.v-pf	converb	other	naf		dependent	68	
+t8	mish4	Tsakhur	17	a=b=k’ɨn-o=b	идти-быть	hpl=v.pf-v=hpl	naf_perfect	pf	naf	ep	main line	68	
+b1	kvan4	Bagvalal	18	heƛ’i=b=o	говорить	v=n=conv	converb	other	NA	NA	dependent	1	
+b1	kvan4	Bagvalal	18	b=eli=r=o ek’ʷa	уходить есть	hpl=v=hpl=conv cop	perfect	pf	NA	NA	main line	1	
+b1	kvan4	Bagvalal	18	b=ac’-iraː-χ weč’e-di-la	достигать не.есть	n=v-ipf-conv neg.cop-di-la	present	other	NA	NA	quote	1	
+b10	kvan14	Bagvalal	18			n=v=n=conv cop	perfect	pf	NA	NA	main line	5	
+b10	kvan14	Bagvalal	18			v-pot-csl	sconverb	other	NA	NA	dependent	5	
+b14	kvan4	Bagvalal	18			m=v-pot.inf	infinitive	other	NA	NA	dependent	10	
+b14	kvan4	Bagvalal	18			m=v-pot.inf	infinitive	other	NA	NA	dependent	10	
+b14	kvan4	Bagvalal	18			neg.cop-part=m	participle	other	NA	NA	dependent	10	
+b14	kvan4	Bagvalal	18			neg.cop-part=m	participle	other	NA	NA	dependent	10	
+b14	kvan4	Bagvalal	18			v=n=conv cop	perfect	pf	NA	NA	main line	10	
+b14	kvan4	Bagvalal	18			cop-gora	present	other	NA	NA	quote	10	
+b17	kvan13	Bagvalal	18			v-ms.ipf-conv	converb	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	18			v-ms.ipf-conv	converb	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	18			cop-re	present	other	NA	NA	quote	19	
+b17	kvan13	Bagvalal	18			cop-re	present	other	NA	NA	quote	19	
+b17	kvan13	Bagvalal	18			cop-re	present	other	NA	NA	quote	19	
+b23	kvan3	Bagvalal	18			v	preterite	pst	NA	NA	main line	29	
+b5	kvan4	Bagvalal	18	r=ihi=b=o	брать	npl=v=n=conv	converb	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	18	t’ani=b=o	кидать	v=n=conv	converb	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	18	b=ihi=b=o	брать	n=v=n=conv	converb	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	18	w=eː-bi-č’-aː	приходить	m=v-bi-neg-pot.inf	infinitive	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	18	šardeː	подавать	v	preterite	pst	NA	NA	main line	44	
+b6	kvan4	Bagvalal	18	b=uku-č’i-r	становиться	n=v-neg-msd	masdar	other	NA	NA	NA	45	
+b6	kvan4	Bagvalal	18	b=uɬu	стать	n=v	preterite	pst	NA	NA	main line	45	
+b7	kvan5	Bagvalal	18	w=aː=w=o	приходить	m=v=m=conv	converb	other	NA	NA	dependent	46	
+b7	kvan5	Bagvalal	18	s’ajl-oː=b	учиться	v.ipf-part=n	participle	other	NA	NA	quote	46	
+b7	kvan5	Bagvalal	18	heƛ’i	говорить	v	preterite	pst	NA	NA	main line	46	
+b8	kvan6	Bagvalal	18	b=uk’-eːšt-oː	быть	n=v-q-m	preterite	pst	NA	NA	conversation	48	
+t01	mish1	Tsakhur	18	ɢadže-ne	видеть	4.v.pf-q2	aorist	pst	naf		quote	52	
+t01	mish1	Tsakhur	18	haʔʷ-in	делать	4.v.pf-a	atr_aorist	pst	af		main line	52	
+t02	mish1	Tsakhur	18	ha=w=ʔ-u-na	делать	3=v-pf-aa	atr_aorist	pst	af		main line	53	
+t02	mish1	Tsakhur	18	ix-es-i	стать	4.v-pot-irr	irrealis	other	naf		quote	53	
+t2	mish3	Tsakhur	18	iwho	говорить	v-pf	aorist	pst	naf		main line	58	
+t2	mish3	Tsakhur	18	ejh-e-jiː	говорить	v-ipf-em1	present	other	naf		main line	58	translation past
+t3	mish4	Tsakhur	18	ič’u	входить	1.v-pf	aorist	pst	naf		main line	61	
+t3	mish4	Tsakhur	18	waχt-o=b w=uxa	время-быть стать	noun.3-v=3 3=v.pf	naf_perfect	pf	naf	ep	main line	61	
+t3	mish4	Tsakhur	18	ɨxa deš-o=r	стать не.быть-быть	1.v.pf neg.cop-v=1	naf_perfect	pf	naf	ep	main line	61	
+t3	mish4	Tsakhur	18	qɨˁʁaː-na	выходить	2.v.ipf-aa	participle	other	ptcp		non-clausal	61	
+t4	mish4	Tsakhur	18	a=w=t’ul w=uxa	привязывать стать	3=v.pf 3=v.pf	pluperfect	other	naf		main line	62	
+t6	mish5	Tsakhur	18	qɨʁaʔ-u=da	вынимать	npl.v-pf=adv.4	adv_converb	other	naf		dependent	66	adverbialized form used as converb, specific to this speaker
+t6	mish5	Tsakhur	18	haʔ-u=da	делать	4.v-pf=adv.4	adv_converb	other	naf		dependent	66	adverbialized form used as converb, specific to this speaker
+t6	mish5	Tsakhur	18	qɨʁaʔ-u=da	вынимать	npl.v-pf=adv.4	adv_converb	other	naf		dependent	66	adverbialized form used as converb, specific to this speaker
+t6	mish5	Tsakhur	18	k’ʲaʔ-u=da	раскладывать	4.v-pf=adv.4	adv_converb	other	naf		dependent	66	adverbialized form used as converb, specific to this speaker
+t7	mish8	Tsakhur	18	bit’al-aʔ-iːn	раздавать-делать	v-4.v.pf-a	atr_aorist	pst	af		main line	67	
+t7	mish8	Tsakhur	18	axʷ-iːn=ɨd	оставаться	4.v.pf-a=coh.4	participle	other	ptcp		non-clausal	67	
+t8	mish4	Tsakhur	18	deš-xe	не.быть	neg.cop-hab	habitual	other	naf		quote	68	
+t8	mish4	Tsakhur	18	a=w=q-as	ловить	3=v-pot	infinitive	other	naf		dependent	68	
+t8	mish4	Tsakhur	18	qidɣɨn-o=d haʔ-u	вопрос-быть делать	noun.4-v=4 4.v-pf	naf_perfect	pf	naf	ep	main line	68	
+t8	mish4	Tsakhur	18	wo=d=niː	быть	v=4=q4	present	other	naf		quote	68	
+t8	mish4	Tsakhur	18	deš-di	не.быть	neg.cop-q4	present	other	naf		quote	68	
+t8	mish4	Tsakhur	18	hi=p=xɨr-iːnɢaˁ	доходить	hpl=v.pf-temp1	sconverb	other	naf		dependent	68	
+t8	mish4	Tsakhur	18	uˁqː-a-nɢaˁ	отправляться	1.v-ipf-temp1	sconverb	other	naf		dependent	68	
+b1	kvan4	Bagvalal	19	s’ik’-ir-a	увеличиваться	v-ms.ipf.inf	infinitive	other	NA	NA	dependent	2	
+b1	kvan4	Bagvalal	19	k’anc’uri-r	прыгать	v-msd	masdar	other	NA	NA	dependent	2	
+b1	kvan4	Bagvalal	19	b=uh-ur	забирать	n=v-msd	masdar	other	NA	NA	dependent	2	
+b1	kvan4	Bagvalal	19	ašːa	начинаться	v	preterite	pst	NA	NA	first	2	
+b10	kvan14	Bagvalal	19			f=v=f=conv	converb	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	19			v=f=conv	converb	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	19			v=f=conv	converb	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	19			v-msd-la	masdar	other	NA	NA	non-clausal	5	
+b10	kvan14	Bagvalal	19			v=part.m	participle	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	19			v-ipf-part=n	participle	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	19			v=f=conv cop	perfect	pf	NA	NA	main line	5	
+b10	kvan14	Bagvalal	19			m=v-pot-csl	sconverb	other	NA	NA	dependent	5	
+b14	kvan4	Bagvalal	19			noun-vrb-msd	masdar	other	NA	NA	non-clausal	10	
+b14	kvan4	Bagvalal	19			v-ipf-part=n	participle	other	NA	NA	main line	10	
+b14	kvan4	Bagvalal	19			n=v-ipf-part=m	participle	other	NA	NA	dependent	10	
+b14	kvan4	Bagvalal	19			v-part=n=eq1	participle	other	NA	NA	dependent	10	
+b14	kvan4	Bagvalal	19			m=v=m=conv cop	perfect	pf	NA	NA	quote	10	
+b14	kvan4	Bagvalal	19			m=v-neg	preterite	pst	NA	NA	main line	10	
+b17	kvan13	Bagvalal	19			f=v=f=conv	converb	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	19			v=n=conv cop	perfect	pf	NA	NA	main line	19	
+b23	kvan3	Bagvalal	19			cop	present	other	NA	NA	main line	29	
+b5	kvan4	Bagvalal	19	b=uk’-aː-ɬ-o=b	быть	n=v-pot-fut-part=n	participle	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	19	b=ija	знать	n=v	preterite	pst	NA	NA	main line	44	
+b7	kvan5	Bagvalal	19	ek’ʷa-ʁala	есть	cop-rala	present	other	NA	NA	quote	46	
+b8	kvan3	Bagvalal	19	b=uk’a	быть	n=v	preterite	pst	NA	NA	conversation	48	
+t01	mish1	Tsakhur	19	ɢadže deš	видеть не.быть	4.v.pf neg.cop	aorist	pst	naf		quote	52	
+t01	mish1	Tsakhur	19	iwho-jn	говорить	4.v.pf-a	atr_aorist	pst	af		quote	52	
+t01	mish1	Tsakhur	19	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	52	
+t01	mish1	Tsakhur	19	ɨk’ar deš-in-wɨ	болеть не.быть	4.v.ipf neg.cop-a-wy	atr_present	other	af		quote	52	
+t02	mish1	Tsakhur	19	ilʲo=r=zur	останавливаться	1=v.pf	aorist	pst	naf		quote	53	
+t02	mish1	Tsakhur	19	ɢadže-na	видеть	1.v.pf-atr	atr_aorist	pst	af		main line	53	
+t02	mish1	Tsakhur	19	ajt’ɨl	связывать	1.v.pf	converb	other	naf		dependent	53	
+t2	mish3	Tsakhur	19	mat-xa-jiː	удивляться-стать	v-1.v.pf-em1	aorist	pst	naf		main line	58	
+t2	mish3	Tsakhur	19	iwh-es	говорить	v-pot	infinitive	other	naf		dependent	58	
+t2	mish3	Tsakhur	19	aˁχ-a-wɨ	мочь	4.v-ipf-wy	present	other	naf		dependent	58	translation past / wy
+t3	mish4	Tsakhur	19	baʁlamiš-aʔ-as	закрываться-делать	v-3.v-pot	infinitive	other	naf		dependent	61	
+t3	mish4	Tsakhur	19	ič’-u wo=r	входить быть	1.v-pf v=1	naf_perfect	pf	naf	ep	main line	61	
+t3	mish4	Tsakhur	19	haˁzir-j=ejx-e	готовый-стать	adj-2=v-ipf	present	other	naf		main line	61	past translation
+t4	mish4	Tsakhur	19	w=uxa	стать	3=v.pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	19	w=uxa	стать	3=v.pf	aorist	pst	naf		main line	62	
+t6	mish5	Tsakhur	19	aˁlʲhaː-s	идти	v-pot	infinitive	other	naf		dependent	66	
+t6	mish5	Tsakhur	19	bɨkɨr-aʔ-iː-l-e	выполнить-делать	v-npl.v.pf-msd-sup-el	masdar	other	naf		dependent	66	
+t6	mish5	Tsakhur	19	w=ukːan	хотеть	hpl=v.ipf	present	other	naf		main line	66	
+t7	mish8	Tsakhur	19	ɢatːixan-aʔʷ-iːn	освобождаться-делать	4.v-4.pf-a	atr_aorist	pst	af		comment	67	
+t8	mish4	Tsakhur	19	ɨxa-j-jiː	стать	4.v.pf-msd.4-and	masdar	other	naf		non-clausal	68	
+t8	mish4	Tsakhur	19	d-exa-j	стать	neg-4.v.pf-msd.4	masdar	other	naf		non-clausal	68	
+t8	mish4	Tsakhur	19	iwho-wo=d	сказать-быть	v.pf-v=4	naf_perfect	pf	naf	ep	main line	68	
+t8	mish4	Tsakhur	19	k’elʲ-deš-o=d	помнить-не.быть-быть	v-neg-v=4	present	other	naf		quote	68	
+b1	kvan4	Bagvalal	20	č’alʕa=m=o	надоедать	v=n=conv	converb	other	NA	NA	dependent	2	
+b1	kvan4	Bagvalal	20	b=uh-aː	собираться	hpl=v-pot.inf	infinitive	other	NA	NA	dependent	2	
+b1	kvan4	Bagvalal	20	dž-aːla	делать	v-pot.inf	infinitive	other	NA	NA	dependent	2	
+b1	kvan4	Bagvalal	20	džeː	делать	v	preterite	pst	NA	NA	main line	2	
+b10	kvan14	Bagvalal	20			f=v=f=conv	converb	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	20			v-neg	converb	other	NA	NA	dependent	5	converb in translation
+b10	kvan14	Bagvalal	20			v-imp	imperative	other	NA	NA	quote	5	
+b10	kvan14	Bagvalal	20			f=v-ipf-part=f=la	participle	other	NA	NA	non-clausal	5	
+b10	kvan14	Bagvalal	20			f=v=f=conv cop	perfect	pf	NA	NA	main line	5	
+b10	kvan14	Bagvalal	20			f=v-ms-bi-prh	prohibitive	other	NA	NA	quote	5	
+b17	kvan13	Bagvalal	20			v=n=conv cop	perfect	pf	NA	NA	main line	19	
+b23	kvan3	Bagvalal	20			v	preterite	pst	NA	NA	main line	29	
+b5	kvan4	Bagvalal	20	w=eɬi	идти	m=v	preterite	pst	NA	NA	main line	44	
+b7	kvan5	Bagvalal	20	j=uħa-č’-u=b=q’aɬːani	проскальзывать	f=v-neg-part=n=temp	converb	other	NA	NA	dependent	46	
+b7	kvan5	Bagvalal	20	j=uħa-č’-u=b=q’aɬːani	проскальзывать	f=v-neg-part=f=q-rala	participle	other	NA	NA	quote	46	
+b7	kvan5	Bagvalal	20	s’ajl-oː=b	учиться	v.ipf-part=n	participle	other	NA	NA	quote	46	
+b8	kvan3	Bagvalal	20	b=eɬ-u=b=q’aɬːir	идти	hpl=v-part=n=temp	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	20	čunkuri=b=o ek’ʷa	разламываться есть	v=n=conv cop	perfect	pf	NA	NA	main line	48	
+t01	mish1	Tsakhur	20	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	52	
+t01	mish1	Tsakhur	20	ac’a-n-ki	знать	v.ipf-a-ki	atr_present	other	af		quote	52	
+t01	mish1	Tsakhur	20	ejxe-n deš	стать не.быть	4.v.ipf-a neg.cop	present	other	naf		quote	52	
+t02	mish1	Tsakhur	20	ɨxa	стать	1.v.pf	aorist	pst	naf		comment	53	
+t3	mish4	Tsakhur	20	iwho wo=d	говорить	v.pf v=4	naf_perfect	pf	naf	ep	main line	61	
+t3	mish4	Tsakhur	20	wo=d=ɨm-mɨ	быть	v=npl=a-pl	participle	other	ptcp		non-clausal	61	
+t3	mish4	Tsakhur	20	wo=d=ɨm-mɨ	быть	v=npl=a-pl	participle	other	ptcp		non-clausal	61	
+t3	mish4	Tsakhur	20	ɨkːan	хотеть	npl.v.ipf	present	other	naf		quote	61	
+t3	mish4	Tsakhur	20	maˁχu=r-o=r ɨxa ič’u	так-быть стать входить	adv=1-v=1 1.v.pf 1.v-pf	unknown	other	naf		main line	61	
+t4	mish4	Tsakhur	20	ačmiš-ha=w=ʔ-u	открывать-делать	v-3=v-pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	20	qa=w=q-u	открыть.замок	3=v-pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	20	ɨˁχ-ɨ	ударять	4=v-pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	20	ho=p’=t’ul-na	вести.за.уздечку	3=v.pf-aa	atr_aorist	pst	af		main line	62	
+t6	mish5	Tsakhur	20	haʔ-u	делать	npl.v-pf	converb	other	naf		dependent	66	
+t6	mish5	Tsakhur	20	aˁlhaː-s	идти	v-pot	infinitive	other	naf		dependent	66	
+t6	mish5	Tsakhur	20	w=ukːan	быть.нужным	hpl=v.ipf	present	other	naf		main line	66	
+t6	mish5	Tsakhur	20	aˁlhaː-s-se	идти	v-pot-temp2	sconverb	other	naf		dependent	66	
+t8	mish4	Tsakhur	20	ilʲojk’alʲ-iː-xe	подпрыгивать	npl.v.ipf-em1-hab	habitual	other	naf		quote	68	
+t8	mish4	Tsakhur	20	k’elʲ-o=d=un	помнить-быть	v-v=4=a	present	other	naf		quote	68	
+t8	mish4	Tsakhur	20	o=t=xan-anɢaˁ	кушать	4=v.ipf-temp1	sconverb	other	naf		dependent	68	
+b1	kvan4	Bagvalal	21	džeː-ra	делать	v-ipf.inf	infinitive	other	NA	NA	quote	2	
+b1	kvan4	Bagvalal	21	b=eː-raː-χ ek’ʷa	приходить есть	n=v-ipf-conv cop	present	other	NA	NA	main line	2	
+b10	kvan14	Bagvalal	21			v=f=conv	converb	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	21			v=f=conv	converb	other	NA	NA	dependent	5	
+b10	kvan14	Bagvalal	21			v-msd-la	masdar	other	NA	NA	non-clausal	5	
+b10	kvan14	Bagvalal	21			v=f=conv cop	perfect	pf	NA	NA	main line	5	
+b17	kvan13	Bagvalal	21			v-caus=m=conv cop	perfect	pf	NA	NA	main line	19	
+b5	kvan4	Bagvalal	21	j=aː=b=q’aɬːir	привозить	f=v=part.n=temp	converb	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	21	b=eɬ-u=b=q’aɬːir	уходить	n=v-part=n=temp	converb	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	21	w=eɬi=w=o	идти	m=v=m=conv	converb	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	21	č’ʷani=w=o	привязывать	v=m=conv	converb	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	21	j=ihi=w=o	брать	f=v=m=conv	converb	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	21	w=eɬi	уходить	m=v	preterite	pst	NA	NA	main line	44	
+b7	kvan5	Bagvalal	21	heƛ’i=b=eːna	говорить	v=n=conv.comit	converb	other	NA	NA	main line	46	
+b7	kvan5	Bagvalal	21	j=uk’-aː	быть	f=v-pot.inf	infinitive	other	NA	NA	dependent	46	
+b7	kvan5	Bagvalal	21	j=uku-r-oː=j	быть.должным	f=v-ipf-part=f	participle	other	NA	NA	dependent	46	
+b7	kvan5	Bagvalal	21	weč’e-ʁala	не.есть	neg.cop-rala	present	other	NA	NA	quote	46	
+b7	kvan5	Bagvalal	21	ek’ʷa-ʁala	есть	cop-rala	present	other	NA	NA	quote	46	
+b7	kvan5	Bagvalal	21	b=uhu	кончаться	n=v	preterite	pst	NA	NA	main line	46	
+b8	kvan3	Bagvalal	21	w=aχir-a-raːla	подниматься	m=v-pot-conc	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	21	ek’ʷa=b	есть	cop=part.n	participle	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	21	haː-naː-χ b=uk’a-č’i	видеть быть	v-ipf-conv n=v-neg	preterite_imperfect	other	NA	NA	main line	48	
+t01	mish1	Tsakhur	21	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	52	
+t01	mish1	Tsakhur	21	ɢadž-es-ɨn	видеть	1.v-pot-a	atr_potential	other	af		quote	52	
+t01	mish1	Tsakhur	21	hi=r=xɨr-iːnɢaI	приходить	1=v.pf-temp1	sconverb	other	naf		quote	52	
+t02	mish1	Tsakhur	21	qod-u	рвать	npl.v-pf	aorist	pst	naf		main line	53	
+t02	mish1	Tsakhur	21	taraš-aʔ-u	выхватывать-делать	v-4.v-pf	aorist	pst	naf		main line	53	
+t02	mish1	Tsakhur	21	gik’-u-na	убивать	1.v-pf-aa	atr_aorist	pst	af		main line	53	
+t02	mish1	Tsakhur	21	iljo=r=zur-ni	останавливаться	1=v.pf-aobl	participle	other	ptcp		dependent	53	
+t3	mish4	Tsakhur	21	iwho	говорить	v.pf	aorist	pst	naf		main line	61	
+t3	mish4	Tsakhur	21	hil-e	дать	npl.v-imp	imperative	other	naf		quote	61	
+t4	mish4	Tsakhur	21	ho=p’=t’ul	вести.за.уздечку	3=v.pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	21	qɨʁa=w=š-u wo=b	вытаскивать быть	3=v-pf v=3	naf_perfect	pf	naf	ep	main line	62	
+t6	mish4	Tsakhur	21	NA	NA	NA	NA	NA			conversation	66	
+b1	kvan4	Bagvalal	22	b=et-aː	оставлять	n=v-pot.inf	infinitive	other	NA	NA	dependent	2	
+b1	kvan4	Bagvalal	22	b=ešta	отпускать	n=v	preterite	pst	NA	NA	dependent	2	
+b1	kvan4	Bagvalal	22	džeː	делать	v	preterite	pst	NA	NA	main line	2	
+b10	kvan14	Bagvalal	22			v-msd-la	masdar	other	NA	NA	non-clausal	5	
+b10	kvan14	Bagvalal	22			v=n=conv cop	perfect	pf	NA	NA	main line	5	
+b10	kvan14	Bagvalal	22			v=n=conv cop	perfect	pf	NA	NA	main line	5	
+b14	kvan4	Bagvalal	22			cop=part.f	participle	other	NA	NA	dependent	11	
+b14	kvan4	Bagvalal	22			n=v=n=conv cop	perfect	pf	NA	NA	first	11	
+b17	kvan13	Bagvalal	22			v=n=conv	converb	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	22			m=v=m=conv cop	perfect	pf	NA	NA	main line	19	
+b5	kvan4	Bagvalal	22	j=eta=w=o	оставлять	f=v=m=conv	converb	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	22	hak’uj-li=j=o	жена	noun-vrb=f=conv	converb	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	22	har-aː	просить	v-ms.pot.inf	infinitive	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	22	j=ah-aː	брать	f=v-pot.inf	infinitive	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	22	w=eɬi	идти	m=v	preterite	pst	NA	NA	main line	44	
+b8	kvan3	Bagvalal	22	b=aχir=ir=o	подниматься	hpl=v=hpl=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	22	ašːa=b=o	начинать	v=n=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	22	ansːali-ra-la	греться	v-ipf.inf-la	infinitive	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	22	b=iʁ-eː b=uk’a	останавливаться быть	n=v-caus n=v	preterite_pluperfect	other	NA	NA	main line	48	
+t01	mish1	Tsakhur	22	ilʲo=r=zur	останавливаться	1=v.pf	converb	other	naf		dependent	52	aorist as converb
+t01	mish1	Tsakhur	22	oxan-as	есть	4.v-pot	infinitive	other	naf		dependent	52	
+t01	mish1	Tsakhur	22	haIzir-aʔ-a	готовить-делать	v-4.v-ipf	present	other	naf		main line	52	
+t01	mish1	Tsakhur	22	e=p’=č’ʷ-iːnɢaI	входить	hpl=v.pf-temp1	sconverb	other	naf		dependent	52	
+t02	mish1	Tsakhur	22	ɢada=r=xun	бежать	1=v.pf	aorist	pst	naf		main line	53	
+t02	mish1	Tsakhur	22	ɢatːixan-aʔ-u-na	освобождаться-делать	1.v-1.v-pf-aa	atr_aorist	pst	af		main line	53	
+t3	mish4	Tsakhur	22	a=p’=k’ɨn-na	уходить	3=v.pf-aa	atr_aorist	pst	af		quote	61	
+t3	mish4	Tsakhur	22	iwho wo=d	говорить	v.pf v=4	naf_perfect	pf	naf	ep	main line	61	
+t3	mish4	Tsakhur	22	baʁlamiš-aʔ-a	закрываться-делать	v-4.v-ipf	present	other	naf		quote	61	
+t4	mish4	Tsakhur	22	qɨʁa=w=š-u	вытаскивать	3=v-pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	22	fɨkɨramiš-xa-na	думать-стать	v-1.v.pf-aa	atr_aorist	pst	af		main line	62	
+t4	mish4	Tsakhur	22	qɨʁa=w=š-es	вытаскивать	3=v-pot	infinitive	other	naf		dependent	62	
+t6	mish5	Tsakhur	22	wo=r=na	быть	v=1-aa	atr_present	other	af		conversation	66	past translation
+t6	mish5	Tsakhur	22	wo=b=niː	быть	v=hpl-em2	present	other	naf		conversation	66	past translation
+b1	kvan4	Bagvalal	23	b=ešta	отпускать	n=v	converb	other	NA	NA	dependent	2	
+b1	kvan4	Bagvalal	23	b=eta=b	оставлять	n=v=part.n	participle	other	NA	NA	dependent	2	
+b1	kvan4	Bagvalal	23	heƛ’i-r-oː=b	говорить	v-ipf-part=n	participle	other	NA	NA	dependent	2	
+b1	kvan4	Bagvalal	23	b=eli=b=o ek’ʷa	идти есть	n=v=n=conv cop	perfect	pf	NA	NA	main line	2	
+b10	kvan14	Bagvalal	23			v=n=conv cop	perfect	pf	NA	NA	main line	5	
+b10	kvan14	Bagvalal	23			f=v=f=conv cop	perfect	pf	NA	NA	main line	5	
+b10	kvan14	Bagvalal	23			v.ipf-part=n=temp-la	sconverb	other	NA	NA	dependent	5	
+b14	kvan4	Bagvalal	23			v=n=conv	converb	other	NA	NA	dependent	11	
+b14	kvan4	Bagvalal	23			v=n=conv cop	perfect	pf	NA	NA	main line	11	
+b14	kvan4	Bagvalal	23			v-ms.pot-csl-di	sconverb	other	NA	NA	dependent	11	
+b17	kvan13	Bagvalal	23			v-ipf.inf-di	infinitive	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	23			v-pot.inf	infinitive	other	NA	NA	dependent	19	
+b17	kvan13	Bagvalal	23			v-neg-part=m=di-la	participle	other	NA	NA	quote	19	
+b17	kvan13	Bagvalal	23			v=n=conv cop	perfect	pf	NA	NA	main line	19	
+b17	kvan13	Bagvalal	23			cop	present	other	NA	NA	quote	19	
+b5	kvan4	Bagvalal	23	iči=b=o	давать	v=n=conv	converb	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	23	w=aː	приходить	m=v	preterite	pst	NA	NA	main line	44	
+b8	kvan3	Bagvalal	23	b=uk-a-ɬena	падать	n=v-pot-ant2	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	23	b=iʁi=r=o b=uk’=ur	стоять быть	hpl=v=hpl=conv hpl=v=hpl	preterite_pluperfect	other	NA	NA	main line	48	
+t01	mish1	Tsakhur	23	ha=t’=q’ur-wɨ	ломать	4=v.pf-wy	aorist	pst	naf		dependent	52	wy -> nonfinite?
+t01	mish1	Tsakhur	23	ac’a-xa-jn-ki	знать-стать	v-4.v.pf-a-ki	atr_aorist	pst	af		main line	52	
+t01	mish1	Tsakhur	23	ajr-es	приходить	1.v-pot	infinitive	other	naf		dependent	52	
+t01	mish1	Tsakhur	23	a=t’=k’ɨn-iː-l-e	уходить	npl=v.pf-msd-sup-el	masdar	other	naf		dependent	52	
+t01	mish1	Tsakhur	23	d-ɨkːiːkɨn-o=r	хотеть-быть	neg-v.pf-v=1	naf_perfect	pf	naf	ep	main line	52	
+t01	mish1	Tsakhur	23	wo=d haʔ-u	быть делать	cop=npl npl.v-pf	naf_perfect	pf	naf	ep	main line	52	
+t02	mish1	Tsakhur	23	massa hiwo-wɨ	продавать давать	v 1.v.pf-wy	aorist	pst	naf		quote	53	
+t02	mish1	Tsakhur	23	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	53	
+t02	mish1	Tsakhur	23	ɨxa-j	стать	4.v.pf-msd	masdar	other	naf		dependent	53	
+t02	mish1	Tsakhur	23	ac’a deš-o=d	знать не.быть-быть	v.ipf neg.cop-cop=4	naf_durative	other	naf	ep	quote	53	
+t02	mish1	Tsakhur	23	ha=w=ʔ-u-xe	делать	3=v-pf-cond2	sconverb	other	naf		dependent	53	
+t3	mish4	Tsakhur	23	a=j=q-ɨ	держать	2=v-pf	aorist	pst	naf		main line	61	
+t3	mish4	Tsakhur	23	haʔ-u	делать	npl.v-pf	aorist	pst	naf		main line	61	
+t3	mish4	Tsakhur	23	hil-e	давать	npl.v-imp	imperative	other	naf		quote	61	
+t3	mish4	Tsakhur	23	iwho wo=d	говорить быть	v.pf v=4	naf_perfect	pf	naf	ep	main line	61	
+t4	mish4	Tsakhur	23	aːq-as	открывать	npl.v-pot	infinitive	other	naf		dependent	62	
+t4	mish4	Tsakhur	23	wo=d ɨxa	быть стать	v=npl npl.v.pf	naf_perfect	pf	naf	ep	main line	62	
+t4	mish4	Tsakhur	23	w=uxa deš-o=b	стать на.быть-быть	3=v.pf neg.cop-v=3	naf_perfect	pf	naf	ep	main line	62	
+t6	mish6	Tsakhur	23	NA	NA	NA	NA	NA			conversation	66	
+b1	kvan4	Bagvalal	24	ek’ʷa=b	есть	cop=part.n	participle	other	NA	NA	dependent	2	
+b1	kvan4	Bagvalal	24	b=idžu-r-oː=b	расти	n=v-ipf-part=n	participle	other	NA	NA	dependent	2	
+b1	kvan4	Bagvalal	24	b=uk’a	быть	n=v	preterite	pst	NA	NA	main line	2	
+b14	kvan4	Bagvalal	24			n=v=m=conv	converb	other	NA	NA	dependent	12	
+b14	kvan4	Bagvalal	24			m=v-ipf-conv	converb	other	NA	NA	dependent	12	
+b14	kvan4	Bagvalal	24			m=v=m=conv cop	perfect	pf	NA	NA	first	12	
+b5	kvan4	Bagvalal	24	j=isan-č’i	находить	f=v-neg	preterite	pst	NA	NA	main line	44	
+b8	kvan3	Bagvalal	24	b=uχːu=r=o	оставаться	hpl=v=hpl=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	24	b=iʁi-r-oː=b=q’aɬːani	стоять	hpl=v-ipf-part=n=temp	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	24	b=uɬu=b=o	стать	n=v=n=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	24	r=iseː-ra	давить	npl=v-ipf.inf	infinitive	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	24	ƛ’ihã	спать	v	preterite	pst	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	24	b=eɬi	ехать	n=v	preterite	pst	NA	NA	main line	48	
+b8	kvan3	Bagvalal	24	ɬːit’uri	вздрагивать	v	preterite	pst	NA	NA	main line	48	
+b8	kvan3	Bagvalal	24	ašːa	начинать	v	preterite	pst	NA	NA	main line	48	
+t01	mish1	Tsakhur	24	naš-qeːxe ɨxa	стыдиться-стать стать	v-4.v.ipf 4.v.pf	imperfect	other	naf		main line	52	
+t02	mish1	Tsakhur	24	saI=w=χ-u	драться	hpl=v-pf	aorist	pst	naf		main line	53	
+t02	mish1	Tsakhur	24	ʁam-u=w=xa-jm-mɨ	побеждать-стать	v-hpl=v.pf-a-pl	atr_aorist	pst	af		main line	53	
+t3	mish4	Tsakhur	24	iwho wo=d	говорить быть	v.pf v=4	naf_perfect	pf	naf	ep	main line	61	
+t4	mish4	Tsakhur	24	ali=r=k’ɨr	крутиться	1=v.pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	24	qa=b=ɨ	приходить	3=v.pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	24	ilʲakː-ɨ wo=r	смотреть быть	1.v-pf v=1	naf_perfect	pf	naf	ep	main line	62	
+t4	mish4	Tsakhur	24	wo=b	быть	v=3	present	other	naf		main line	62	
+t6	mish5	Tsakhur	24	deš	не.быть	neg.cop	present	other	naf		conversation	66	past translation
+b1	kvan4	Bagvalal	25	džeː	делать	v	preterite	pst	NA	NA	main line	2	
+b14	kvan4	Bagvalal	25			cop=part.hpl=obl.hpl-erg	participle	other	NA	NA	dependent	12	
+b14	kvan4	Bagvalal	25			adj-vrb-part=m	participle	other	NA	NA	quote	12	
+b14	kvan4	Bagvalal	25			n=v=n=conv cop	perfect	pf	NA	NA	main line	12	
+b2	kvan6	Bagvalal	25	ek’ʷa=b=q’aɬːani	есть	v=part.n=temp	converb	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	25	heri=r=o	пугаться	v=hpl=conv	converb	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	25	b=eta=b=o	оставлять	n=v=n=conv	converb	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	25	r=eta=r=o	оставлять	npl=v=npl=conv	converb	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	25	r=eɬ-aː	идти	npl=v-ms.pot.inf	infinitive	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	25	her-a-la	пугаться	v-ms.ipf.inf-la	infinitive	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	25	ek’ʷa-l-laː-la-mi	есть	v-msd-sup.lat-la-mi	masdar	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	25	r=ija-č’-u=r	знать	npl=v-neg-part=npl	participle	other	NA	NA	NA	23	
+b2	kvan6	Bagvalal	25	w=eɬi=w=o weč’e	идти не.есть	m=v=m=conv neg.cop	perfect	pf	NA	NA	first	23	
+b2	kvan6	Bagvalal	25	b=eɬi=r=o ek’ʷa	уходить есть	hpl=v=hpl=conv cop	perfect	pf	NA	NA	main line	23	
+b2	kvan6	Bagvalal	25	r=uk’a-da-la	быть	npl=v-da-loc	preterite	pst	NA	NA	main line	23	
+b5	kvan4	Bagvalal	25	rek’ʷa=j=o	садиться	v=f=conv	converb	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	25	b=ihi=j=o	брать	n=v=f=conv	converb	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	25	j=eɬi=j=o ek’ʷa	уходить есть	f=v=f=conv cop	perfect	pf	NA	NA	main line	44	
+b5	kvan4	Bagvalal	25	š’ʷaː	бежать	v	preterite	pst	NA	NA	main line	44	
+b8	kvan3	Bagvalal	25	džeː-r-oː=b	делать	v-ipf-part=n	participle	other	NA	NA	quote	48	
+b8	kvan3	Bagvalal	25	b=as’ĩː	спрашивать	n=v	preterite	pst	NA	NA	main line	48	
+t02	mish1	Tsakhur	25	aqː-ɨ	хватать	1.v-pf	aorist	pst	naf		main line	53	
+t02	mish1	Tsakhur	25	ɨIqq-a-nɢaI	идти	1.v-ipf-temp1	sconverb	other	naf		dependent	53	
+t3	mish4	Tsakhur	25	hag-u wo=d	показывать быть	npl.v-pf v=npl	naf_perfect	pf	naf	ep	main line	61	
+t4	mish4	Tsakhur	25	haʔa-na	делать	npl.v-aa	participle	other	ptcp		non-clausal	62	
+t4	mish4	Tsakhur	25	wo=b	быть	v=3	present	other	naf		comment	62	
+t6	mish5	Tsakhur	25	NA	NA	NA	NA	NA			NA	66	
+b14	kvan4	Bagvalal	26			m=v-ipf-conv cop	present	other	NA	NA	quote	12	
+b14	kvan4	Bagvalal	26			v-ipf-conv f=v-pot-csl	sconverb	other	NA	NA	dependent	12	
+b2	kvan6	Bagvalal	26	k’anc’ur-aː	прыгать	v-ms.pot.inf	infinitive	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	26	b=eː=r=o ek’ʷa	приходить есть	hpl=v=hpl=conv cop	perfect	pf	NA	NA	main line	23	
+b5	kvan4	Bagvalal	26	w=eɬi=w=o	ехать	m=v=m=conv	converb	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	26	w=eɬi	ехать	m=v	preterite	pst	NA	NA	main line	44	
+b8	kvan3	Bagvalal	26	b=eli-laː-χ-la	ехать	n=v-ipf-conv-la	converb	other	NA	NA	quote	48	
+b8	kvan3	Bagvalal	26	b=eta b=uk’a-ʁala	оставлять быть	n=v n=v-rala	preterite	pst	NA	NA	quote	48	
+b8	kvan3	Bagvalal	26	heƛ’i	говорить	v	preterite	pst	NA	NA	main line	48	
+t02	mish1	Tsakhur	26	qa=b=ɨ	приходить	hpl=v.pf	aorist	pst	naf		main line	53	
+t02	mish1	Tsakhur	26	qoI=t=qʷ-iːn	красть	4=v.pf-a	atr_aorist	pst	af		main line	53	
+t02	mish1	Tsakhur	26	ɢajsɨn-ni	спасть	1.v.pf-aobl	participle	other	ptcp		non-clausal	53	
+t2	mish3	Tsakhur	26	alʲaʔ-a-m-mɨ	надевать	v-ipf-a-pl	atr_present	other	af		main line	59	
+t2	mish3	Tsakhur	26	ajqeːq-a	держать	2.v-ipf	present	other	naf		main line	59	
+t2	mish3	Tsakhur	26	qakːʲah-a	снимать	npl.v-ipf	present	other	naf		main line	59	
+t3	mish4	Tsakhur	26	gi=t’=k’ɨn wo=d ɨxa	раскладывать быть стать	npl=v.pf v=npl npl.v.pf	unknown	other	naf		main line	61	
+t4	mish4	Tsakhur	26	haːʔ-a	делать	3.v-ipf	present	other	naf		comment	62	
+t6	mish6	Tsakhur	26	k’elʲ deš	помнить не.быть	v neg.cop	present	other	naf		conversation	66	
+b2	kvan6	Bagvalal	27	b=eː=r=o	приходить	hpl=v=hpl=conv	converb	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	27	k’anc’ur-aː-la	прыгать	v-ms.pot.inf-la	infinitive	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	27	k’ʷaː=w=o ek’ʷa	убивать есть	v=m=conv cop	perfect	pf	NA	NA	main line	23	
+b5	kvan4	Bagvalal	27	j=ac’a=b=q’aɬːir	достигать	f=v=part.n=temp	converb	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	27	j=išː-eː	ловить	f=v-caus	preterite	pst	NA	NA	main line	44	
+b8	kvan3	Bagvalal	27	b=uħa	заканчиваться	n=v	preterite	pst	NA	NA	main line	48	
+b8	kvan3	Bagvalal	27	b=eː=r=laː-χ b=uk’=ur	приезжать быть	hpl=v=hpl=ipv-conv hpl=v=hpl	preterite_imperfect	other	NA	NA	main line	48	
+t02	mish1	Tsakhur	27	ha=w=ʔ-u-na	делать	3=v-pf-aa	atr_aorist	pst	af		main line	53	
+t02	mish1	Tsakhur	27	a=r=k’ɨn ejx-e-wɨ	идти стать	1=v.pf 1.v-ipf-wy	unknown	other	naf		main line	53	wy -> nonfinite?
+t2	mish3	Tsakhur	27	giːʔar-na	садиться	2.v.ipf-aa	atr_present	other	af		first	59	past translation
+t2	mish3	Tsakhur	27	čaˁpalʲ-aʔ-a-m-mɨ	грязный-делать	adj-npl.v-ipf-a-pl	atr_present	other	af		main line	59	past translation
+t2	mish3	Tsakhur	27	w=uxa-jni-maː	стать	3=v.pf-aobl-lim	atr_sconverb	other	af		dependent	59	
+t3	mish4	Tsakhur	27	qal-e	приносить	npl.v-imp	imperative	other	naf		quote	61	
+t3	mish4	Tsakhur	27	iwho wo=d	говорить быть	v.pf v=4	naf_perfect	pf	naf	ep	main line	61	
+t4	mish4	Tsakhur	27	ɢadž-iːm-mɨ	видеть	npl.v.pf-a-pl	atr_aorist	pst	af		comment	62	
+t6	mish5	Tsakhur	27	NA	NA	NA	NA	NA			NA	66	
+b2	kvan6	Bagvalal	28	k’ʷaː=w=o	убивать	v=m=conv	converb	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	28	b=uk’a=b=o ek’ʷa	быть есть	n=v=n=conv cop	perfect	pf	NA	NA	main line	23	
+b5	kvan4	Bagvalal	28	ƛ’ʷahr-a	стрелять	v-ms.ipf.inf	infinitive	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	28	džeː	делать	v	preterite	pst	NA	NA	main line	44	
+b8	kvan3	Bagvalal	28	s’aː=w	пить	v=part.m	participle	other	NA	NA	NA	48	
+b8	kvan3	Bagvalal	28	b=eː=r	приходить	hpl=v=hpl	preterite	pst	NA	NA	main line	48	
+t2	mish3	Tsakhur	28	qa=r=ɨ	приходить	2=v.pf	aorist	pst	naf		main line	59	
+t2	mish3	Tsakhur	28	ha=j=g-u	показывать	2=v-pf	aorist	pst	naf		main line	59	
+t2	mish3	Tsakhur	28	čaˁpal-iːxa	грязный-стать	adj-2.v.pf	converb	other	naf		dependent	59	
+t3	mish4	Tsakhur	28	ha=r=k’ɨn	идти	2=v.pf	aorist	pst	naf		main line	61	
+t3	mish4	Tsakhur	28	qa=d=ɨ wo=d	приносить быть	npl=v.pf v=npl	naf_perfect	pf	naf	ep	main line	61	
+t4	mish4	Tsakhur	28	ikː-id-eč’-es-wɨ	попадать	neg-4.v-pot-wy	potential	other	naf		comment	62	
+t4	mish4	Tsakhur	28	haːʔ-a	делать	3.v-ipf	present	other	naf		comment	62	
+t6	mish4	Tsakhur	28	ac’a-na	знать	1.v-aa	atr_present	other	af		conversation	66	
+t6	mish4	Tsakhur	28	ac’a-na	знать	1.v-aa	atr_present	other	af		conversation	66	
+b2	kvan6	Bagvalal	29	reš’i=w=o	кидать	v=m=conv	converb	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	29	k’ʷaː=w=o	убивать	v=m=conv	converb	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	29	džeː-raː-χ-da	делать	v-ipf-conv-da	converb	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	29	k’ʷaː=w=o ek’ʷa	убивать есть	v=m=conv cop	perfect	pf	NA	NA	main line	23	
+b2	kvan6	Bagvalal	29	b=eɬi=r=o ek’ʷa	идти есть	hpl=v=hpl=conv cop	perfect	pf	NA	NA	main line	23	
+b5	kvan4	Bagvalal	29	b=aha-č’u=b=muχã	попадать	n=v-neg-part=n=eq1	participle	other	NA	NA	NA	44	
+b5	kvan4	Bagvalal	29	ƛ’ʷahr-aː-χ b=uk’a	стрелять быть	v-ms.ipf-conv n=v	preterite_imperfect	other	NA	NA	main line	44	
+b8	kvan3	Bagvalal	29	b=eː=r=o	приходить	hpl=v=hpl=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	29	džeː=b=o	делать	v=n=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	29	b=iʁ-eː-ra	останавливаться	n=v-caus-ipf.inf	infinitive	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	29	b=uk’a	быть	n=v	preterite	pst	NA	NA	main line	48	
+b8	kvan3	Bagvalal	29	ašːa	начинать	v	preterite	pst	NA	NA	main line	48	
+t2	mish3	Tsakhur	29	čaˁpalʲ-aʔ-iːm-mɨ	грязный-делать	adj-npl.v.pf-a-pl	atr_aorist	pst	af		quote	59	
+t3	mish4	Tsakhur	29	k’eli=t=χɨn	забывать	4=v.pf	aorist	pst	naf		comment	61	
+t3	mish4	Tsakhur	29	ac’a-xa-jn-ki	знать-стать	4.v-4.v.pf-a-ki	atr_aorist	pst	af		main line	61	
+t3	mish4	Tsakhur	29	k’ečː-u	класть.внутрь	4.v-pf	converb	other	naf		dependent	61	
+t3	mish4	Tsakhur	29	iwh-es	говорить	v-pot	infinitive	other	naf		dependent	61	
+t3	mish4	Tsakhur	29	ɨxa-j	стать	4.v.pf-msd	masdar	other	naf		dependent	61	
+t3	mish4	Tsakhur	29	haʔ-iːn	делать	4.v.pf-a	participle	other	ptcp		non-clausal	61	
+t4	mish4	Tsakhur	29	qikːoːk’ʲal-a=w=ʔ-u	опрокидываться-делать	v-3=v-pf	aorist	pst	naf		main line	62	
+t6	mish5	Tsakhur	29	a=w=χʷ-iːm-mɨ	оставаться	hpl=v.pf-a-pl	participle	other	ptcp		non-clausal	66	
+b2	kvan6	Bagvalal	30	r=uk-a-sː	быть должным	npl=v-pot-fut1	future	other	NA	NA	quote	23	
+b2	kvan6	Bagvalal	30	r=ešt-aː	отпускать	npl=v-pot.inf	infinitive	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	30	heƛ’i=b=o ek’ʷa	говорить есть	v=n=conv cop	perfect	pf	NA	NA	main line	23	
+b23	kvan3	Bagvalal	30			v=m=conv	converb	other	NA	NA	dependent	30	
+b23	kvan3	Bagvalal	30			m=v	preterite	pst	NA	NA	first	30	
+b23	kvan3	Bagvalal	30			v	preterite	pst	NA	NA	main line	30	
+b23	kvan3	Bagvalal	30			n=v-ipf-part=n=temp	sconverb	other	NA	NA	dependent	30	
+b5	kvan4	Bagvalal	30	reš’i=b=o	кидать	v=n=conv	converb	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	30	b=uk’a ɬuq’uri=b=o	быть ранить	n=v v=n=conv	preterite_pluperfect	other	NA	NA	main line	44	
+b8	kvan3	Bagvalal	30	b=ah-aː	брать	hpl=v-pot.inf	infinitive	other	NA	NA	quote	48	
+b8	kvan3	Bagvalal	30	behri-č’u=ba=ʁe	быть.разрешенным	v-neg-part=hpl=re	participle	other	NA	NA	quote	48	
+b8	kvan3	Bagvalal	30	heƛ’i	говорить	v	preterite	pst	NA	NA	main line	48	
+t2	mish3	Tsakhur	30	heːχʷ-a-na-niː-xe	убегать	2.v-ipf-aa-em2-hab	atr_habitual	other	af		main line	59	
+t2	mish3	Tsakhur	30	haʔ-u	делать	4.v-pf	converb	other	naf		dependent	59	
+t3	mish4	Tsakhur	30	gi=w=x-u w=uxa-na	класть стать	3=v-pf 3=v.pf-aa	atr_pluperfect	other	af		main line	61	
+t3	mish4	Tsakhur	30	ha=j=ʔ-iːni	делать	2=v.pf-aobl	participle	other	ptcp		dependent	61	
+t4	mish4	Tsakhur	30	qikːoːk’al-a=w=ʔ-u	опрокидываться-делать	v-3=v-pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	30	ho=p’=t’ul-na	вести.за.удечку	3=v.pf-aa	atr_aorist	pst	af		main line	62	
+t4	mish4	Tsakhur	30	oːk’ʷal-a=w=ʔ-u-na	прыгать-делать	3=v-3=v-pf-aa	atr_aorist	pst	af		main line	62	
+t4	mish4	Tsakhur	30	aliχ-ɨ	садиться.верхом	1.v-pf	converb	other	naf		dependent	62	
+t6	mish4	Tsakhur	30	NA	NA	NA	NA	NA			NA	66	
+b14	kvan4	Bagvalal	31			n=v-pot.inf	infinitive	other	NA	NA	dependent	13	
+b14	kvan4	Bagvalal	31			v-ms.ipf.inf	infinitive	other	NA	NA	dependent	13	
+b14	kvan4	Bagvalal	31			f=v=part.f	participle	other	NA	NA	dependent	13	
+b14	kvan4	Bagvalal	31			v=f=conv cop	perfect	pf	NA	NA	first	13	
+b2	kvan6	Bagvalal	31	r=ešteː=b=o	отпускать	npl=v=n=conv	converb	other	NA	NA	dependent	23	
+b5	kvan4	Bagvalal	31	b=aː=ba	приходить	hpl=v=part.hpl	participle	other	NA	NA	NA	44	
+b5	kvan4	Bagvalal	31	b=ah=ir	падать	hpl=v=hpl	preterite	pst	NA	NA	main line	44	
+b8	kvan3	Bagvalal	31	heƛ’-a-raː	говорить	v-pot-cond	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	31	b=is-a-naː	находить	hpl=v-pot-cond	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	31	atštrafawat	штрафовать	v	infinitive	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	31	b=el-oː=ba	ехать	hpl=v.ipf-part=hpl	participle	other	NA	NA	quote	48	
+b8	kvan3	Bagvalal	31	džeː-r-oː=w	делать	v-ipf-part=m	participle	other	NA	NA	quote	48	
+t3	mish4	Tsakhur	31	qa=d=ɨ deš	приходить не.быть	4=v.pf neg.cop	aorist	pst	naf		main line	61	
+t4	mish4	Tsakhur	31	oːk’ʷal-a=w=ʔ-u	прыгать-делать	3=v-3=v.pf.3	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	31	ali=w=k’ar-a=w=ʔ-u	крутиться-делать	3=v-3=v-pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	31	ha=b=ʁ-u	тащить	3=v-pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	31	wo=b a=w=h-u	быть бросать	v=3 3=v-pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	31	qa=r=iːnɢaˁ	приходить	1=v.pf-temp1	sconverb	other	naf		dependent	62	
+t6	mish5	Tsakhur	31	qa=p=pa	приходить	3=v.pf=adv.3	adv_converb	other	naf		dependent	66	adverbialized form used as converb, specific to this speaker
+t6	mish5	Tsakhur	31	wo=r=na	быть	v=1-aa	atr_present	other	af		main line	66	past translation
+b14	kvan4	Bagvalal	32			v=n=conv cop	perfect	pf	NA	NA	main line	13	
+b14	kvan4	Bagvalal	32			cop-rala	present	other	NA	NA	quote	13	
+b14	kvan4	Bagvalal	32			v-bi-prh	prohibitive	other	NA	NA	quote	13	
+b2	kvan6	Bagvalal	32	raq’i=m=o weč’e	подходить не.есть	v=n=conv neg.cop	perfect	pf	NA	NA	quote	23	
+b23	kvan9	Bagvalal	32			n=v-ipf-conv m=v	preterite_imperfect	other	NA	NA	first	31	
+b5	kvan4	Bagvalal	32	džeː-raː-χ w=uk’a	делать быть	v-ipf-conv m=v	preterite_imperfect	other	NA	NA	main line	44	
+b8	kvan3	Bagvalal	32	k’anc’uri=r=o	прыгать	v=hpl=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	32	b=iʁi	останавливаться	n=v	preterite	pst	NA	NA	main line	48	
+t3	mish4	Tsakhur	32	qalʲ-aʔ-u	приносить-делать	v-npl.v-pf	aorist	pst	naf		main line	61	
+t3	mish4	Tsakhur	32	akːik’alʲ-aʔ-u	переворачиваться-делать	npl.v-npl.v-pf	aorist	pst	naf		main line	61	
+t3	mish4	Tsakhur	32	q’abɨlʲ-de-xa-jm-mɨ	нравиться-стать	v-neg-npl.v.pf-a-pl	atr_imperfect	other	af		quote	61	
+t3	mish4	Tsakhur	32	jeːra	идти	2.v.imp	imperative	other	naf		quote	61	
+t3	mish4	Tsakhur	32	qal-e	приносить	npl.v-imp	imperative	other	naf		quote	61	
+t3	mish4	Tsakhur	32	iwho wo=d	говорить быть	v.pf v=4	naf_perfect	pf	naf	ep	main line	61	
+t4	mish4	Tsakhur	32	w=uxa	стать	3=v.pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	32	sɨʁoc-u	вставать	1.v-pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	32	qaˁχɨmiš-xa-na	подниматься-стать	v-1.v.pf-aa	atr_aorist	pst	af		main line	62	
+t4	mish4	Tsakhur	32	a=w=hʷ=iːnɢaˁ	бросать	3=v.pf-temp1	sconverb	other	naf		dependent	62	
+t6	mish5	Tsakhur	32	qa=p=pa	приходить	3=v.pf=adv.3	adv_converb	other	naf		dependent	66	adverbialized form used as converb, specific to this speaker
+t6	mish5	Tsakhur	32	qa=ra=jle	приходить	1=v.ipf	present	other	naf		main line	66	past translation
+t6	mish5	Tsakhur	32	aːχʷ-a	оставаться	3.v-ipf	present	other	naf		main line	66	past translation
+b14	kvan4	Bagvalal	33			v-ipf-part=n	participle	other	NA	NA	quote	13	
+b14	kvan4	Bagvalal	33			v-ipf-part=n	participle	other	NA	NA	quote	13	
+b2	kvan6	Bagvalal	33	t’aː=w=o-la	бежать	v=m=conv-la	converb	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	33	w=eɬi=w=o	идти	m=v=m=conv	converb	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	33	w=eɬi=w=o ek’ʷa	идти есть	m=v=m=conv cop	perfect	pf	NA	NA	main line	23	
+b23	kvan9	Bagvalal	33			n=v=n=conv	converb	other	NA	NA	dependent	31	
+b23	kvan9	Bagvalal	33			n=v-neg	preterite	pst	NA	NA	main line	31	
+b23	kvan9	Bagvalal	33			n=v	preterite	pst	NA	NA	main line	31	
+b5	kvan4	Bagvalal	33	b=it’eː=r	прогонять	hpl=v=hpl	preterite	pst	NA	NA	main line	44	
+b5	kvan4	Bagvalal	33	w=ihi	брать	m=v	preterite	pst	NA	NA	main line	44	
+b5	kvan4	Bagvalal	33	džeː	делать	v	preterite	pst	NA	NA	main line	44	
+b5	kvan4	Bagvalal	33	saʁ-l-eː	здоровый	adj-vrb-caus	preterite	pst	NA	NA	main line	44	
+b8	kvan3	Bagvalal	33	l-oː=ba	ехать	v.ipf-part=hpl	participle	other	NA	NA	quote	48	
+b8	kvan3	Bagvalal	33	b=as’ĩ	спашивать	n=v	preterite	pst	NA	NA	main line	48	
+t3	mish4	Tsakhur	33	sa=r=k’ɨl	оборачиваться	2=v.pf	aorist	pst	naf		main line	61	
+t3	mish4	Tsakhur	33	alʲa=p’=t’-u	брать	3=v-pf	aorist	pst	naf		main line	61	
+t3	mish4	Tsakhur	33	qɨʁič’-u wo=r	выходить быть	1.v-pf v=1	naf_perfect	pf	naf	ep	main line	61	
+t3	mish4	Tsakhur	33	aˁlhaː-nɢaˁ	уходить	2.v.ipf-temp1	sconverb	other	naf		dependent	61	
+t4	mish4	Tsakhur	33	qa=b=ʁ-u-na	ударять	3=v-pf-aa	atr_aorist	pst	af		main line	62	
+t4	mish4	Tsakhur	33	oˁtmiš-xa	уходить-стать	v-1.v.pf	converb	other	naf		dependent	62	
+t4	mish4	Tsakhur	33	a=r=k’ɨn-o=r	уходить-быть	1=v.pf-v=1	naf_perfect	pf	naf	ep	main line	62	
+t6	mish5	Tsakhur	33	haʔ-a wo=d=un	делать быть	4.v-ipf v=4=a	af_durative	other	af	nep	main line	66	
+t6	mish5	Tsakhur	33	qɨʁaʔ-u	чистить	npl.v-pf	aorist	pst	naf		main line	66	
+t6	mish5	Tsakhur	33	qaʔ-u	чинить	npl.v-pf	aorist	pst	naf		main line	66	
+t6	mish5	Tsakhur	33	ɢa=w=kː-as	отпускать	hpl=v-pot	infinitive	other	naf		dependent	66	
+t6	mish5	Tsakhur	33	heʔ-e-dže-wu	делать	npl.v-imp-juss-wy	jussive	other	naf		quote	66	
+t6	mish5	Tsakhur	33	ɢale=ba=čː-e	оставлять	3=v-ipf	present	other	naf		main line	66	
+b2	kvan6	Bagvalal	34	ek’ʷa=b	есть	v=part.n	participle	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	34	w=aq’ašːi=w=o w=uk’a=w=o ek’ʷa	прятаться быть есть	m=v=m=conv m=v=m=conv cop	perfect_pluperfect	other	NA	NA	main line	23	
+b5	kvan4	Bagvalal	34	saʁ-l-u=b=q’aɬːir	здоровый	adj-vrb-part=n=temp	converb	other	NA	NA	dependent	44	
+b5	kvan4	Bagvalal	34	b=eː=r	приходить	hpl=v=hpl	preterite	pst	NA	NA	main line	44	
+b8	kvan3	Bagvalal	34	ɬ-oː=ba ek’ʷa-ʁa-di	ехать есть	v.ipf-part=hpl cop-ra-di	present	other	NA	NA	quote	48	doesnt exist according to the grammar
+b8	kvan3	Bagvalal	34	heƛ’i	говорить	v	preterite	pst	NA	NA	main line	48	
+t2	mish3	Tsakhur	34	sa=b=k’ɨl	оборачиваться	hpl=v.pf	converb	other	naf		dependent	60	
+t2	mish3	Tsakhur	34	ejh-e-niː-xe	говорить	v-ipf-em2-hab	habitual	other	naf		first	60	
+t2	mish3	Tsakhur	34	gi=w=ʔur-e	сидеть	hpl=v-imp	imperative	other	naf		quote	60	
+t2	mish3	Tsakhur	34	h-im-aʔ-a	делать	proh-4.v-ipf	prohibitive	other	naf		quote	60	
+t2	mish3	Tsakhur	34	h-im-aʔ-a	делать	proh-4.v-ipf	prohibitive	other	naf		quote	60	
+t2	mish3	Tsakhur	34	iwho-jnɢaˁ	говорить	v.pf-temp1	sconverb	other	naf		dependent	60	
+t3	mish4	Tsakhur	34	ileːk-a-na	смотреть	2.v-pf-aa	atr_aorist	pst	af		main line	61	
+t3	mish4	Tsakhur	34	deš-o=r	не.быть-быть	neg.cop-v=1	present	other	naf		main line	61	
+t4	mish4	Tsakhur	34	sɨʁoc-u	вставать	1.v-pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	34	ilʲakː-a	смотреть	1.v-ipf	present	other	naf		main line	62	
+t4	mish4	Tsakhur	34	deš-o=b	не.быть-быть	neg.cop-v=3	present	other	naf		main line	62	
+t4	mish4	Tsakhur	34	deš-o=d	не.быть-быть	neg.cop-v=npl	present	other	naf		main line	62	
+t6	mish5	Tsakhur	34	haˁzir-ɨ=w=xa	готовый-стать	adj-hpl=v.pf	aorist	pst	naf		quote	66	
+t6	mish5	Tsakhur	34	qa=b=īna	приходить	3=v.pf-a	atr_aorist	pst	af		main line	66	
+t6	mish5	Tsakhur	34	a=dʲ=iːn	приходить	4=v.pf-a	atr_aorist	pst	af		main line	66	
+t6	mish5	Tsakhur	34	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	66	
+t6	mish5	Tsakhur	34	ilʲaːk-as	смотреть	hpl.v-pot	potential	other	naf		quote	66	
+b2	kvan6	Bagvalal	35	b=eː=r=ɬaː-χ	приходить	hpl=v=hpl=ipf-conv	converb	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	35	t’an-aː-χ-da	бросать	v-ms.ipf-conv-da	converb	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	35	k’ʷaː=w=ɬeːna	убивать	v=part.m=comit	participle	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	35	b=uk’=ur=o ek’ʷa	быть есть	hpl=v=hpl=conv cop	perfect	pf	NA	NA	main line	23	
+b8	kvan3	Bagvalal	35	b=ah-a-ʁa-di	брать	hpl=v-pot.imp-ra-di	imperative	other	NA	NA	quote	48	
+b8	kvan3	Bagvalal	35	heƛ’i	говорить	v	preterite	pst	NA	NA	main line	48	
+t2	mish3	Tsakhur	35	hi=w=l-e	давать	3=v-imp	imperative	other	naf		quote	60	
+t3	mish4	Tsakhur	35	dʲugulʲ-xa	прятаться-стать	v-1.v.pf	converb	other	naf		dependent	61	
+t3	mish4	Tsakhur	35	a=r=k’ɨn-o=r	уходить-быть	1=v.pf-v=1	naf_perfect	pf	naf	ep	main line	61	
+t3	mish4	Tsakhur	35	ixʲ-eː	стать	1.v-cond	sconverb	other	naf		dependent	61	
+t4	mish4	Tsakhur	35	giwa=t=χɨn	висеть	npl=v.pf	converb	other	naf		dependent	62	
+t4	mish4	Tsakhur	35	qoˁ=p=q-iː	украсть	3=v.pf-msd.4	masdar	other	naf		dependent	62	
+t4	mish4	Tsakhur	35	bašda-xa deš-o=r	соображать-стать не.быть-быть	v-1.v.pf neg.cop-v=1	naf_perfect	pf	naf	ep	main line	62	
+t4	mish4	Tsakhur	35	wo=d ɢadže	быть видеть	v=npl npl.v.pf	naf_perfect	pf	naf	ep	main line	62	
+t4	mish4	Tsakhur	35	w=ac’a-w=uxa wo=b	знать-стать быть	3=v-3=v.pf v=3	naf_perfect	pf	naf	ep	main line	62	
+t6	mish5	Tsakhur	35	wo=r=niː	быть	v=1=em2	present	other	naf		main line	66	past translation
+b2	kvan6	Bagvalal	36	b=uɬu=w=o	стать	n=v=m-conv	converb	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	36	t’an-u=w	бросать	v-part=m	participle	other	NA	NA	NA	23	
+b2	kvan6	Bagvalal	36	w=ič’a=w	умирать	m=v=part.m	participle	other	NA	NA	NA	23	
+b2	kvan6	Bagvalal	36	w=aː=w=o ek’ʷa	приходить есть	m=v=m=conv cop	perfect	pf	NA	NA	main line	23	
+b23	kvan13	Bagvalal	36			v	preterite	pst	NA	NA	first	32	
+b23	kvan13	Bagvalal	36			n=v	preterite	pst	NA	NA	main line	32	
+b23	kvan13	Bagvalal	36			hpl=v-ipf-conv hpl=v=hpl=neg	preterite_imperfect	other	NA	NA	main line	32	
+b23	kvan13	Bagvalal	36			hpl=v-ipf-part=n=temp	sconverb	other	NA	NA	dependent	32	
+b8	kvan3	Bagvalal	36	b=ah-aː	брать	hpl=v-pot.inf	infinitive	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	36	behri-č’-u=b=ʁala	быть.разрешенным	v-neg-part=n=rala	participle	other	NA	NA	unknown	48	
+b8	kvan3	Bagvalal	36	w=uk’a	быть	m=v	preterite	pst	NA	NA	main line	48	reported be
+t2	mish3	Tsakhur	36	alʲa=p’=t’-u	брать	3=v-pf	aorist	pst	naf		comment	60	
+t2	mish3	Tsakhur	36	aχ-u-na	остаться	1.v-pf-aa	atr_aorist	pst	af		main line	60	
+t2	mish3	Tsakhur	36	iwho=jnɢaˁ	говорить	v.pf-temp1	sconverb	other	naf		dependent	60	
+t3	mish4	Tsakhur	36	hoːl-e	давать	3.v-ipf	converb	other	naf		dependent	61	
+t3	mish4	Tsakhur	36	gi=b=ʁɨl wo=b	начинать быть	hpl=v.pf v=hpl	naf_perfect	pf	naf	ep	main line	61	
+t3	mish4	Tsakhur	36	iʁi=t=kɨrʲ-iːnɢaˁ	шевелиться	4=v.pf-temp1	sconverb	other	naf		dependent	61	
+t3	mish4	Tsakhur	36	hi=t=xɨr-iːnɢaˁ	доходить	4=v.pf-temp1	sconverb	other	naf		dependent	61	
+t4	mish4	Tsakhur	36	a=t’=k’ɨn	уходить	npl=v.pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	36	χabar-o=b ha=w=ʔ-u	рассказ-быть делать	noun.3-v=3 3=v-pf	naf_perfect	pf	naf	ep	main line	62	
+t4	mish4	Tsakhur	36	gi=r=xʷ-iːnɢaˁ	попадать	1=v.pf-temp1	sconverb	other	naf		dependent	62	
+t6	mish5	Tsakhur	36	a=d=ɨ	приходить	npl=v.pf	aorist	pst	naf		main line	66	
+t6	mish5	Tsakhur	36	qa=d=ɨ	приходить	npl=v.pf	aorist	pst	naf		main line	66	
+t6	mish5	Tsakhur	36	wo=d=un	быть	v=4=a	atr_present	other	af		main line	66	past translation
+t6	mish5	Tsakhur	36	wo=d=ɨm-mɨ	быть	v=npl-a-pl	atr_present	other	af		main line	66	past translation
+t6	mish5	Tsakhur	36	iːɣɨr-iːn	рожать	npl.v.pf-a	participle	other	ptcp		dependent	66	
+t6	mish5	Tsakhur	36	wo=d=niː	быть	v=4=em2	present	other	naf		main line	66	
+b2	kvan6	Bagvalal	37	b=iš=in=o	выигрывать	hpl=v=hpl=conv	converb	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	37	b=eɬ-aː-χ b=uk’a=b=o ek’ʷa=b	идти быть есть	hpl=v-ms.ipf-conv n=v=n=conv cop=part.n	participle	other	NA	NA	dependent	23	participial imperfect2
+b2	kvan6	Bagvalal	37	b=aː b=uk’a=b=o ek’ʷa	приходить быть есть	n=v n=v=n=conv cop	perfect	pf	NA	NA	main line	23	
+b2	kvan6	Bagvalal	37	r=ešteː=r=o ek’ʷa	отпускать есть	npl=v=npl=conv cop	perfect	pf	NA	NA	main line	23	
+b23	kvan9	Bagvalal	37			npl=v-ipf.inf	infinitive	other	NA	NA	dependent	32	
+b23	kvan9	Bagvalal	37			m=v-pot.inf	infinitive	other	NA	NA	dependent	32	
+b23	kvan9	Bagvalal	37			m=v	preterite	pst	NA	NA	main line	32	
+b23	kvan9	Bagvalal	37			n=v-pot-csl	sconverb	other	NA	NA	dependent	32	
+b8	kvan3	Bagvalal	37	aštrafawat	оштрафовать	v	infinitive	other	NA	NA	dependent	48	logophoric pronoun
+b8	kvan3	Bagvalal	37	džeː-r-oː=w=ʁala	делать	v-ipf-part=m=rala	participle	other	NA	NA	quote	48	
+t3	mish4	Tsakhur	37	hammaz-o=r-na	товарищ-быть	noun-v=1=aa	atr_present	other	af		quote	61	
+t3	mish4	Tsakhur	37	iwho wo=d	говорить быть	v.pf v=4	naf_perfect	pf	naf	ep	main line	61	
+t3	mish4	Tsakhur	37	wo=d batmiš-aʔ-u	быть присваивать-делать	v=4 v-4.v-pf	naf_perfect	pf	naf	ep	quote	61	
+t3	mish4	Tsakhur	37	ix-es hiwo	стать давать	4.v-pot 4.v.pf	unknown	other	naf		quote	61	
+t4	mish4	Tsakhur	37	a=b=k’ɨn	уходить	3=v.pf	aorist	pst	naf		quote	62	
+t4	mish4	Tsakhur	37	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	62	
+t4	mish4	Tsakhur	37	qoˁ=b=qˁ-u	красть	3=v-pf	converb	other	naf		dependent	62	
+t6	mish5	Tsakhur	37	iwho=da	говорить	v.pf=adv.4	adv_converb	other	naf		dependent	66	adverbialized form used as converb, specific to this speaker
+t6	mish5	Tsakhur	37	ɢadž-ɨ	видеть	npl.v-pf	aorist	pst	naf		main line	66	
+t6	mish5	Tsakhur	37	a=b=ɨ	приходить	hpl=v.pf	converb	other	naf		dependent	66	
+t6	mish5	Tsakhur	37	nʲaxːa	где.быть	1.v.ipf	present	other	naf		quote	66	
+t6	mish5	Tsakhur	37	qɨʁe=p’=č’ʷ-iːnɢaˁ	выходить	hpl=v.pf-temp1	sconverb	other	naf		dependent	66	
+b2	kvan6	Bagvalal	38	w=eɬi=w=o	идти	m=v=m=conv	converb	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	38	w=aː=w=o weč’e	приходить не есть	m=v=m=conv	converb	other	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	38	worč’iri=w=o ek’ʷa	ускользать есть	v=m=conv cop	perfect	pf	NA	NA	main line	23	
+b2	kvan6	Bagvalal	38	q’ʷabq’ʷari	кувыркаться	v	preterite	pst	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	38	q’ani	кушать	v	preterite	pst	NA	NA	dependent	23	
+b2	kvan6	Bagvalal	38	š’ːaː	бежать	v	preterite	pst	NA	NA	dependent	23	
+b8	kvan3	Bagvalal	38	w=ah-aː	брать	m=v-pot.inf	infinitive	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	38	behiri-č’-u=w=ʁala	быть.разрешенным	v-neg-part=m=rala	participle	other	NA	NA	quote	48	
+b8	kvan3	Bagvalal	38	ek’ʷa-ʁala	есть	cop-rala	present	other	NA	NA	quote	48	
+t3	mish4	Tsakhur	38	haʔ-a	делать	4.v-ipf	converb	other	naf		dependent	61	
+t3	mish4	Tsakhur	38	gi=d=ʁɨl wo=d	начинать быть	4=v.pf v=4	naf_perfect	pf	naf	ep	main line	61	
+t4	mish4	Tsakhur	38	w=uxa wo=b	стать быть	hpl=v.pf v=hpl	naf_perfect	pf	naf	ep	main line	62	
+t4	mish4	Tsakhur	38	w=ac’a-n	знать	hpl=v-a	participle	other	ptcp		non-clausal	62	
+t6	mish5	Tsakhur	38	qeqː-ɨ	требовать	1.v-pf	aorist	pst	naf		main line	66	
+b2	kvan6	Bagvalal	39	r=ešta=r=o ek’ʷa	отпускать есть	npl=v=npl=conv cop	perfect	pf	NA	NA	main line	23	
+b2	kvan6	Bagvalal	39	r=ešta=r=o ek’ʷa	отпускать есть	npl=v=npl=conv cop	perfect	pf	NA	NA	main line	23	
+b8	kvan3	Bagvalal	39	heƛ’i=r=o	говорить	v=hpl=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	39	ʁini=w=o	лезть	v=m=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	39	b=ihi-ra	брать	hpl=v-ipf.inf	infinitive	other	NA	NA	infinitive	48	
+b8	kvan3	Bagvalal	39	džeː-ra	делать	v-ipf.inf	infinitive	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	39	w=ešt-ir-oː=w=ʁala	заставлять	m=v-ipf-part=m=rala	participle	other	NA	NA	quote	48	
+b8	kvan3	Bagvalal	39	s’aː=w	пить	v=part.m	participle	other	NA	NA	NA	48	
+b8	kvan3	Bagvalal	39	aša	начинать	v	preterite	pst	NA	NA	main line	48	
+t1	mish2	Tsakhur	39			adj-2.v-ipf	present	other	naf		first	56	past translation
+t3	mish4	Tsakhur	39	gi=d=ʁɨl	начинать	4=v.pf	converb	other	naf		dependent	61	
+t3	mish4	Tsakhur	39	aːq-ɨ	открывать	4.v-pf	converb	other	naf		dependent	61	
+t3	mish4	Tsakhur	39	insan-o=r ič’u	человек-быть входить	noun.1-v=1 1.v-pf	naf_perfect	pf	naf	ep	main line	61	
+t3	mish4	Tsakhur	39	a=b=k’ɨn-iːnɢaˁ	уходить	3=v.pf-temp1	sconverb	other	naf		dependent	61	
+t4	mish4	Tsakhur	39	qa=b=ɨ	приводить	3=v.pf	aorist	pst	naf		quote	62	
+t4	mish4	Tsakhur	39	wo=b=na	быть	v=3=aa	atr_present	other	af		quote	62	
+t4	mish4	Tsakhur	39	iwho wo=d	говорить	v.pf v=4	naf_perfect	pf	naf	ep	main line	62	
+t6	mish4	Tsakhur	39	a=dʲ=iːni	приходить	4=v.pf-aobl	participle	other	ptcp		non-clausal	66	
+b2	kvan6	Bagvalal	40	iči=b=o weč’e	давать не.есть	v=n=conv neg.cop	perfect	pf	NA	NA	comment	23	
+b8	kvan3	Bagvalal	40	heƛ’i	говорить		preterite	pst	NA	NA	main line	48	
+b8	kvan3	Bagvalal	40	b=ihi-bi-sːe-ʁe	брать		prohibitive	other	NA	NA	quote	48	
+t1	mish2	Tsakhur	40			4.v-pot	infinitive	other	naf		dependent	56	
+t1	mish2	Tsakhur	40			neg-4.v-ipf	present	other	naf		main line	56	past translation
+t3	mish4	Tsakhur	40	wo=r=na	быть	v=1=aa	atr_present	other	af		quote	61	
+t3	mish4	Tsakhur	40	ič’u	входить	1.v-pf	converb	other	naf		dependent	61	
+t3	mish4	Tsakhur	40	qidɣɨn-o=d haʔ-u	воспрос-быть делать	noun.4-v=4 4.v-pf	naf_perfect	pf	naf	ep	main line	61	
+t4	mish4	Tsakhur	40	wo=d=un	быть	v=4=a	atr_present	other	af		comment	62	
+t6	mish5	Tsakhur	40	qeqː-ɨ	требовать	1.v-pf	aorist	pst	naf		conversation	66	
+t6	mish5	Tsakhur	40	a=dʲ=iː-ni	приходить	4=v.pf-aobl	participle	other	ptcp		non-clausal	66	
+b8	kvan3	Bagvalal	41	b=aχiri-ʁa-di	взбираться	hpl=v.imp-ra-di	imperative	other	NA	NA	quote	48	
+b8	kvan3	Bagvalal	41	heri	пугаться	v	preterite	pst	NA	NA	main line	48	
+b8	kvan3	Bagvalal	41	heƛ’i	говорить	v	preterite	pst	NA	NA	main line	48	
+t1	mish2	Tsakhur	41	ut’um-ex-e		adj-4.v-ipf	present	other	naf		main line	56	
+t3	mish4	Tsakhur	41	iwho	говорить	v.pf	aorist	pst	naf		main line	61	
+t3	mish4	Tsakhur	41	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	61	
+t3	mish4	Tsakhur	41	wo=r=na	быть	v=1=aa	atr_present	other	af		quote	61	
+t3	mish4	Tsakhur	41	deš-o=r=na-wɨ	не.быть-быть	neg.cop-v=2=aa-wy	atr_present	other	af		quote	61	
+t3	mish4	Tsakhur	41	baʁɨš-eʔ-e	прощать-делать	v-1.v-imp	imperative	other	naf		quote	61	
+t4	mish4	Tsakhur	41	ac’a wo=d=un	знать быть	4.v v=4=a	af_durative	other	af	nep	comment	62	
+t4	mish4	Tsakhur	41	ɨkːeːk-a-m-mɨ=b	приводить	npl.v-ipf-a-pl=coh.hpl	participle	other	ptcp		non-clausal	62	
+t4	mish4	Tsakhur	41	qikː-a-m-mɨ=b	уводить	npl.v-ipf-a-pl=coh.hpl	participle	other	ptcp		non-clausal	62	
+t6	mish5	Tsakhur	41	qa=r=ɨ-niː wo=r=na	приходить быть	1=v.pf-em2 v=1=aa	af_perfect	pf	af	nep	main line	66	
+t6	mish5	Tsakhur	41	qɨʁɨč’-u	выходить	1.v-pf	aorist	pst	naf		main line	66	
+t6	mish5	Tsakhur	41	qi=b=c’ɨr-na	рваться	3=v-aa	participle	other	ptcp		non-clausal	66	
+t6	mish5	Tsakhur	41	ilʲakː-a	смотреть	4.v-ipf	present	other	naf		main line	66	past translation
+t6	mish5	Tsakhur	41	deš-diː	не.быть	neg.cop-em2	present	other	naf		main line	66	past translation
+b8	kvan3	Bagvalal	42	b=uk’=ur b=el-aː-χ	быть ехать	hpl=v=hpl hpl=v-ms.ipf-conv	preterite_imperfect	other	NA	NA	main line	48	
+t1	mish2	Tsakhur	42			4.v-pot-a	participle	other	ptcp		dependent	56	
+t1	mish2	Tsakhur	42			hpl=v.ipf	present	other	naf		main line	56	
+t1	mish2	Tsakhur	42			4=v-ipf	present	other	naf		main line	56	
+t1	mish2	Tsakhur	42			v-npl.v-ipf	present	other	naf		main line	56	
+t3	mish4	Tsakhur	42	iwho	говорить	v.pf	aorist	pst	naf		main line	61	
+t3	mish4	Tsakhur	42	deš-in-wɨ	не.быть	neg.cop-a-wy	atr_present	other	af		quote	61	
+t4	mish4	Tsakhur	42	wo=b=na	быть	v=3=aa	atr_present	other	af		quote	62	
+t4	mish4	Tsakhur	42	wo=r=na	быть	v=1=aa	atr_present	other	af		quote	62	
+t4	mish4	Tsakhur	42	qoˁ=p=q-u-na=r	красть	3=v-pf-aa=coh.1	participle	other	ptcp		non-clausal	62	
+t6	mish6	Tsakhur	42	NA	NA	NA	NA	NA			comment	66	
+b8	kvan3	Bagvalal	43	ek’ʷa=r	есть	cop=part.npl	participle	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	43	b=uk’=ur	быть	hpl=v=hpl	preterite	pst	NA	NA	main line	48	
+t1	mish2	Tsakhur	43			4.v-pf	aorist	pst	naf		main line	56	
+t1	mish2	Tsakhur	43			3=v.pf	aorist	pst	naf		main line	56	
+t1	mish2	Tsakhur	43			v-npl.v.pf	aorist	pst	naf		main line	56	
+t1	mish2	Tsakhur	43			v=4=a	atr_present	other	af		main line	56	em2 on subject - past translation
+t1	mish2	Tsakhur	43			hpl=v-pot	infinitive	other	naf		dependent	56	
+t1	mish2	Tsakhur	43			neg-hpl.v-ipf	present	other	naf		main line	56	
+t3	mish4	Tsakhur	43	wo=r=na	быть	v=1=aa	atr_present	other	af		quote	61	
+t3	mish4	Tsakhur	43	qoˁ=t=q-u-na	красть	4=v-pf-aa	participle	other	ptcp		non-clausal	61	
+t4	mish4	Tsakhur	43	iwho	говорить	v.pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	43	sa=wa=les	собираться.вместе	jpl=v.pot	infinitive	other	naf		dependent	62	
+t4	mish4	Tsakhur	43	iwho wo=d	говорить	v.pf v=4	naf_perfect	pf	naf	ep	main line	62	present translation
+t4	mish4	Tsakhur	43	w=ukːan	быть.нужным	hpl=v.ipf	present	other	naf		quote	62	
+t6	mish5	Tsakhur	43	de-na	не.быть	neg.cop-aa	participle	other	ptcp		non-clausal	66	
+t6	mish5	Tsakhur	43	iːɣar-a-n	рожать	npl.v-ipf-a	participle	other	ptcp		non-clausal	66	
+t6	mish5	Tsakhur	43	wo=d=niː	быть	v=npl=em2	present	other	naf		main line	66	past translation
+b23	kvan9	Bagvalal	44			v-ms.ipf.inf	infinitive	other	NA	NA	dependent	32	
+b23	kvan9	Bagvalal	44			hpl=v=hpl=neg	preterite	pst	NA	NA	main line	32	
+b23	kvan9	Bagvalal	44			hpl=v-caus=hpl	preterite	pst	NA	NA	main line	32	
+b23	kvan9	Bagvalal	44			hpl=v=hpl	preterite	pst	NA	NA	main line	32	
+b23	kvan9	Bagvalal	44			v-pot-csl	sconverb	other	NA	NA	dependent	32	
+b8	kvan3	Bagvalal	44	b=iʁi-č’-u=b	останавливаться	n=v-neg-part=n	participle	other	NA	NA	unknown	48	
+b8	kvan3	Bagvalal	44	raq’a=m=o b=uk’a	закрываться быть	v=n=conv n=v	preterite_pluperfect	other	NA	NA	main line	48	
+t1	mish2	Tsakhur	44			hpl=v-ipf	present	other	naf		main line	56	past translation
+t1	mish2	Tsakhur	44			neg-3.v-ipf	present	other	naf		main line	56	past translation
+t3	mish4	Tsakhur	44	deš-in	не.быть	neg.cop-a	atr_present	other	af		quote	61	
+t3	mish4	Tsakhur	44	sa=b=ɨ	собираться.вместе	hpl=v-pf	converb	other	naf		dependent	61	
+t3	mish4	Tsakhur	44	sʲud-o=d haʔ-a	суд-быть делать	noun.4-v=4 4.v-ipf	naf_durative	other	naf	ep	quote	61	
+t4	mish4	Tsakhur	44	ɨkːan-o=r=na	хотеть	1.v.ipf-v=1=aa	af_durative	other	af	nep	quote	62	
+t4	mish4	Tsakhur	44	χaːhiš-haʔ-a-n	просить-делать	v-4.v-ipf-a	atr_present	other	af		quote	62	
+t4	mish4	Tsakhur	44	ɢadž-es	видеть	1.v-pot	infinitive	other	naf		dependent	62	
+t4	mish4	Tsakhur	44	qoˁ=p=q-u-na	красть	3=v-pf-aa	participle	other	ptcp		non-clausal	62	
+t6	mish5	Tsakhur	44	qɨʁɨč’-u-na	выходить	1.v-pf-aa	atr_aorist	pst	af		main line	66	
+b23	kvan13	Bagvalal	45			hpl=v=hpl	preterite	pst	NA	NA	main line	32	
+b8	kvan3	Bagvalal	45	raq’a=m=o	закрываться	v=n=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	45	šašan-aː-χ	шататься	v-ms.ipf-conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	45	r=eː-aː-χ	идти	npl=v-ms.ipf-conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	45	b=uk’a-r-i-d	быть	n=v-msd-obl-erg	masdar	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	45	b=iʁi-č’-u=b	останавливаться	n=v-neg-part=n	participle	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	45	r=uk’a=r=o ek’ʷa	быть есть	npl=v=npl=conv cop	perfect	pf	NA	NA	main line	48	
+b8	kvan3	Bagvalal	45	r=uk’a=r=o ek’ʷa	быть есть	npl=v=npl=conv cop	perfect	pf	NA	NA	main line	48	
+b8	kvan3	Bagvalal	45	hahani	раздвигаться	v	preterite	pst	NA	NA	dependent	48	
+t1	mish2	Tsakhur	45			3=v-pf	aorist	pst	naf		main line	56	
+t1	mish2	Tsakhur	45			4.v-ipf	present	other	naf		main line	56	past translation
+t3	mish4	Tsakhur	45	alʲaːt’ʷ-iːn deš-in	брать не.быть	4.v.pf-a neg.cop-a	atr_aorist	pst	af		quote	61	
+t4	mish4	Tsakhur	45	wo=r=na ɨkːan	быть хотеть	v=1=aa 1.v.ipf	af_durative	other	af	nep	quote	62	
+t4	mish4	Tsakhur	45	iwho	говорить	v.pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	45	haːʔ-as-da	делать	3.v-pot-aa	atr_potential	other	af		quote	62	
+t4	mish4	Tsakhur	45	w=aˁχ-a-na	мочь	3=v-ipf-aa	atr_present	other	af		quote	62	
+t4	mish4	Tsakhur	45	ɢadž-es	видеть	1.v-pot	infinitive	other	naf		dependent	62	
+t4	mish4	Tsakhur	45	qoˁ=p=q-u-na	красть	3=v-pf-aa	participle	other	ptcp		non-clausal	62	
+t6	mish5	Tsakhur	45	deš	не.быть	neg.cop	present	other	naf		main line	66	past translation
+t6	mish5	Tsakhur	45	deš	не.быть	neg.cop	present	other	naf		main line	66	past translation
+t6	mish5	Tsakhur	45	k’aˁp’-k’aˁp’-aʔ-a	кап-кап-делать	adv-adv-4.v-ipf	present	other	naf		main line	66	past translation
+b23	kvan6	Bagvalal	46			n=v-ipf-part=n	participle	other	NA	NA	dependent	33	
+b23	kvan6	Bagvalal	46			hpl=v=hpl	preterite	pst	NA	NA	main line	33	
+b23	kvan6	Bagvalal	46			n=v v-ipf-conv	preterite_imperfect	other	NA	NA	first	33	
+b8	kvan3	Bagvalal	46	han-u=b=q’aɬːani	раздвигаться	v-part=n=temp	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	46	b=uk’a=ba	быть	hpl=v=part.hpl	participle	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	46	w=eɬi=w=o ek’ʷa	уходить есть	m=v=m=conv cop	perfect	pf	NA	NA	main line	48	
+b8	kvan3	Bagvalal	46	w=uku	попадать	m=v	preterite	pst	NA	NA	dependent	48	
+t1	mish2	Tsakhur	46			4.v.ipf	present	other	naf		main line	56	past translation
+t3	mish4	Tsakhur	46	inʲammiš-de-x-e	верить-стать	v-neg-1.v-ipf	converb	other	naf		dependent	61	
+t3	mish4	Tsakhur	46	gi=r=ʁɨl-o=r	начинать-быть	1=v.pf-v=1	naf_perfect	pf	naf	ep	main line	61	
+t4	mish4	Tsakhur	46	w=ux-e-dže	стать	3=v-imp-juss	jussive	other	naf		quote	62	
+t4	mish4	Tsakhur	46	ac’a-xa-j-l-e	знать-стать	1.v-1.v.pf-msd-sup-el	masdar	other	naf		dependent	62	
+t6	mish5	Tsakhur	46	e=p’=č’-u	входить	hpl=v-pf	aorist	pst	naf		main line	66	
+t6	mish5	Tsakhur	46	haʔ-u	делать	4.v-pf	aorist	pst	naf		main line	66	
+b8	kvan3	Bagvalal	47	č’in-a	бить	v-ms.ipf.inf	infinitive	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	47	ašːa	начинать	v	preterite	pst	NA	NA	main line	48	
+t1	mish2	Tsakhur	47			2.v-2.v-ipf	present	other	naf		main line	56	past translation
+t3	mish4	Tsakhur	47	haʔ-a wo=d=ɨm-mɨ	делать быть	npl.v-ipf v=npl=a-pl	af_durative	other	af	nep	quote	61	
+t3	mish4	Tsakhur	47	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	61	
+t3	mish4	Tsakhur	47	alikː-aʔ-as	смешивать-делать	4.v-4.v-pot	infinitive	other	naf		dependent	61	
+t3	mish4	Tsakhur	47	ix-es deš	стать не.быть	4.v-pot neg.cop	naf_prospective	other	naf	ep	quote	61	
+t4	mish4	Tsakhur	47	mat-xa-na	удивляться-стать	v-1.v.pf-aa	atr_aorist	pst	af		quote	62	
+t6	mish5	Tsakhur	47	ac’a-na	знать	1.v-aa	atr_present	other	af		main line	66	past translation
+t6	mish5	Tsakhur	47	ilʲakːʲ-iːnɢaˁ	смотреть	1.v.pf-temp1	sconverb	other	naf		dependent	66	
+b23	kvan13	Bagvalal	48			hpl=v=hpl	preterite	pst	NA	NA	first	34	
+b23	kvan13	Bagvalal	48			m=v-rala	preterite	pst	NA	NA	quote	34	
+b23	kvan13	Bagvalal	48			v	preterite	pst	NA	NA	main line	34	
+b8	kvan3	Bagvalal	48	b=ič’-ãː	смотреть	hpl=v-pot.inf	infinitive	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	48	b=iʁ-eː	останавливаться	n=v-caus	preterite	pst	NA	NA	main line	48	
+b8	kvan3	Bagvalal	48	b=eː=r	приходить	hpl=v=hpl	preterite	pst	NA	NA	main line	48	
+t1	mish2	Tsakhur	48			v-2=v-pot	infinitive	other	naf		dependent	56	
+t1	mish2	Tsakhur	48			2=v.ipf-wy	present	other	naf		quote	56	
+t1	mish2	Tsakhur	48			npl.v-ipf	present	other	naf		main line	56	past translation
+t3	mish4	Tsakhur	48	ɨxa	стать	4.v.pf	aorist	pst	naf		quote	61	
+t3	mish4	Tsakhur	48	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	61	
+t4	mish4	Tsakhur	48	sa=b=ɨ	собраться.вместе	hpl=v.pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	48	qa=b=ɨ	приходить	hpl=v.pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	48	gi=w=ʔur-o=b	садиться-юыть	hpl=v.pf-v=hpl	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	48	qo=r=t’ul-o=r ɨxa	звать-быть стать	1=v.pf-v=1 1.v.pf	unknown	other	naf		main line	62	
+t6	mish4	Tsakhur	48	NA	NA	NA	NA	NA			conversation	66	
+b23	kvan9	Bagvalal	49			n=v=m=conv	converb	other	NA	NA	dependent	35	
+b23	kvan9	Bagvalal	49			v-ipf-conv	converb	other	NA	NA	dependent	35	
+b23	kvan9	Bagvalal	49			v	preterite	pst	NA	NA	first	35	
+b23	kvan9	Bagvalal	49			m=v-ipf-part=n=temp	sconverb	other	NA	NA	dependent	35	
+b8	kvan3	Bagvalal	49	ek’ʷa w=all-aː-χ	есть кричать	cop m=v-ms.ipf-conv	present	other	NA	NA	main line	48	
+b8	kvan3	Bagvalal	49	ek’ʷa-ʁala w=ič’-eː-raː-χ	есть умирать	cop-rala m=v-caus-ipf-conv	present	other	NA	NA	quote	48	
+t1	mish2	Tsakhur	49			v-ipf	present	other	naf		main line	56	past translation
+t3	mish4	Tsakhur	49	alʲaːt’-u	брать	4.v-pf	aorist	pst	naf		quote	61	
+t3	mish4	Tsakhur	49	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	61	
+t3	mish4	Tsakhur	49	heːʔ-e	делать	3.v-imp	imperative	other	naf		quote	61	
+t4	mish4	Tsakhur	49	gi=w=ʔur-o=b w=uxa	садиться-быть стать	hpl.v.pf-v=hpl hpl=v.pf	unknown	other	naf		main line	62	
+t6	mish5	Tsakhur	49	NA	NA	NA	NA	NA			conversation	66	
+b23	kvan9	Bagvalal	50			n=v-ms.ipf-conv cop	present	other	NA	NA	main line	35	past translation
+b23	kvan9	Bagvalal	50			v-ms.ipf-conv n=v	preterite_imperfect	other	NA	NA	main line	35	
+b8	kvan3	Bagvalal	50	w=ič’a	смотреть	m=v-pot.inf	infinitive	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	50	w=eɬi	идти	m=v	preterite	pst	NA	NA	main line	48	
+t3	mish4	Tsakhur	50	ha=w=ʔ-u	делать	3=v-pf	aorist	pst	naf		main line	61	
+t3	mish4	Tsakhur	50	t’abalʲ-aʔ-u	находить-делать	v-npl.v-pf	aorist	pst	naf		main line	61	
+t3	mish4	Tsakhur	50	ileːzʷar-a=j=ʔ-ɨ	стоять-делать	2=v-2=v-pf	aorist	pst	naf		main line	61	
+t4	mish4	Tsakhur	50	ɨxa-na	стать	1.v.pf-aa	atr_aorist	pst	af		main line	62	
+t6	mish5	Tsakhur	50	ɢadže-na	видеть	4.v.pf-aa	atr_aorist	pst	af		main line	66	
+t6	mish5	Tsakhur	50	gʲa=w=kː-u-na	направлять	3=v-pf-aa	atr_aorist	pst	af		main line	66	
+t6	mish5	Tsakhur	50	alʲaʔ-in	одевать	4.v.pf-a	participle	other	ptcp		non-clausal	66	
+b23	kvan3	Bagvalal	51			n=v n=v-pot-fut1	future-in-the-past	other	NA	NA	main line	36	
+b23	kvan3	Bagvalal	51			v-ms.pot.inf	infinitive	other	NA	NA	dependent	36	
+b23	kvan3	Bagvalal	51			n=v-ipf-conv n=v-ro-m	preterite_imperfect	other	NA	NA	first	36	
+b8	kvan3	Bagvalal	51	š’ibeː-raː-χ w=isã	давить находить	v-ipf-conv m=v	preterite_imperfect	other	NA	NA	main line	48	find construction
+t3	mish4	Tsakhur	51	ilʲo=r=zur	останавливаться	2=v.pf	aorist	pst	naf		main line	61	
+t3	mish4	Tsakhur	51	ileːzʷar-a=j=ʔ-ɨ	стоять-делать	2=v-2=v-pf	aorist	pst	naf		main line	61	
+t3	mish4	Tsakhur	51	hiwo	давать	v.pf	aorist	pst	naf		main line	61	
+t3	mish4	Tsakhur	51	gi=w=x-u wo=b	класть быть	3=v-pf v=3	naf_perfect	pf	naf	ep	main line	61	
+t4	mish4	Tsakhur	51	ɨxa deš-o=r	стать не.быть-быть	1.v.pf neg.cop-v=1	naf_perfect	pf	naf	ep	main line	62	
+t4	mish4	Tsakhur	51	kar-o=r ɨxa	человек-быть стать	noun.1-v=1 1.v.pf	naf_perfect	pf	naf	ep	main line	62	
+t6	mish5	Tsakhur	51	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	66	
+t6	mish5	Tsakhur	51	wo=r=na	быть	v=1=aa	atr_present	other	af		quote	66	
+b8	kvan3	Bagvalal	52	b=išːi=w=o	хватать	n=v=m=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	52	w=uššu	вытаскивать	m=v	preterite	pst	NA	NA	main line	48	
+t3	mish4	Tsakhur	52	wo=d=ɨn	быть	v=4-a	aorist	pst	naf		quote	61	
+t3	mish4	Tsakhur	52	heʔ-e	делать	4.v-imp	imperative	other	naf		quote	61	
+t3	mish4	Tsakhur	52	iwho wo=d	говорить быть	v.pf v=4	naf_perfect	pf	naf	ep	main line	61	
+t3	mish4	Tsakhur	52	gi=w=xʷ-iːnɢaˁ	класть	3=v.pf-temp1	sconverb	other	naf		dependent	61	
+t4	mish4	Tsakhur	52	iwho	говорить	v.pf	aorist	pst	naf		quote	62	
+t4	mish4	Tsakhur	52	iwho wo=d	говорить быть	v.pf v=4	naf_perfect	pf	naf	ep	main line	62	
+t4	mish4	Tsakhur	52	ajr-es-wɨ	приходить	1.v-pot-wy	potential	other	naf		quote	62	
+t6	mish5	Tsakhur	52	mažbɨr-xa-na	должен-стать	adj?-1.v.pf-aa	atr_aorist	pst	af		main line	66	
+t6	mish5	Tsakhur	52	wo=r=na	быть	v=1=aa	atr_present	other	af		quote	66	
+t6	mish5	Tsakhur	52	iwh-es	говорить	v-pot	infinitive	other	naf		dependent	66	
+b1	kvan4	Bagvalal	53	w=alli=w=o ek’ʷa	звать есть	m=v=m=conv cop	perfect	pf	NA	NA	first	3	
+b8	kvan3	Bagvalal	53	b=ac’=ir	достигать	hpl=v=hpl	preterite	pst	NA	NA	main line	48	
+t3	mish4	Tsakhur	53	wo=d=ɨn	быть	v=4-a	atr_present	other	af		quote	61	
+t3	mish4	Tsakhur	53	iwho wo=d	говорить быть	v.pf v=4	naf_perfect	pf	naf	ep	main line	61	
+t4	mish4	Tsakhur	53	wudž-o=r=na	сам-быть	pron.1-v=1=aa	atr_present	other	af		quote	62	
+t4	mish4	Tsakhur	53	iwho wo=d	говорить	v.pf v=4	naf_perfect	pf	naf	ep	main line	62	
+t4	mish4	Tsakhur	53	gʲuʔur-na	садиться	1.v.pf-aa	participle	other	ptcp		non-clausal	62	
+t6	mish5	Tsakhur	53	haʔ-iːn	делать	4.v.pf-a	atr_aorist	pst	af		main line	66	
+t6	mish5	Tsakhur	53	a=r=iːn-ɢʷ-eː	приходить	1=v.pf-a-obl.1-erg	participle	other	ptcp		non-clausal	66	
+t6	mish5	Tsakhur	53	a=r=iː-n-ɢʷ-eː	приходить	1=v.pf-a-obl.1-erg	participle	other	ptcp		non-clausal	66	
+t6	mish5	Tsakhur	53	deš	не.быть		present	other	naf		quote	66	
+b1	kvan4	Bagvalal	54	b=uk’a=b=o ek’ʷa	быть есть	n=v=n=conv cop	perfect	pf	NA	NA	main line	3	
+b8	kvan3	Bagvalal	54	heƛ’i	говорить	v	preterite	pst	NA	NA	main line	48	
+t3	mish4	Tsakhur	54	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	61	
+t3	mish4	Tsakhur	54	wo=d=ɨm=mɨ	быть	v=npl=a-pl	atr_present	other	af		quote	61	
+t3	mish4	Tsakhur	54	indžimiš-m-eːx-e	обижаться-стать	v-prh-2.v-ipf	prohibitive	other	naf		quote	61	
+t4	mish4	Tsakhur	54	iwho-jn	говорить	v.pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	54	ilʲakː-ɨ-na	смотреть	1.v-pf-aa	atr_aorist	pst	af		main line	62	
+t4	mish4	Tsakhur	54	deš w=aˁχ-a-na	не.быть мочь	neg.cop 3=v-ipf-aa	atr_present	other	af		quote	62	
+t4	mish4	Tsakhur	54	qoːˁq-as	красть	3-v-pot	infinitive	other	naf		dependent	62	
+t6	mish6	Tsakhur	54	diš-xe	не.быть	neg.cop-hab	habitual	other	naf		conversation	66	
+b1	kvan4	Bagvalal	55	hinč’a-li-r	большой	adj-vrb-msd	masdar	other	NA	NA	NA	3	
+b1	kvan4	Bagvalal	55	ħarzal-li-r 	изобильный 	adj-vrb-msd	masdar	other	NA	NA	NA	3	
+b1	kvan4	Bagvalal	55	heƛ’i=b=o ek’ʷa	говорить есть	n=v=n=conv cop	perfect	pf	NA	NA	main line	3	
+b1	kvan4	Bagvalal	55	ek’ʷa	есть	cop	present	other	NA	NA	quote	3	
+b8	kvan3	Bagvalal	55	b=uk-a-bila-da	оказываться	n=v-pot-ant1-da	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	55	b=ut-aː-ʁedi	развязываться	hpl=v-caus.pot.imp-redi	imperative	other	NA	NA	quote	48	
+t3	mish4	Tsakhur	55	iwho wo=d	говорить быть	v.pf v=4	naf_perfect	pf	naf	ep	main line	61	em2 as copula in the complement clause?
+t4	mish4	Tsakhur	55	gadže	видеть	1.v.pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	55	gadže-jnɢaˁ	видеть	4.v.ipf-temp1	sconverb	other	naf		dependent	62	
+t4	mish4	Tsakhur	55	gadže-jnɢaˁ	видеть	4.v.ipf-temp1	sconverb	other	naf		dependent	62	
+t6	mish5	Tsakhur	55	NA	NA	NA	NA	NA			conversation	66	
+b1	kvan4	Bagvalal	56	b=uh-eː-r-oː=b	собираться	n=v-caus-ipf-part=n	participle	other	NA	NA	dependent	3	
+b1	kvan4	Bagvalal	56	ek’ʷa	есть	cop	present	other	NA	NA	quote	3	
+b1	kvan4	Bagvalal	56	heƛ’i	говорить	v	preterite	pst	NA	NA	main line	3	
+b8	kvan3	Bagvalal	56	b=uk’a-č’i b=uɬu-raː-χ	быть становиться	n=v-neg n-v-ipf-conv	preterite_pluperfect	other	NA	NA	main line	48	
+t3	mish4	Tsakhur	56	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	61	
+t3	mish4	Tsakhur	56	wo=b=na	быть	v=3=aa	atr_present	other	af		quote	61	past translation
+t4	mish4	Tsakhur	56	haʔ-as	делать	4.v-pot	infinitive	other	naf		dependent	62	
+t4	mish4	Tsakhur	56	iwho wo=d	говорить быть	v.pf v=4	naf_perfect	pf	naf	ep	main line	62	
+t4	mish4	Tsakhur	56	aˁχ-as deš	мочь не.быть	4.v-pot neg.cop	naf_prospective	other	naf	ep	quote	62	
+t6	mish4	Tsakhur	56	wo=d=un	быть	v=4-a	atr_present	other	af		comment	66	
+b1	kvan4	Bagvalal	57	b=uq’-a-ʁedi	резать	n=v-pot.imp-redi	imperative	other	NA	NA	quote	3	
+b1	kvan4	Bagvalal	57	heƛ’i	говорить	v	preterite	pst	NA	NA	main line	3	
+b8	kvan3	Bagvalal	57	w=eɬi=w=o	идти	m=v=m=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	57	r=išːi=r=o	хватать	npl=v=npl=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	57	w=eɬ-a-sː-ʁe	идти	m=v-ms.pot-fut1-re	future	other	NA	NA	quote	48	
+b8	kvan3	Bagvalal	57	b=uƛ’-a-ʁa-di	гнать	n=v-pot.imp-ra-di	imperative	other	NA	NA	quote	48	
+b8	kvan3	Bagvalal	57	č’e-raː	выкидывать	v-ms.pot.inf	infinitive	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	57	heƛ’i	говорить	v	preterite	pst	NA	NA	main line	48	
+t3	mish4	Tsakhur	57	ačmiš-ha=w=ʔ-u	открывать-делать	v-3=v-pf	converb	other	naf		dependent	61	
+t3	mish4	Tsakhur	57	ha=w=g-u wo=b	показывать быть	3=v-pf v=3	naf_perfect	pf	naf	ep	main line	61	
+t4	mish4	Tsakhur	57	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	62	
+t4	mish4	Tsakhur	57	qoˁ=p=q-u-na wudž-o=r=na	красть сам-быть	3=v-pf-aa pron.1-v=1=aa	atr_unknown	other	af		quote	62	
+t6	mish5	Tsakhur	57	k’ʲaʔ-u	класть	4.v-pf	aorist	pst	naf		quote	66	
+t6	mish5	Tsakhur	57	giːˁχ-ɨ	кидать	npl.v-pf	aorist	pst	naf		quote	66	
+t6	mish5	Tsakhur	57	deš	не.быть	neg.cop	present	other	naf		quote	66	
+b8	kvan3	Bagvalal	58			v	preterite	pst	NA	NA	main line	48	
+t3	mish4	Tsakhur	58	j=ec’a-na deš	знать не.быть	2=v-aa neg	atr_present	other	af		dependent	61	
+t3	mish4	Tsakhur	58	ac’a-na deš	знать не.быть	1.v-aa neg	atr_present	other	af		dependent	61	
+t3	mish4	Tsakhur	58	iwho wo=d	говорить быть	v.pf v=4	naf_perfect	pf	naf	ep	main line	61	
+t4	mish4	Tsakhur	58	qoˁ=p=q-u-wɨ	украсть	3.v-pf-wy	aorist	pst	naf		quote	62	
+t4	mish4	Tsakhur	58	ali=w=k-e	заставлять	3=v-imp	imperative	other	naf		quote	62	
+t4	mish4	Tsakhur	58	haːʔ-as	делать	3.v-pot	infinitive	other	naf		dependent	62	
+t4	mish4	Tsakhur	58	inʲammiš-de-x-e-xeː	верить-стать	v-neg-1.v-ipf-cond2	sconverb	other	naf		dependent	62	
+t6	mish5	Tsakhur	58	mažbɨr-xa	должен-стать	adj?-1.v.pf	aorist	pst	naf		main line	66	
+t6	mish5	Tsakhur	58	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	66	
+t6	mish5	Tsakhur	58	wo=b=na	быть	v=3=aa	atr_present	other	af		quote	66	
+t6	mish5	Tsakhur	58	wo=b=na	быть	v=3=aa	atr_present	other	af		quote	66	
+t6	mish5	Tsakhur	58	alʲaːt’-a deš-in	брать не.быть	4.v-ipf neg.cop-a	atr_present	other	af		quote	66	
+t6	mish5	Tsakhur	58	č’ɨˁr-oːx-e deš-da	больной-стать не.быть	adj-3.v-ipf neg.cop-aa	atr_present	other	af		quote	66	
+t6	mish5	Tsakhur	58	pič-oːx-e deš-da	плохой-стать не.быть	adj-3.v-ipf neg.cop-aa	atr_present	other	af		quote	66	
+t6	mish5	Tsakhur	58	ejx-e-n deš-xe	стать не.быть	4.v-ipf-a neg.cop-hab	habitual	other	naf		quote	66	
+b8	kvan3	Bagvalal	59			v=n=conv neg.cop-ra-di	perfect	pf	NA	NA	quote	48	
+b8	kvan3	Bagvalal	59			m=v	preterite	pst	NA	NA	main line	48	
+t3	mish4	Tsakhur	59	wo=d=ɨn	быть	v=4=a	atr_present	other	af		quote	61	
+t3	mish4	Tsakhur	59	wo=b=na	быть	v=4=aa	atr_present	other	af		quote	61	
+t4	mish4	Tsakhur	59	iwho	говорить	v.pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	59	a=w=t’ul	привязывать	3=v.pf	aorist	pst	naf		quote	62	
+t4	mish4	Tsakhur	59	a=r=na	приходить	1=v.pf-aa	atr_aorist	pst	af		quote	62	
+t4	mish4	Tsakhur	59	ac’a-x-es	знать-стать	4.v-4.v-pot	potential	other	naf		quote	62	
+t4	mish4	Tsakhur	59	w=ac’a-w=x-es	знать-стать	3=v-3=v-pot	potential	other	naf		quote	62	
+t6	mish6	Tsakhur	59	NA	NA	NA	NA	NA			conversation	66	
+b8	kvan3	Bagvalal	60			hpl=v-caus=hpl	preterite	pst	NA	NA	main line	48	
+b8	kvan3	Bagvalal	60			hpl=v=hpl	preterite	pst	NA	NA	main line	48	
+t3	mish4	Tsakhur	60	ɨxa	стать	4.v.pf	aorist	pst	naf		quote	61	
+t3	mish4	Tsakhur	60	inʲammiš-ex-e-na	верить-стать	v-1.v-ipf-aa	atr_present	other	af		quote	61	
+t3	mish4	Tsakhur	60	heːʔ-e	делать	3.v-imp	imperative	other	naf		quote	61	
+t3	mish4	Tsakhur	60	iwho wo=d	говорить быть	v.pf v=4	naf_perfect	pf	naf	ep	main line	61	
+t4	mish4	Tsakhur	60	ič’-u	входить	1.v-pf	aorist	pst	naf		quote	62	in previous clauses em1 as a copula, it seems
+t4	mish4	Tsakhur	60	ačmiš-ha=w=ʔ-u	открывать-делать	v-3=v-pf	aorist	pst	naf		quote	62	
+t4	mish4	Tsakhur	60	qɨʁa=w=š-u-na	вытаскивать	3=v-pf-aa	atr_aorist	pst	af		quote	62	
+t4	mish4	Tsakhur	60	ha=w=ʔ-u wo=b	делать быть	3=v-pf v=3	naf_perfect	pf	naf	ep	main line	62	
+t6	mish4	Tsakhur	60	NA	NA	NA	NA	NA			conversation	66	
+b1	kvan4	Bagvalal	61	w=alli=w=o ek’ʷa	звать есть	m=v=m=conv cop	perfect	pf	NA	NA	first	4	
+b8	kvan3	Bagvalal	61			n=v=hpl=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	61			v + v=hpl	preterite	pst	NA	NA	main line	48	
+t3	mish4	Tsakhur	61	ič’-u-na	входить	1.v-pf-aa	atr_aorist	pst	af		quote	61	
+t3	mish4	Tsakhur	61	iwho wo=d	говорить быть	v.pf v=4	naf_perfect	pf	naf	ep	main line	61	
+t3	mish4	Tsakhur	61	baʁlamiš-aːʔ-a-ni	закрываться-делать	v-3.v-ipf-aobl	participle	other	ptcp		non-clausal	61	
+t4	mish4	Tsakhur	61	qoˁ=p=q-u-wɨ	красть	3=v-pf-wy	aorist	pst	naf		dependent	62	
+t4	mish4	Tsakhur	61	inʲammiš-xa-na	верить-стать	v-1.v.pf-aa	atr_aorist	pst	af		main line	62	
+t4	mish4	Tsakhur	61	ha=w=ʔ-iːnɢaˁ	делать	3=v.pf-temp1	sconverb	other	naf		dependent	62	
+t6	mish6	Tsakhur	61	wo=d=un	быть	v=4=a	atr_present	other	af		conversation	66	
+b1	kvan4	Bagvalal	62	b=uhaː	забирать	n=v-pot.inf	infinitive	other	NA	NA	dependent	4	
+b1	kvan4	Bagvalal	62	b=uku-r-oː=b	быть.должным	n=v-ipf-part=n	participle	other	NA	NA	dependent	4	
+b1	kvan4	Bagvalal	62	heƛ’i	говорить	v	preterite	pst	NA	NA	main line	4	
+b8	kvan3	Bagvalal	62			n=v=part.n=temp	sconverb	other	NA	NA	dependent	48	
+t3	mish4	Tsakhur	62	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		quote	61	
+t3	mish4	Tsakhur	62	hile	дать	npl.v.imp	imperative	other	naf		quote	61	
+t4	mish4	Tsakhur	62	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	62	
+t4	mish4	Tsakhur	62	aˁχ-iːn-ki	мочь	4.v.pf-a-ki	atr_aorist	pst	af		quote	62	
+t4	mish4	Tsakhur	62	w=aˁχ-ɨ-na-ki	мочь	3=v-pf-aa-ki	atr_aorist	pst	af		quote	62	
+t4	mish4	Tsakhur	62	(haʔ-a-na)	делать	4.v-ipf-aa	atr_present	other	af		quote	62	
+t4	mish4	Tsakhur	62	haʔ-as	делать	4.v-pot	infinitive	other	naf		dependent	62	
+t4	mish4	Tsakhur	62	qoˁq-as	красть	3.v-pot	infinitive	other	naf		dependent	62	
+t4	mish4	Tsakhur	62	w=uxe-na	стать	3=v.imp-opt	optative	other	naf		quote	62	
+t6	mish5	Tsakhur	62	iwho-da	говорить	v=adv.4	adv_converb	other	naf		dependent	66	adverbialized form used as converb, specific to this speaker
+t6	mish5	Tsakhur	62	ilʲaːk-ɨ	смотреть	hpl.v-pf	aorist	pst	naf		main line	66	
+b1	kvan4	Bagvalal	63	džeː=r=o	делать	v=npl=conv	converb	other	NA	NA	dependent	4	
+b1	kvan4	Bagvalal	63	ešːa=n=o	надевать.шапку	v=npl=conv	converb	other	NA	NA	dependent	4	
+b1	kvan4	Bagvalal	63	b=el-aː-l-o=ba ek’ʷa-ʁe	идти есть	hpl=v-ms.pot-fut-part=hpl cop-re	future	other	NA	NA	quote	4	
+b1	kvan4	Bagvalal	63	k’anc’ur-aː	прыгать	v-ms.pot-inf	infinitive	other	NA	NA	dependent	4	
+b1	kvan4	Bagvalal	63	heƛ’i=b=o ek’ʷa	говорить есть	v=n=conv cop	perfect	pf	NA	NA	main line	4	
+b8	kvan3	Bagvalal	63			v=m=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	63			m=v v v-ipf-conv	preterite_imperfect	other	NA	NA	main line	48	
+t3	mish4	Tsakhur	63	baʁlamiš wo=b=na haːʔ-a	закрываться быть делать	v v=3=aa 3.v-ipf	af_durative	other	af	nep	quote	61	
+t3	mish4	Tsakhur	63	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		quote	61	
+t3	mish4	Tsakhur	63	deš-da	не.быть	neg.cop-aa	atr_present	other	af		quote	61	
+t4	mish4	Tsakhur	63	iwho-jn	говорить	v-a	atr_aorist	pst	af		main line	62	
+t4	mish4	Tsakhur	63	qi=w=k-e	уводить	3=v-imp	imperative	other	naf		quote	62	
+t4	mish4	Tsakhur	63	hoːra	идти	1.v.imp	imperative	other	naf		quote	62	
+t4	mish4	Tsakhur	63	w=ukːan deš	хотеть не.быть	3=v.ipf neg.cop	present	other	naf		quote	62	
+t4	mish4	Tsakhur	63	oˁgmiš-me-x-e-xe	хвастаться-стать	v-prh-1.v-ipf-hab	prohibitive	other	naf		quote	62	
+t6	mish5	Tsakhur	63	iwho	говорить	v.pf	aorist	pst	naf		main line	66	
+t6	mish5	Tsakhur	63	inʲammiš-d-e=w=xa	верить-стать	v-neg-hpl=v.pf	aorist	pst	naf		main line	66	
+t6	mish5	Tsakhur	63	qɨʁɨ=w=č’-u	выходить	3=v-pf	aorist	pst	naf		main line	66	
+t6	mish5	Tsakhur	63	alʲa=p’=t’-u	брать	3=v-pf	aorist	pst	naf		main line	66	
+t6	mish5	Tsakhur	63	ilʲaːk-ɨm-mɨ	смотреть	hpl.v-pf-a-pl	atr_aorist	pst	af		main line	66	
+t6	mish5	Tsakhur	63	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	66	
+t6	mish5	Tsakhur	63	ɨˁ=w=χ-iːnɢaˁ	ударять	3=v.pf-temp1	sconverb	other	naf		dependent	66	
+t6	mish5	Tsakhur	63	alʲa=p’=t’ʷ-iːnɢaˁ	брать	3=v.pf-temp1	sconverb	other	naf		dependent	66	
+b1	kvan4	Bagvalal	64	b=uhaː	собирать	n=v-pot.inf	infinitive	other	NA	NA	dependent	4	
+b1	kvan4	Bagvalal	64	uha=m=o ek’ʷa	мочь есть	v=n=conv cop	perfect	pf	NA	NA	main line	4	
+b8	kvan3	Bagvalal	64			v-v-caus	preterite	pst	NA	NA	main line	48	
+b8	kvan3	Bagvalal	64			n=v-neg v n=v-ipf-conv	preterite_imperfect	other	NA	NA	main line	48	
+t3	mish4	Tsakhur	64	inʲammiš-a=j=ʔ-ɨ	верить-делать	v-2=v-pf	aorist	pst	naf		quote	61	
+t3	mish4	Tsakhur	64	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		quote	61	
+t3	mish4	Tsakhur	64	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		quote	61	
+t3	mish4	Tsakhur	64	razi-de-xa	согласный-стать	adj-neg-1.v.pf	converb	other	naf		dependent	61	
+t3	mish4	Tsakhur	64	qal-e	приносить	npl.v-imp	imperative	other	naf		quote	61	
+t4	mish4	Tsakhur	64	deš-da	не.быть	neg.cop-aa	participle	other	ptcp		non-clausal	62	
+t4	mish4	Tsakhur	64	h-im-aʔ-a-xe	делать	prh-3.v-ipf-hab	prohibitive	other	naf		quote	62	
+t6	mish5	Tsakhur	64	aːq-iːn	открывать	4.v-pf-a	atr_aorist	pst	af		main line	66	
+b1	kvan4	Bagvalal	65	b=uχː-aː-ɬ-o=ba ek’ʷa	оставляться есть	hpl=v-pot-fut-part=hpl cop	future	other	NA	NA	quote	4	
+b1	kvan4	Bagvalal	65	b=ihi-ra	брать	n=v-ipf.inf	infinitive	other	NA	NA	dependent	4	
+b1	kvan4	Bagvalal	65	b=ešt-aː-la	пускать	hpl=v-pot.inf-la	infinitive	other	NA	NA	dependent	4	
+b1	kvan4	Bagvalal	65	b=et-aː-la	оставлять	n=v-pot.inf-la	infinitive	other	NA	NA	dependent	4	
+b1	kvan4	Bagvalal	65	heƛ’i=b=o ek’ʷa	говорить есть	v=n=conv cop	perfect	pf	NA	NA	main line	4	
+b8	kvan3	Bagvalal	65			f=v-ms.ipf.inf	infinitive	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	65			cop=part.f	participle	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	65			v	preterite	pst	NA	NA	main line	48	
+t3	mish4	Tsakhur	65	qa=dʲ=iːm-mɨ	приносить	npl=v.pf-a-pl	atr_aorist	pst	af		quote	61	
+t4	mish4	Tsakhur	65	deš-da	не.быть	neg.cop-aa	atr_present	other	af		quote	62	
+t4	mish4	Tsakhur	65	qoˁq-as-da	красть	3=v-pot-aa	participle	other	ptcp		non-clausal	62	
+t4	mish4	Tsakhur	65	oˁgmiš-eːx-e-jiː-niː	хвастаться-стать	v-1.v-ipf-em1-em2	present	other	naf		quote	62	past translation
+t4	mish4	Tsakhur	65	gi=w=ʔur-iːnɢaˁ	садиться	hpl=v.pf-temp1	sconverb	other	naf		dependent	62	
+t6	mish6	Tsakhur	65	wo=d=un	быть	v=4=a	atr_present	other	af		conversation	66	
+b8	kvan3	Bagvalal	66			n=v-pot.imp-rala	imperative	other	NA	NA	quote	48	
+b8	kvan3	Bagvalal	66			n=v-ipf-conv cop-rala	present	other	NA	NA	quote	48	
+t3	mish4	Tsakhur	66	qa=d=ɨ	приносить	4=v.pf	aorist	pst	naf		quote	61	
+t3	mish4	Tsakhur	66	gʲakː-ɨ	смотреть	1.v-pf	aorist	pst	naf		quote	61	
+t3	mish4	Tsakhur	66	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		quote	61	
+t3	mish4	Tsakhur	66	qal-e	приносить	npl.v-imp	imperative	other	naf		quote	61	
+t3	mish4	Tsakhur	66	q’abɨ;-eːx-e deš-o=d	нравиться-стать не.быть-быть	v-npl.v-ipf neg.cop-v=npl	naf_durative	other	naf	ep	quote	61	
+t4	mish4	Tsakhur	66	a=r=ɨ	приходить	1=v.pf	aorist	pst	naf		quote	62	
+t4	mish4	Tsakhur	66	qoˁ=p=q-u	красть	3=v-pf	aorist	pst	naf		quote	62	
+t6	mish5	Tsakhur	66	wo=d=un	быть	v=4=a	atr_present	other	af		conversation	66	
+t6	mish5	Tsakhur	66	hiwaːdž-es	сохранять	npl.v-pot	potential	other	naf		conversation	66	
+t6	mish5	Tsakhur	66	hiwaːdž-es	сохранять	3.v-pot	potential	other	naf		conversation	66	
+b8	kvan3	Bagvalal	67			v=hpl=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	67			v + v-pot.inf	infinitive	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	67			v-la	infinitive	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	67			v	preterite	pst	NA	NA	main line	48	
+b8	kvan3	Bagvalal	67			n=v-neg	preterite	pst	NA	NA	main line	48	
+b8	kvan3	Bagvalal	67			n=v-pot-cond	sconverb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	67			hpl=v-ms.pot-cond-neg	sconverb	other	NA	NA	dependent	48	
+t3	mish4	Tsakhur	67	iwho	говорить	v.pf	aorist	pst	naf		main line	61	
+t3	mish4	Tsakhur	67	iwho	говорить	v.pf	aorist	pst	naf		main line	61	
+t3	mish4	Tsakhur	67	alʲa=p’=t’-u	брать	3=v-pf	aorist	pst	naf		quote	61	
+t3	mish4	Tsakhur	67	iwho	говорить	v.pf	aorist	pst	naf		main line	61	
+t3	mish4	Tsakhur	67	a=r=k’ɨn-na	уходить	1=v.pf-aa	atr_aorist	pst	af		quote	61	
+t3	mish4	Tsakhur	67	a=r=k’ɨn-iːnɢaˁ	уходить	2=v.pf-temp1	sconverb	other	naf		dependent	61	
+t4	mish4	Tsakhur	67	deš-da	не.быть	neg.cop-aa	atr_present	other	af		quote	62	
+t4	mish4	Tsakhur	67	deš-xeː	не.быть	neg.cop-cond2	sconverb	other	naf		dependent	62	
+t6	mish4	Tsakhur	67	(wo=d=un)	быть	v=4=a	atr_present	other	af		conversation	66	
+t6	mish4	Tsakhur	67	haʔ-iːn	делать	4.v.pf-a	participle	other	ptcp		dependent	66	
+b8	kvan3	Bagvalal	68			v	preterite	pst	NA	NA	main line	48	
+b8	kvan3	Bagvalal	68			n=v-ipf-conv n=v-neg-rabi	preterite_imperfect	other	NA	NA	main line	48	
+t3	mish4	Tsakhur	68	gozetʲ-a=w=ʔ-u-na	ждать-делать	v=3=v-pf-aa	atr_aorist	pst	af		main line	61	
+t3	mish4	Tsakhur	68	a=r=k’ɨn-iːnɢaˁ	уходить	1=v.pf-temp1	sconverb	other	naf		dependent	61	
+t4	mish4	Tsakhur	68	wo-d-um-mɨ	быть	v=npl=a-pl	atr_present	other	af		quote	62	
+t4	mish4	Tsakhur	68	qoˁq-a-xeː	красть	npl.v-ipf-cond2	sconverb	other	naf		dependent	62	
+t6	mish4	Tsakhur	68	k’ʲaʔ-a-n	класть	v-ipf-a	atr_present	other	af		conversation	66	
+t6	mish4	Tsakhur	68	gi=d=akːʷar-an	накрывать	4=v.ipf-a	atr_present	other	af		conversation	66	
+t6	mish4	Tsakhur	68	qaːʔ-a-ni	чинить	3.v-ipf-aobl	participle	other	ptcp		dependent	66	
+t6	mish4	Tsakhur	68	alʲaʔ-iːn	строить	4.v.pf-a	participle	other	ptcp		dependent	66	
+t6	mish4	Tsakhur	68	wo=d	быть	v=4	present	other	naf		conversation	66	
+b8	kvan3	Bagvalal	69			m=v=m=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	69			v-v-caus m=v	preterite	pst	NA	NA	main line	48	perhaps a pluperfect?
+b8	kvan3	Bagvalal	69			m=v=m=conv m=v	preterite_pluperfect	other	NA	NA	main line	48	
+t3	mish4	Tsakhur	69	ačmiš-haʔ-u	открыть-делать	v-4.v-pf	aorist	pst	naf		main line	61	
+t3	mish4	Tsakhur	69	qɨʁč’-u-na	выходить	1.v-pf-aa	atr_aorist	pst	af		main line	61	
+t3	mish4	Tsakhur	69	alʲa=p’=t’-u	брать	3=v-pf	converb	other	naf		dependent	61	
+t3	mish4	Tsakhur	69	hi=r=xɨr-iːnɢaˁ	доходить	1=v.pf-a-temp1	sconverb	other	naf		dependent	61	
+t4	mish4	Tsakhur	69	ho=p’=t’ul	вести.за.уздечку	3.v.pf	aorist	pst	naf		main line	62	
+t4	mish4	Tsakhur	69	a=r=k’ɨn-na	уходить	1=v.pf-aa	atr_aorist	pst	af		main line	62	
+t4	mish4	Tsakhur	69	mat-xa	удивляться-стать	v-1.v.pf	converb	other	naf		dependent	62	
+t6	mish4	Tsakhur	69	ɢiːsan deš-in	спать не.быть	4.v.ipf neg.cop-a	atr_present	other	af		conversation	66	
+t6	mish4	Tsakhur	69	qaːʔa-jeː	чинить	3.v-q1	present	other	naf		conversation	66	
+t6	mish4	Tsakhur	69	dura-qi=w=xa-jnɢaˁ	мокрый-стать	adj-3=v.pf-temp1	sconverb	other	naf		dependent	66	
+b8	kvan3	Bagvalal	70			v	infinitive	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	70			n=v	preterite	pst	NA	NA	main line	48	
+t3	mish4	Tsakhur	70	ɨxa-jn-ki	стать	4.v.pf-a-ki	atr_aorist	pst	af		main line	61	perhaps nonfinite?
+t3	mish4	Tsakhur	70	ix-es-ɨn	стать	4.v-pot-a	atr_infinitive	other	af		dependent	61	
+t6	mish4	Tsakhur	70	wo=d=un	быть	v=4=a	atr_present	other	af		conversation	66	
+t6	mish4	Tsakhur	70	ɢalʲaʔ-a-n	класть	4.v-ipf-a	participle	other	ptcp		dependent	66	
+b8	kvan3	Bagvalal	71			m=v=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	71			v=m=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	71			v + v.msd.inter	masdar	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	71			m=v.msd-obl-erg	masdar	other	NA	NA	non-clausal	48	
+b8	kvan3	Bagvalal	71			n=v + n=v	preterite	pst	NA	NA	main line	48	
+t3	mish4	Tsakhur	71	ɨxa	стать	4.v.pf	aorist	pst	naf		main line	61	
+t3	mish4	Tsakhur	71	išlemiš-ex-e	работать-стать	v-4.v-ipf	present	other	naf		unknown	61	
+t6	mish5	Tsakhur	71	it’iːq’an-am-mɨ	прилипать	npl.v.ipf-a-pl	atr_present	other	af		conversation	66	
+t6	mish5	Tsakhur	71	hɨˁsab-aːʔ-a	считать-делать	v-3.v-ipf	present	other	naf		conversation	66	
+t6	mish5	Tsakhur	71	ɨxʲ-eː	стать	4.v-cond1	sconverb	other	naf		dependent	66	
+b8	kvan3	Bagvalal	72			v=n=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	72			v-ms.pot.inf	infinitive	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	72			n=v=n=conv n=v=part.n	participle	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	72			v-caus	preterite	pst	NA	NA	main line	48	
+t3	mish4	Tsakhur	72	gʲuʔur	садиться	1.v.pf	aorist	pst	naf		main line	61	
+t3	mish4	Tsakhur	72	a=r=k’ɨn-na	уходить	1=v.pf-aa	atr_aorist	pst	af		main line	61	
+t3	mish4	Tsakhur	72	oˁtmiš-xa	уходить-стать	v-1.v.pf	converb	other	naf		dependent	61	
+t6	mish4	Tsakhur	72	ac’a wo=d=un	знать быть	4.v v=4=a	af_durative	other	af	nep	conversation	66	
+t6	mish4	Tsakhur	72	haʔ-a-m-mɨ	делать	npl.v-ipf-a-pl	atr_present	other	af		conversation	66	
+t6	mish4	Tsakhur	72	iːkar-as	ходить	4.v-pot	infinitive	other	naf		dependent	66	
+t6	mish4	Tsakhur	72	haʔ-a	делать	npl.v-ipf	present	other	naf		conversation	66	
+t6	mish4	Tsakhur	72	k’ʲaʔ-as-se	настилать	4.v-pot-temp2	sconverb	other	naf		dependent	66	
+b8	kvan3	Bagvalal	73			hpl=v=hpl	preterite	pst	NA	NA	main line	48	
+t3	mish4	Tsakhur	73	a=w=χ-iːm-mɨ	оставаться	hpl=v.pf-a-pl	atr_aorist	pst	af		main line	61	
+t3	mish4	Tsakhur	73	gikːʲ-iːm-mɨ	стряхивать	npl.v.pf-a-pl	participle	other	ptcp		non-clausal	61	
+t6	mish4	Tsakhur	73	ɢadže-jm-mɨ	видеть	npl.v.pf-a-pl	atr_aorist	pst	af		conversation	66	
+b8	kvan3	Bagvalal	74			v	infinitive	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	74			v=part.n	participle	other	NA	NA	non-clausal	48	
+b8	kvan3	Bagvalal	74			v=part.n	participle	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	74			v-caus.part=n	participle	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	74			v-ipf-part=hpl n=v=hpl	preterite_habitual	other	NA	NA	comment	48	
+b8	kvan3	Bagvalal	74			v-ms.pot-cond	sconverb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	74			v-ms.pot-cond	sconverb	other	NA	NA	dependent	48	
+t3	mish4	Tsakhur	74	w=ukːu	уносить	3=v.pf	aorist	pst	naf		quote	61	
+t3	mish4	Tsakhur	74	a=p’=k’ɨn	уходить	3=v.pf	aorist	pst	naf		quote	61	
+t3	mish4	Tsakhur	74	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	61	
+t6	mish4	Tsakhur	74	c’ɨc’-aʔ-a-m-mɨ	тянуть-делать	v-npl.v-ipf-a-pl	atr_present	other	af		conversation	66	
+t6	mish4	Tsakhur	74	aˁlʲhaː-s-di-meːgɨ	идти	v-pot-aobl-lim	atr_sconverb	other	af		dependent	66	
+t6	mish4	Tsakhur	74	aˁlhaː-s	идти	4.v-pot	infinitive	other	naf		dependent	66	
+t6	mish4	Tsakhur	74	haʔ-a	делать	npl.v-ipf	present	other	naf		conversation	66	
+b8	kvan3	Bagvalal	75			hpl=v=hpl	preterite	pst	NA	NA	main line	48	
+t3	mish4	Tsakhur	75	madžbɨr-e=b=xa	быть.должным-стать	v-hpl=v.pf	aorist	pst	naf		main line	61	
+t3	mish4	Tsakhur	75	h-idʲ-aʔ-u	делать	neg-4.v-pf	converb	other	naf		dependent	61	
+t3	mish4	Tsakhur	75	oˁtmiš-xa	уходить-стать	v-1.v.pf	converb	other	naf		dependent	61	
+t3	mish4	Tsakhur	75	ɢajkː=ɨ wo=r	отпускать быть	2.v-pf v=2	naf_perfect	pf	naf	ep	main line	61	
+t3	mish4	Tsakhur	75	a=r=k’ɨn-o=r	уходить-быть	1=v.pf-v=1	naf_perfect	pf	naf	ep	main line	61	
+t6	mish4	Tsakhur	75	q’abɨlʲ haʔ-iːn-ne	одобрять делать	v 4.v.pf-a-q2	atr_aorist	pst	af		conversation	66	
+t6	mish4	Tsakhur	75	haʔ-in	делать	4.v.pf-a	participle	other	ptcp		dependent	66	
+b8	kvan3	Bagvalal	76			v=m=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	76			v.ipf-part=n	participle	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	76			n=v-part=n	participle	other	NA	NA	non-clausal	48	
+b8	kvan3	Bagvalal	76			n=v-part=n	participle	other	NA	NA	non-clausal	48	
+b8	kvan3	Bagvalal	76			n=v	preterite	pst	NA	NA	main line	48	
+b8	kvan3	Bagvalal	76			hpl=v-caus=hpl	preterite	pst	NA	NA	main line	48	
+b8	kvan3	Bagvalal	76			m=v	preterite	pst	NA	NA	main line	48	
+t3	mish4	Tsakhur	76	χabar-o=b=xe haːʔ-a	рассказ-быть делать	noun.3-v=3=hab 3.v-ipf	habitual	other	naf		comment	61	durative habitual?
+t6	mish5	Tsakhur	76	iwho	говорить	v.pf	aorist	pst	naf		main line	66	
+t6	mish5	Tsakhur	76	a=dʲ=iː-n	приходить	4=v.pf-a	participle	other	ptcp		non-clausal	66	
+t6	mish5	Tsakhur	76	ilʲaːkʲ-iːnɢaˁ	смотреть	hpl.v.pf-temp1	sconverb	other	naf		dependent	66	
+t6	mish5	Tsakhur	76	aːq-iːnɢaˁ	открывать	4.v.pf-temp1	sconverb	other	naf		dependent	66	
+b8	kvan3	Bagvalal	77			m=v=m=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	77			v=n=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	77			v-caus.pot.imp-re-di	imperative	other	NA	NA	quote	48	
+b8	kvan3	Bagvalal	77			v	preterite	pst	NA	NA	main line	48	
+b8	kvan3	Bagvalal	77			v	preterite	pst	NA	NA	main line	48	
+t6	mish4	Tsakhur	77	q’abɨlʲ-aʔ-iːn	одобрять-делать	v-4.v.pf-a	atr_aorist	pst	af		comment	66	
+b8	kvan3	Bagvalal	78			m=v=m=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	78			v.ipf-part=m=di	participle	other	NA	NA	quote	48	
+b8	kvan3	Bagvalal	78			v	preterite	pst	NA	NA	main line	48	
+t6	mish5	Tsakhur	78	q’abɨlʲ-a-iːn	одобрять-делать	v-4.v.pf-a	atr_aorist	pst	af		comment	66	
+t6	mish5	Tsakhur	78	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		comment	66	
+b8	kvan3	Bagvalal	79			v=m=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	79			npl=v-ipf.inf	infinitive	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	79			v	preterite	pst	NA	NA	main line	48	
+b8	kvan3	Bagvalal	79			n=v-rala-di-la	preterite	pst	NA	NA	quote	48	
+t6	mish5	Tsakhur	79	iwho	говорить	v.pf	aorist	pst	naf		main line	66	
+t6	mish5	Tsakhur	79	iwho	говорить	v.pf	aorist	pst	naf		main line	66	
+t6	mish5	Tsakhur	79	w=ac’a-w=x-es	знать-стать 	3=v-3=v-pot	infinitive	other	naf		dependent	66	
+t6	mish5	Tsakhur	79	ɨkːan	быть.нужным	1.v.ipf	present	other	naf		quote	66	
+t6	mish5	Tsakhur	79	w=ukːan	быть.нужным	3=v.ipf	present	other	naf		quote	66	
+b8	kvan3	Bagvalal	80			m=v.imp	imperative	other	NA	NA	quote	48	
+b8	kvan3	Bagvalal	80			m=v.imp	imperative	other	NA	NA	quote	48	
+b8	kvan3	Bagvalal	80			n=v-part=n	participle	other	NA	NA	non-clausal	48	
+b8	kvan3	Bagvalal	80			v-neg-part=n=loc.lat-di	participle	other	NA	NA	unknown	48	
+b8	kvan3	Bagvalal	80			v	preterite	pst	NA	NA	main line	48	
+b8	kvan3	Bagvalal	80			v=part.n=temp	sconverb	other	NA	NA	dependent	48	
+t6	mish4	Tsakhur	80	h-im-aːdʒ-e	сохранять	prh-4.v-ipf	prohibitive	other	naf		quote	66	
+b8	kvan3	Bagvalal	81			v-ipf-conv cop=part.n	participle	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	81			cop-raso-m	present	other	NA	NA	main line	48	
+b8	kvan3	Bagvalal	81			hpl=v=hpl	preterite	pst	NA	NA	main line	48	
+b8	kvan3	Bagvalal	81			hpl=v=hpl	preterite	pst	NA	NA	main line	48	
+t6	mish4	Tsakhur	81	wo=d=un	быть	v=4=a	atr_present	other	af		comment	66	
+b8	kvan3	Bagvalal	82			m=v	preterite	pst	NA	NA	main line	48	
+t6	mish5	Tsakhur	82	oˁtmiš-i=w=xa	уходить	v-hpl=v.pf	aorist	pst	naf		main line	66	
+t6	mish5	Tsakhur	82	idʲ-o=t=xun	кушать	neg-4=v.pf	aorist	pst	naf		main line	66	
+t6	mish5	Tsakhur	82	iwho	говорить	v.pf	aorist	pst	naf		main line	66	
+t6	mish5	Tsakhur	82	aˁlhaː-nɢaˁ	уходить	v.ipf-temp1	sconverb	other	naf		dependent	66	
+b8	kvan3	Bagvalal	83			n=v-pot-abo-m	categorical_affirmative	other	NA	NA	comment	48	
+b8	kvan3	Bagvalal	83			n=v=part.n	participle	other	NA	NA	dependent	48	
+t6	mish5	Tsakhur	83	iwho-jn	говорить	v-a	atr_aorist	pst	af		main line	66	
+b23	kvan9	Bagvalal	84			cop	present	other	NA	NA	first	37	past translation
+b8	kvan3	Bagvalal	84			hpl=v-imp-rala-di	imperative	other	NA	NA	quote	48	
+b8	kvan3	Bagvalal	84			n=v-pot.inf	infinitive	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	84			v	preterite	pst	NA	NA	main line	48	
+t6	mish5	Tsakhur	84	iwho=da	говорить	v.pf=adv.4	adv_converb	other	naf		dependent	66	adverbialized form used as converb, specific to this speaker
+t6	mish5	Tsakhur	84	d-exa-na	стать	neg-1.v.pf-aa	atr_aorist	pst	af		main line	66	
+t6	mish5	Tsakhur	84	q’abɨlʲ-d-exa-na	нравиться-стать	v-neg-1.v.pf-aa	atr_aorist	pst	af		main line	66	
+b23	kvan9	Bagvalal	85			m=v-ipf-conv	converb	other	NA	NA	dependent	37	
+b23	kvan9	Bagvalal	85			v-caus=n=conv	converb	other	NA	NA	dependent	37	
+b23	kvan9	Bagvalal	85			cop	present	other	NA	NA	main line	37	
+b23	kvan9	Bagvalal	85			v-part=n=temp	sconverb	other	NA	NA	dependent	37	
+b8	kvan3	Bagvalal	85			n=v=n=conv cop-rala	perfect	pf	NA	NA	quote	48	
+b23	kvan9	Bagvalal	86			cop	present	other	NA	NA	main line	37	
+b23	kvan9	Bagvalal	86			v	preterite	pst	NA	NA	quote	37	
+b8	kvan3	Bagvalal	86			v-pot.inf	infinitive	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	86			m=v-ms.pot.inf	infinitive	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	86			v-ms.ipf-conv cop-rala	present	other	NA	NA	quote	48	
+b23	kvan9	Bagvalal	87			cop	present	other	NA	NA	main line	37	past translation
+b23	kvan9	Bagvalal	87			n=v-di	preterite	pst	NA	NA	quote	37	
+b8	kvan3	Bagvalal	87			v-ipf-part=npl	participle	other	NA	NA	non-clausal	48	
+b8	kvan3	Bagvalal	87			npl=v-ipf-part=npl	participle	other	NA	NA	non-clausal	48	
+b8	kvan3	Bagvalal	87			cop v-caus=npl=conv	perfect	pf	NA	NA	main line	48	
+b8	kvan3	Bagvalal	87			hpl=v=hpl	preterite	pst	NA	NA	main line	48	
+b8	kvan3	Bagvalal	87			n=v	preterite	pst	NA	NA	main line	48	
+t5	mish5	Tsakhur	87	ac’a wo=d=un	знать быть	4.v v=4=a	af_durative	other	af	nep	comment	63	
+t5	mish5	Tsakhur	87	ɨxa deš	стать не.быть	4.v.pf neg.cop	aorist	pst	naf		comment	63	
+t5	mish5	Tsakhur	87	ɢale=p=č-u	оставлять	3=v-pf	aorist	pst	naf		comment	63	
+t5	mish5	Tsakhur	87	ɢale=p=č-u	оставлять	3=v-pf	aorist	pst	naf		comment	63	
+t5	mish5	Tsakhur	87	alʲat’-u	брать	4.v-pf	aorist	pst	naf		comment	63	
+t5	mish5	Tsakhur	87	qiwo deš-in	отдавать не.быть	v.pf neg.cop-a	atr_aorist	pst	af		comment	63	
+t5	mish5	Tsakhur	87	gi=w=ʔur-iːn	садиться	hpl=v.pf-a	participle	other	ptcp		non-clausal	63	
+t5	mish5	Tsakhur	87	o=t=xana-n	кушать	4=v.ipf-a	participle	other	ptcp		non-clausal	63	
+b23	kvan9	Bagvalal	88			n=v-ipf-fut.neg-re	future	other	NA	NA	quote	37	
+b23	kvan9	Bagvalal	88			v	preterite	pst	NA	NA	main line	37	
+b8	kvan3	Bagvalal	88			v-pot.inf	infinitive	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	88			v-part=n	participle	other	NA	NA	non-clausal	48	
+b8	kvan3	Bagvalal	88			n=v-neg-part=n	participle	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	88			n=v	preterite	pst	NA	NA	main line	48	find construction
+t5	mish5	Tsakhur	88	he=p=χ-iːm-mɨ	убегать	hpl=v-pf-a-pl	atr_aorist	pst	af		first	63	
+t5	mish5	Tsakhur	88	a=w=χʷ-iːm-mɨ	оставаться	hpl=v-pf-a-pl	atr_aorist	pst	af		main line	63	
+t5	mish5	Tsakhur	88	a=t’=k’ɨn-ni	уходить	npl=v.pf-aobl	atr_aorist	pst	af		main line	63	
+t5	mish5	Tsakhur	88	gʲa=p’=t’ʷ-iːm-mɨ	убивать	hpl=v.pf-a-pl	atr_aorist	pst	af		main line	63	
+b23	kvan9	Bagvalal	89			n=v-pot.imp-re	imperative	other	NA	NA	quote	37	
+b23	kvan9	Bagvalal	89			v-part=n=re	participle	other	NA	NA	quote	37	
+b23	kvan9	Bagvalal	89			v-di	preterite	pst	NA	NA	quote	37	
+b8	kvan3	Bagvalal	89			v-ipf-conv n=v.msd-obl-erg	masdar	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	89			npl=v v npl=v=npl=conv	preterite_pluperfect	other	NA	NA	main line	48	
+t5	mish6	Tsakhur	89	NA	NA	NA	NA	NA			conversation	NA	
+b23	kvan9	Bagvalal	90			v=m=conv	converb	other	NA	NA	dependent	37	
+b23	kvan9	Bagvalal	90			m=v-ms.pot.inf-ra-di-la	infinitive	other	NA	NA	dependent	37	
+b23	kvan9	Bagvalal	90			m=v	preterite	pst	NA	NA	main line	37	
+b8	kvan3	Bagvalal	90			v=n=conv	converb	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	90			n=v=part.n	participle	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	90			n=v n=v	preterite	pst	NA	NA	main line	48	find construction
+b8	kvan3	Bagvalal	90			n=v=hpl=ipf-part=n=temp	sconverb	other	NA	NA	dependent	48	
+t5	mish5	Tsakhur	90	ac’a deš	знать не.быть	4.v neg.cop	present	other	naf		conversation	NA	
+b23	kvan9	Bagvalal	91			v=m=conv	converb	other	NA	NA	dependent	37	
+b23	kvan9	Bagvalal	91			m=v=m=conv	converb	other	NA	NA	dependent	37	
+b23	kvan9	Bagvalal	91			m=v-ant1-la cop	unknown	other	NA	NA	main line	37	specialized converb with a copula, meaning is finite past
+b8	kvan3	Bagvalal	91			n=v=part.npl	participle	other	NA	NA	dependent	48	
+b8	kvan3	Bagvalal	91			npl=v v-caus=npl=conv	preterite_pluperfect	other	NA	NA	main line	48	find construction
+t5	mish5	Tsakhur	91	i=w=iːkar wo=b=ɨm-mɨ	ходить быть	hpl=v.ipf v=hpl=a-pl	af_durative	other	af	nep	comment	63	
+t5	mish5	Tsakhur	91	awajk-ɨ deš-da	находить не.быть	1.v-pf neg.cop-aa	atr_aorist	pst	af		comment	63	
+t5	mish5	Tsakhur	91	gʲa=p’=k’-u	искать	hpl=v-pf	converb	other	naf		dependent	63	
+b23	kvan9	Bagvalal	92			n=v-pot.inf	infinitive	other	NA	NA	dependent	37	
+b23	kvan9	Bagvalal	92			v	preterite	pst	NA	NA	main line	37	
+b23	kvan9	Bagvalal	92			m=v-q-re	preterite	pst	NA	NA	quote	37	
+b23	kvan9	Bagvalal	92			n=v-q-re	preterite	pst	NA	NA	quote	37	
+b23	kvan9	Bagvalal	92			f=v-neg-q-re	preterite	pst	NA	NA	quote	37	
+b8	kvan3	Bagvalal	92			n=v-neg	preterite	pst	NA	NA	main line	48	find construction
+t5	mish5	Tsakhur	92	gʲa=p’=t’-u	убивать	hpl=v.pf	aorist	pst	naf		comment	63	
+t5	mish5	Tsakhur	92	qa=b=ɨ	привозить	hpl=v.pf	aorist	pst	naf		comment	63	
+t5	mish5	Tsakhur	92	ejx-e	стать	npl.v-ipf	present	other	naf		comment	63	
+t5	mish5	Tsakhur	92	ac’a deš	знать не.быть	4.v neg.cop	present	other	naf		comment	63	
+b23	kvan9	Bagvalal	93			n=v-ipf-conv cop=part.m	participle	other	NA	NA	quote	37	
+b23	kvan9	Bagvalal	93			n=v=part.n	participle	other	NA	NA	quote	37	
+b8	kvan3	Bagvalal	93			n=v=part.n=obl-ad	participle	other	NA	NA	non-clausal	48	
+b8	kvan3	Bagvalal	93			v	preterite	pst	NA	NA	main line	48	
+b8	kvan3	Bagvalal	93			n=v-ipf-part=n n=v-pot-fut1-rala	unknown	other	NA	NA	quote	48	find construction
+t5	mish6	Tsakhur	93	wo=d=niː	быть	v=npl=em2	present	other	naf		conversation	NA	past translation
+b23	kvan9	Bagvalal	94			m=v.imp-ra-di	imperative	other	NA	NA	quote	37	
+b23	kvan9	Bagvalal	94			m=v-pot.inf	infinitive	other	NA	NA	dependent	37	
+b23	kvan9	Bagvalal	94			m=v=part.m=sup.lat	participle	other	NA	NA	quote	37	
+b23	kvan9	Bagvalal	94			m=v-ipf-part=m=re	participle	other	NA	NA	quote	37	
+b23	kvan9	Bagvalal	94			v	preterite	pst	NA	NA	main line	37	
+b8	kvan3	Bagvalal	94			n=v-pot.imp-rala	imperative	other	NA	NA	quote	48	
+b8	kvan3	Bagvalal	94			adj=n=conv neg.cop-rala	perfect	pf	NA	NA	quote	48	
+b8	kvan3	Bagvalal	94			v-ms.ipf-conv cop-rala	present	other	NA	NA	quote	48	
+t5	mish5	Tsakhur	94	hi=r=xɨr deš-diː	доходить не.быть	1=v.pf neg.cop-em2	aorist	pst	naf		conversation	NA	
+t5	mish5	Tsakhur	94	wo=d	быть	v=npl	present	other	naf		conversation	NA	past translation
+b23	kvan9	Bagvalal	95			npl=v-msd-obl-gen	masdar	other	NA	NA	dependent	37	
+b23	kvan9	Bagvalal	95			m=v-ipf-part=m	participle	other	NA	NA	main line	37	
+b23	kvan9	Bagvalal	95			v-caus.part=npl	participle	other	NA	NA	non-clausal	37	
+b23	kvan9	Bagvalal	95			n=v-neg-part=n	participle	other	NA	NA	main line	37	
+b23	kvan9	Bagvalal	95			cop-q-di	present	other	NA	NA	quote	37	
+b8	kvan3	Bagvalal	95			n=v	preterite	pst	NA	NA	main line	48	
+b8	kvan3	Bagvalal	95			n=v	preterite	pst	NA	NA	main line	48	
+t5	mish5	Tsakhur	95	w=uxa-jm-mɨ	стать	hpl=v.pf-a-pl	atr_aorist	pst	af		main line	63	
+t5	mish5	Tsakhur	95	kečmiš-xa-j-ni	умирать-стать	v-1.v.pf-msd-aobl	atr_masdar	other	af		dependent	63	
+t5	mish5	Tsakhur	95	bastur-aʔ-iː-l-e	хоронить-делать	v-1.v.pf-msd.obl-sup-el	masdar	other	naf		dependent	63	
+b23	kvan9	Bagvalal	98			m=v	preterite	pst	NA	NA	first	38	
+b23	kvan9	Bagvalal	98			f=v	preterite	pst	NA	NA	quote	38	
+b23	kvan9	Bagvalal	98			f=v-part=n=temp	sconverb	other	NA	NA	dependent	38	
+b23	kvan9	Bagvalal	99			cop	present	other	NA	NA	main line	38	
+b23	kvan9	Bagvalal	99			cop-rala	present	other	NA	NA	quote	38	
+b23	kvan9	Bagvalal	100			f=v-pot-abi-rala	future	other	NA	NA	quote	38	categorical affirmative
+b23	kvan9	Bagvalal	100			f=v-ms.pot.inf	infinitive	other	NA	NA	dependent	38	
+b23	kvan9	Bagvalal	100			f=v-part=n=temp	sconverb	other	NA	NA	dependent	38	
+b8	kvan6	Bagvalal	100			n=v n=v-pot-fut1-gora	future	other	NA	NA	main line	49	find construction
+b8	kvan6	Bagvalal	100			n=v-neg-part=n	participle	other	NA	NA	non-clausal	49	
+b8	kvan6	Bagvalal	100			m=v-caus=m=conv cop	perfect	pf	NA	NA	first	49	
+b23	kvan3	Bagvalal	101			n=v	preterite	pst	NA	NA	first	39	
+b8	kvan6	Bagvalal	101			n=v-ipf-fut.neg	future	other	NA	NA	comment	49	
+b8	kvan6	Bagvalal	101			v-pot.imp-ra-di	imperative	other	NA	NA	quote	49	
+b8	kvan6	Bagvalal	101			v=n=conv cop	perfect	pf	NA	NA	main line	49	
+b8	kvan6	Bagvalal	101			n=v-ipf-conv n=v=n=conv cop	perfect_imperfect	other	NA	NA	main line	49	
+b23	kvan3	Bagvalal	102			v.imp-rala	imperative	other	NA	NA	quote	39	
+b23	kvan3	Bagvalal	102			n=v	preterite	pst	NA	NA	main line	39	
+b23	kvan3	Bagvalal	102			v	preterite	pst	NA	NA	quote	39	
+b8	kvan6	Bagvalal	102			v-pot-fut1-ra-di	future	other	NA	NA	quote	49	
+b8	kvan6	Bagvalal	102			v=n=conv cop	perfect	pf	NA	NA	main line	49	
+b8	kvan6	Bagvalal	102			neg.cop-re	present	other	NA	NA	quote	49	
+b23	kvan3	Bagvalal	103			n=v	preterite	pst	NA	NA	main line	39	
+b23	kvan3	Bagvalal	103			v-ra-di	preterite	pst	NA	NA	quote	39	
+b8	kvan6	Bagvalal	103			m=v-ms.ipf-conv	converb	other	NA	NA	dependent	49	
+b8	kvan6	Bagvalal	103			v-pot-fut1-ra-di	future	other	NA	NA	quote	49	
+b8	kvan6	Bagvalal	103			m=v-ipf-part=m=ra-di	participle	other	NA	NA	non-clausal	49	
+b23	kvan3	Bagvalal	104			n=v	preterite	pst	NA	NA	main line	39	
+b23	kvan3	Bagvalal	104			v	preterite	pst	NA	NA	quote	39	
+b23	kvan3	Bagvalal	104			v	preterite	pst	NA	NA	main line	39	
+b23	kvan3	Bagvalal	104			v-ra-di	preterite	pst	NA	NA	quote	39	
+b8	kvan6	Bagvalal	104			n=v-caus=m=conv	converb	other	NA	NA	dependent	49	
+b8	kvan6	Bagvalal	104			v-ipf.inf	infinitive	other	NA	NA	dependent	49	
+b8	kvan6	Bagvalal	104			m=v-ipf-part=m	participle	other	NA	NA	non-clausal	49	
+b8	kvan6	Bagvalal	104			m=v-ipf-conv m=v=m=conv cop	perfect_imperfect	other	NA	NA	main line	49	
+b8	kvan6	Bagvalal	104			v=part.n=temp	sconverb	other	NA	NA	dependent	49	
+b23	kvan3	Bagvalal	105			v-caus-msd-obl-gen	masdar	other	NA	NA	dependent	39	
+b23	kvan3	Bagvalal	105			n=v	preterite	pst	NA	NA	main line	39	
+b23	kvan3	Bagvalal	105			v-caus	preterite	pst	NA	NA	quote	39	
+b23	kvan3	Bagvalal	105			v-caus	preterite	pst	NA	NA	quote	39	
+b23	kvan3	Bagvalal	105			n=v	preterite	pst	NA	NA	main line	39	
+b8	kvan6	Bagvalal	105			v=n=conv	converb	other	NA	NA	dependent	49	
+b8	kvan6	Bagvalal	105			m=v=m=conv cop	perfect	pf	NA	NA	main line	49	
+b8	kvan6	Bagvalal	105			m=v=part.n=temp	sconverb	other	NA	NA	dependent	49	
+b23	kvan3	Bagvalal	106			n=v	preterite	pst	NA	NA	main line	39	
+b23	kvan3	Bagvalal	106			n=v	preterite	pst	NA	NA	quote	39	
+b23	kvan3	Bagvalal	106			v	preterite	pst	NA	NA	main line	39	
+b23	kvan3	Bagvalal	106			m=v-ra-di	preterite	pst	NA	NA	quote	39	
+b8	kvan6	Bagvalal	106			n=v=n=conv cop	perfect	pf	NA	NA	main line	49	
+b23	kvan3	Bagvalal	107			cop	present	other	NA	NA	main line	39	
+b23	kvan3	Bagvalal	107			cop	present	other	NA	NA	quote	39	
+b8	kvan6	Bagvalal	107			m=v=m=conv	converb	other	NA	NA	dependent	49	
+b8	kvan6	Bagvalal	107			hpl=v-pot-fut-conv m=v=part.n	participle	other	NA	NA	dependent	49	
+b8	kvan6	Bagvalal	107			n=v=n=conv neg.cop	perfect	pf	NA	NA	main line	49	
+b23	kvan3	Bagvalal	108			v-ipf-conv	converb	other	NA	NA	dependent	39	
+b23	kvan3	Bagvalal	108			n=v-pot-fut-part=n cop-ra-di	future	other	NA	NA	quote	39	
+b23	kvan3	Bagvalal	108			m=v-pot.inf	infinitive	other	NA	NA	dependent	39	
+b23	kvan3	Bagvalal	108			n=v-pot.inf	infinitive	other	NA	NA	dependent	39	
+b23	kvan3	Bagvalal	108			v	preterite	pst	NA	NA	main line	39	
+b23	kvan3	Bagvalal	108			m=v-re	preterite	pst	NA	NA	dependent	39	
+b23	kvan3	Bagvalal	108			n=v-neg-cond	sconverb	other	NA	NA	dependent	39	
+b8	kvan6	Bagvalal	110			v-caus=hpl=conv	converb	other	NA	NA	dependent	50	
+b8	kvan6	Bagvalal	110			m=v.ipf-part=m m=v	preterite_habitual	other	NA	NA	main line	50	
+b8	kvan6	Bagvalal	110			m=v v-ipf-conv	preterite_imperfect	other	NA	NA	first	50	
+b8	kvan6	Bagvalal	111			n=v-neg	preterite	pst	NA	NA	main line	50	
+b8	kvan6	Bagvalal	111			n=v-ipf-part=n n=v	preterite_habitual	other	NA	NA	main line	50	
+b8	kvan6	Bagvalal	111			m=v m=v=m=conv	preterite_pluperfect	other	NA	NA	main line	50	
+b8	kvan6	Bagvalal	111			m=v-ipf-part=n=temp	sconverb	other	NA	NA	dependent	50	
+b8	kvan6	Bagvalal	112			v	preterite	pst	NA	NA	main line	50	
+b8	kvan6	Bagvalal	112			m=v=part.n=temp	sconverb	other	NA	NA	dependent	50	
+b8	kvan6	Bagvalal	113			v-part=n=ra-di	participle	other	NA	NA	dependent	50	
+b8	kvan6	Bagvalal	113			v=n=conv cop	perfect	pf	NA	NA	main line	50	
+b8	kvan6	Bagvalal	114			n=v-caus=n=conv	converb	other	NA	NA	dependent	50	
+b8	kvan6	Bagvalal	114			m=v=m=conv	converb	other	NA	NA	dependent	50	
+b8	kvan6	Bagvalal	114			v-caus.pot.inf	infinitive	other	NA	NA	dependent	50	
+b8	kvan6	Bagvalal	114			m=v	preterite	pst	NA	NA	main line	50	
+b8	kvan6	Bagvalal	115			v	preterite	pst	NA	NA	main line	50	
+b8	kvan6	Bagvalal	116			n=v-caus-ipf-conv-da neg.cop=n=conv	converb	other	NA	NA	dependent	50	
+b8	kvan6	Bagvalal	116			n=v-caus=n=conv	converb	other	NA	NA	dependent	50	
+b8	kvan6	Bagvalal	116			v-caus.pot.inf	infinitive	other	NA	NA	dependent	50	
+b8	kvan6	Bagvalal	116			m-v.pot.inf	infinitive	other	NA	NA	dependent	50	
+b8	kvan6	Bagvalal	116			m=v	preterite	pst	NA	NA	main line	50	
+b8	kvan6	Bagvalal	116			adj-vrb	preterite	pst	NA	NA	dependent	50	
+b8	kvan6	Bagvalal	117			v	preterite	pst	NA	NA	main line	50	
+b8	kvan6	Bagvalal	118			v=m=conv	converb	other	NA	NA	dependent	50	
+b8	kvan6	Bagvalal	118			v-pot-fut1-ra-di-la	future	other	NA	NA	quote	50	
+b8	kvan6	Bagvalal	118			n=v=part.n	participle	other	NA	NA	non-clausal	50	
+b8	kvan6	Bagvalal	118			m=v	preterite	pst	NA	NA	main line	50	
+b8	kvan6	Bagvalal	119			n=v=m=conv	converb	other	NA	NA	dependent	50	
+b8	kvan6	Bagvalal	119			v-ms.ipf-conv	converb	other	NA	NA	dependent	50	
+b8	kvan6	Bagvalal	119			m=v	preterite	pst	NA	NA	main line	50	
+b8	kvan6	Bagvalal	120			n=v-neg-rala	preterite	pst	NA	NA	main line	50	
+b8	kvan6	Bagvalal	120			n=v-ipf-conv m=v	preterite_imperfect	other	NA	NA	main line	50	
+t5	mish5	Tsakhur	163	wo=d=un haʔ-a	быть делать	v=4=a 4.v-ipf	af_durative	other	af	nep	quote	64	
+t5	mish5	Tsakhur	163	a=d=ɨ	приходить	4=v.pf	aorist	pst	naf		first	64	
+t5	mish5	Tsakhur	163	haʔ-iːn	делать	4.v-a	atr_aorist	pst	af		main line	64	
+t5	mish5	Tsakhur	163	wo=d=un	быть	v=4=a	atr_present	other	af		quote	64	
+t5	mish5	Tsakhur	163	wo=d=un	быть	v=4=a	atr_present	other	af		quote	64	
+t5	mish5	Tsakhur	163	qiːk-as	отвозить	2.v-pot	infinitive	other	naf		dependent	64	
+t5	mish5	Tsakhur	163	ališːʷ-iːn	покупать	4.v.pf-a	participle	other	ptcp		non-clausal	64	
+t5	mish5	Tsakhur	163	d-e=j=x-eː	стать	neg-2=v-cond1	sconverb	other	naf		dependent	64	
+t5	mish5	Tsakhur	164	iwho-jn	говорить	v.pf-a	atr_aorist	pst	af		main line	64	
+t5	mish5	Tsakhur	164	iš-o=b	дело-быть	noun.3-v=3	present	other	naf		quote	64	
+t5	mish5	Tsakhur	165	ejh-e-n deš-in	говорить не.быть	v-ipf-a neg.cop-a	atr_present	other	af		quote	64	
+t5	mish5	Tsakhur	208	hiwo	давать	v.pf	aorist	pst	naf		main line	65	
+t5	mish5	Tsakhur	208	hiwo-jn	давать	v.pf-a	atr_aorist	pst	af		first	65	
+t5	mish5	Tsakhur	208	a=r=k’ɨn-iːnɢaˁ	идти	1=v.pf-temp1	sconverb	other	naf		dependent	65	
+t5	mish5	Tsakhur	209	qa=b=ɨ	приходить	hpl=v.pf	aorist	pst	naf		main line	65	
+t5	mish5	Tsakhur	209	sa=w=k’-iːm-mɨ	переходить	hpl=v.pf-a-pl	atr_aorist	pst	af		main line	65	
+t5	mish5	Tsakhur	209	wo=r=na	быть	v=2=a	atr_present	other	af		main line	65	past translation
+t5	mish5	Tsakhur	209	hel-e-na	давать	4.v-ipf-a	atr_present	other	af		main line	65	past translation
+t5	mish5	Tsakhur	209	qa=b=iːm-mɨ	приходить	hpl=v.pf-a-pl	participle	other	ptcp		non-clausal	65	
