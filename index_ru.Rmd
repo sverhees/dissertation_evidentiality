@@ -1,0 +1,20 @@
+
+---
+title: "Эвиденциальность и перфект в нахско-дагестанских языках"
+output:
+  html_document:
+    fig_cap: yes
+    highlight: tango
+    smooth_scroll: no
+    theme: cosmo
+    toc: yes
+    toc_float: yes
+    toc_position: right
+  pdf_document:
+    toc: yes
+  word_document:
+    toc: yes
+bibliography: bibliography.bib
+---
+
+Здесь будет русская версия. :)
