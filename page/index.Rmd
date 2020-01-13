@@ -19,7 +19,6 @@ bibliography: bibliography.bib
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, message = FALSE)
-
 # packages
 
 library(DT)
@@ -58,7 +57,7 @@ meta <- read_tsv("data/narrative/meta.csv") # load metadata for the narrative te
 ```
 
 
-![*Drying apricots in July 2019 in the Andi village Zilo, Botlikh district, Republic of Dagestan*](images/zilo2019.png)
+![*Drying apricots in Zilo, Dagestan. July 2019*](images/zilo2019.png)
 
 The [dissertation_evidentiality](https://github.com/sverhees/dissertation_evidentiality) repository contains data collected for my PhD project on **Evidentiality as part of tense-aspect in East Caucasian languages** (2015--2019). The full text of my dissertation (in Russian) and summaries in Russian and English can be downloaded [here](https://www.hse.ru/sci/diss/300367563). An overview paper in English is currently in preparation.
 
@@ -69,6 +68,9 @@ In the repository you will find the following data:
 * Tables with data on evidential markers
 * Annotated surveys
 * Annotated narrative data
+* Maps
+
+<br>
 
 ##### Acknowledgements
 
@@ -80,17 +82,19 @@ Special thanks to George Moroz for being my mentor in R.
 
 ---
 
-[Samira Verhees](https://www.hse.ru/staff/jannigjehelenaverhees/) | Version: `r Sys.Date()` | Contact: jh.verhees@gmail.com
+[Samira Verhees](https://sverhees.github.io/site/) | Version: `r Sys.Date()` | Contact: jh.verhees@gmail.com
 
 ---
 
 # Introduction
 
-**Evidential** markers indicate how a person came to know about the event they are talking about, for example personal experience, logical inference or hearsay.
+Evidential markers indicate how a person came to know about the event they are talking about, for example through personal experience, logical inference or hearsay.
 
-In the Caucasus this category is commonly expressed with a perfect form of the verb, indicating that the speaker did not witness the event. Other means to express evidentiality include particles and specialized auxiliaries (see an overview in [@forker2018evid]).
+In the Caucasus this category is commonly expressed with a perfect form of the verb, indicating that the speaker did not witness the event. Other means to express evidentiality include particles and specialized auxiliaries [see an overview in @forker2018evid].
 
 My dissertation focused on the question to what extent evidentiality as a meaning of the perfect is grammaticalized in languages of the East Caucasian family, and additionally: whether it could have emerged under the influence of local Turkic languages. So in addition to comparing form and function, I plotted various maps to visualize the areal distribution of features.
+
+<br>
 
 # Data
 
@@ -121,9 +125,9 @@ If it is sufficiently grammaticalized as an evidential marker, the perfect can r
 
 In some languages, the general past is considered a grammaticalized marker of direct evidentiality (witnessed past), in contrast with the perfect, which expresses indirect evidentiality (unwitnessed past). Since these direct forms also occur in nonwitnessed contexts, they could simply be neutral forms that carry witnessed overtones in particular contexts.
 
-In the table below you can find all the forms I labeled as perfects or rather -- **perfectoids**: forms that are very similar to the cross-linguistic perfect category, but which might not have current relevance (the prototypical meaning of the perfect) as their main function.[^3] (I am still working on linking the sources to their full references.)
+In the table below you can find all the forms I labeled as perfects or rather -- "perfectoids": forms that are very similar to the cross-linguistic perfect category, but which might not have current relevance (the prototypical meaning of the perfect) as their main function.[^3] (I am still working on linking the sources to their full references.)
 
-[^3]: A more detailed discussion of perfect typology and my decisions in classifying certain forms can be found in my dissertation, or more briefly in the slides from my defense.
+[^3]: A more detailed discussion of perfect typology and my decisions in classifying certain forms can be found in my dissertation.
 
 <br>
 
@@ -169,7 +173,7 @@ The aim of the surveys I conducted was to check whether the perfect in certain i
 
 1. **Small evidentiality survey**: A short survey aimed at eliciting evidential forms
 2. **The Perfect Questionnaire**: Questionnaire aimed at eliciting different functions of the perfect [@dahl2000]
-3. **Narrative test**: An elaboration of the questions from the Perfect Questionnaire where speakers are asked to translate a short narrative
+3. **Narrative test**: An elaboration of the narrative questions from the Perfect Questionnaire
 
 The surveys are currently available as tables with the following information:
 
@@ -179,19 +183,22 @@ The surveys are currently available as tables with the following information:
 * translit_morph - the transliteration of the answer with morpheme boundaries
 * gloss
 * translation - if applicable, a translation of the answer
-* target_verb
-* target_translation
-* expected answer
+* target_verb - the verb from the original sentence that I am interested in
+* target_translation - the translation of the target of interest
+* expected answer 
 * given answer
 * metadata: speaker, idiom, language, gender, birthyear, date of elicitation
 
 At some point I will convert this to .tex and .pdf also.
 
+<br>
+
 ### Small evidentiality survey
 
-The small evidentiality survey consists of 11 questions, some of which elicit multiple sentences.[^1] The table below displays the number of sentences elicited from each speaker in conjunction with their language and idiom. This survey was exploratory in nature.
+The small evidentiality survey consists of 11 questions, some of which elicit multiple sentences.[^4] The table below displays the number of sentences elicited from each speaker in conjunction with their language and idiom. This survey was exploratory in nature.[^5] Some of the Rutul results are discussed in [@verhees2017].
 
-[^1]: The survey has different versions for male and female consultants.
+[^4]: The survey has different versions for male and female consultants.
+[^5]: There are most likely a lot of inaccuracies in the transcription.
 
 ```{r}
 
@@ -204,16 +211,46 @@ es_content
 
 ```
 
+<br>
+
 ### The Perfect Questionnaire
 
-To be added...
+The Perfect Questionnaire was filled out with two speakers of Avar (Khunzakh dialect) and two speakers of Andi (Rikvani and Zilo dialect). The methodology considers one speaker sufficient, though more speakers can be consulted to "enhance reliability" [@dahl2000 pp. 800].
 
+My speakers gave rather different answers, which could be due to dialectal variation (Andi) or sociolinguistic factors such as age or sex. One Avar speaker avoided using perfects (see the graph below), which I suspect might be due to his young age and lack of confidence in his own proficiency, though this is only speculation. 
+
+(The variable "not p" in the graph covers the general past tense (in this case: aorist) and its derivatives, such as the pluperfect with an aorist auxiliary, which is paradigmatically opposed to a pluperfect with a perfect auxiliary. The category "other" includes everything that is not perfect or aorist.)
+
+<br>
+
+#### Figure: Forms used in contexts where a perfect was expected
+
+```{r}
+
+pq$speaker_id <- paste(pq$language, pq$speaker, sep = " ")
+
+pexp <- pq[(pq$exp == "perfect"),]
+
+ggplot(pexp, aes(x = given, fill = speaker_id)) + 
+  geom_bar(position = "dodge")+
+  scale_fill_brewer(palette="RdPu")+
+  theme_classic()
+
+```
+
+All four speakers attested indirect evidential use of the perfect in the context of a narrative about events supposedly not witnessed by the speaker. For this reason, I decided to replicate this particular part of the questionnaire with a larger number of speakers (see below).
+
+<br>
 
 ### Narrative test
 
-The narrative test consists of two similar short narratives. In one version the speaker is renarrating an anecdote about their grandmother, in the other they are relating a memory from personal experience.
+The Perfect Questionnaire discussed above contains several questions meant to elicit a short narrative. These narratives are very similar, but each question proposes a slight change of perspective in terms of how long ago the events occured, and whether the speaker supposedly experienced or witnessed them personally, or rather heard about them from someone else.
 
-I conducted the test with speakers of different Andi dialects.
+I found that these questions were very effective for eliciting the indirect evidential use of the perfect. So I created a test consisting of two very similar narratives (which are also very similar to the questions from the Perfect Questionnaire), but with a different evidential perspective. Narrative 1 retells an anecdote about the speaker's grandmother (eliciting for indirect evidentiality). Narrative 2 relates a memory from personal experience (eliciting for direct evidentiality).
+
+Read the test and the English translation of the questions  [here](https://github.com/sverhees/SLE2017/blob/master/pf-test-2017-translation.pdf).
+
+I conducted this test with speakers of different Andi dialects, mostly Rikvani and Zilo.
 
 ```{r}
 
@@ -227,7 +264,7 @@ pn_content
 
 ```
 
-The general past (aorist) and the perfect were most frequent across speakers. The perfect was restricted almost exclusively to sequences about unwitnessed events, whereas the aorist was not infrequent in both the direct and indirect contexts.
+Most frequent across speakers were the aorist (which is the least marked past tense) and the perfect. As the graph below illustrates, these forms show the expected correlation with evidential perspective: aorist is more typical of the direct/witnessed context, while perfect is more frequent in the indirect/unwitnessed context.
 
 <br>
 
@@ -251,60 +288,32 @@ ggdotchart(pn_forms, x = "form_label", y = "count",
            rotate = TRUE)
 ```
 
-The graph below shows individual speakers' deviations from my expectations, assuming a strict opposition of direct (aorist/past) vs. indirect (perfect) evidentiality. Ideally, the proportions should be 50/50.
+It is not a strict division, however. Several perfects in sequence may occur in a witnessed context to denote events that are sudden and unexpected. And the aorist may be used to render a narrative about unwitnessed events as a neutral alternative to the perfect. The graph below plots the proportion of given forms per speaker by context. It shows that the distribution of forms according to the evidential perspective is a *tendency*.
 
 <br>
 
-#### Figure: Proportion of expected vs. given pasts (aorists) and perfects per speaker
-
-```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2}
-
-given <- pn %>%
-  select(speaker, given) %>%
-  filter(given %in% c("past", "perfect")) %>%
-  group_by(speaker, given) %>%
-  rename(form = given) %>%
-  summarise(count = n()) %>%
-  mutate(set = "given")
-
-expected <- pn %>%
-  select(speaker, exp) %>%
-  filter(exp %in% c("past", "perfect")) %>%
-  group_by(speaker, exp) %>%
-  rename(form = exp) %>%
-  summarise(count = n()) %>%
-  mutate(set = "expected")
-
-given_expected <- rbind(given, expected)
-
-ggplot(given_expected, aes(x = form, y = count, fill = set)) + 
-  geom_bar(stat = "identity", position = "fill")+
-  scale_fill_brewer(palette="RdPu")+
-  facet_wrap(~speaker)+
-  theme_classic()
-
-```
-
-#### Figure: Given forms per speaker by context
+#### Figure: Proportion of given forms per speaker by context
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2}
 
 ggplot(pn, aes(x = speaker, fill = given)) + 
   geom_bar(position = "fill")+
-  scale_fill_brewer(palette="Dark2")+
+  scale_fill_brewer(palette="RdPu")+
   facet_wrap(~context)+
-  theme_classic()
+  theme_classic() +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
 
 ```
 
 ## Narrative data
 
-Why narratives
+This section presents some data on the use of verb forms in non-elicited narratives. I analyzed the texts published in the grammars of Bagvalal and Tsakhur, respectively. 
 
-Sample content
+Overall they show the same picture as the elicited narratives in Andi: the general past (preterite/aorist) and perfect are most frequent among the finite forms, and they show a preference for a particular evidential perspective (see graph below).
 
+<br>
 
-#### Figure: Forms used in Bagvalal and Tsakhur narratives by perspective
+#### Figure: Forms used in Bagvalal and Tsakhur texts by perspective
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 8}
 
@@ -329,53 +338,99 @@ ggdotchart(sum, x = "form", y = "total",
 
 ```
 
+Now let us reduce the noise by looking only at the main clauses of narrative sequences within the texts, since they form the backbone of a narrative.
+
+Unfortunately, the Bagvalal and the Tsakhur sample are unequal in comparison, and neither is balanced (see the table below). Speakers are almost exclusively male, and some of them are overrepresented while others are underrepresented. This has to do with the fact that the material was collected during field trips, thus limiting the scope to a convenience sample of speakers willing to work with linguists.
+
+```{r}
+
+nm_content <- narrmeta %>%
+  select(lang, sp_gender, sp_code.x) %>%
+  filter(!duplicated(sp_code.x)) %>%
+  group_by(lang, sp_gender) %>%
+  summarize(speakers = n())
+
+nm_seq <- narrmeta %>%
+  select(lang, sp_gender, seq_nr) %>%
+  filter(!duplicated(seq_nr)) %>%
+  group_by(lang, sp_gender) %>%
+  summarize(sequences = n())
+
+nm_clauses <- narrmeta %>%
+  select(lang, sp_gender) %>%
+  group_by(lang, sp_gender) %>%
+  summarize(clauses = n())
+
+nm_content$sequences <- nm_seq$sequences
+nm_content$clauses <- nm_clauses$clauses
+nm_content$av_length <- (nm_content$clauses / nm_content$sequences)
+
+nm_content
+
+```
+
+<br>
+
+#### Figure: Perfects and pasts by perspective in Bagvalal and Tsakhur
 
 ```{r}
 
 dir_indir <- narrmeta %>%
-  filter(persp %in% c("direct", "indirect"))
+  filter(persp %in% c("direct", "indirect")) %>%
+  filter(p %in% c("pf", "pst")) %>%
+  filter(complete.cases(p))
 
-seq_form <- dir_indir %>%
-  select(lang, persp, seq_nr, p) %>%
-  group_by(lang, persp, seq_nr, p) %>%
-  summarise(total = n())
+ggplot(dir_indir, aes(x = persp, fill = p)) + 
+  geom_bar(stat = "count")+
+  scale_fill_brewer(palette="RdPu")+
+  facet_wrap(~lang)+
+  theme_classic()
 
 ```
 
-#### Use per sequence in Bagvalal
+Both languages reveal an asymmetry between perfect and past that suggests a more neutral or less marked status of the latter. In addition, Bagvalal speakers seem to have stronger preference for perfect in the indirect contexts. Note that this might reflect a sample bias, rather than a difference in the grammars of the languages.
 
-```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 8}
+Below are the absolute numbers that correspond to these graphs, as well as the results of a chi squared test for each of them, showing that the correlation between perspective and form is statistically significant.
 
-bagv <- seq_form %>%
+<br>
+
+#### Bagvalal: Statistical significance
+
+```{r}
+
+bagv <- dir_indir %>%
   filter(lang == "Bagvalal")
 
-ggplot(bagv, aes(x = seq_nr, y = total, fill = p)) + 
-  geom_bar(stat = "identity")+
-  scale_fill_brewer(palette="Dark2")+
-  facet_wrap(~lang)+
-  theme_classic()
+table(bagv$persp, bagv$p)
 
 ```
 
-#### Use per sequence in Tsakhur
+```{r}
 
-```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 8}
+chisq.test(bagv$persp, bagv$p)
 
-tsakh <- seq_form %>%
+```
+
+<br>
+
+#### Tsakhur: Statistical significance
+
+```{r}
+
+tsakh <- dir_indir %>%
   filter(lang == "Tsakhur")
 
-ggplot(tsakh, aes(x = seq_nr, y = total, fill = p)) + 
-  geom_bar(stat = "identity")+
-  scale_fill_brewer(palette="Dark2")+
-  facet_wrap(~lang)+
-  theme_classic()
+table(tsakh$persp, tsakh$p)
 
 ```
 
+```{r}
 
+chisq.test(tsakh$persp, tsakh$p)
 
+```
 
-
+<br>
 
 # Maps
 
@@ -641,8 +696,9 @@ map.feature(lang.gltc(vill_col$gltc),
 
 ```
 
-Based on the sources I used, Kumyk and Nogai have an evidential perfect, while the Azerbaijani perfect has lost its evidential function. This coincides nicely with the observed areal distribution of presence vs. absence of evidentiality as a meaning of the perfect. However, a scenario that links the emergence of evidentiality (or lack thereof) in East Caucasian perfects to contact with Turkic languages cannot be confirmed, due to a large number of complications elaborated in my paper.
+Based on the sources I used, Kumyk and Nogai have an evidential perfect, while the Azerbaijani perfect has lost its evidential function. This coincides nicely with the observed areal distribution of presence vs. absence of evidentiality as a meaning of the perfect. However, a scenario that links the emergence of evidentiality (or lack thereof) in East Caucasian perfects to contact with Turkic languages cannot be confirmed, due to a large number of complications that I discuss in more detail in my dissertation and the forthcoming paper.
 
+<br>
 
 # Transcription
 
