@@ -65,7 +65,7 @@ In the repository you will find the following data:
 * Tables with data on evidential markers
 * Annotated surveys
 * Annotated narrative data
-* Maps
+* Interactive maps
 
 <br>
 
@@ -87,7 +87,7 @@ Special thanks to George Moroz for being my mentor in R.
 
 Evidential markers indicate how a person came to know about the event they are talking about, for example through personal experience, logical inference or hearsay.
 
-In the Caucasus this category is commonly expressed with a perfect form of the verb, indicating that the speaker did not witness the event. Other means to express evidentiality include particles and specialized auxiliaries [see an overview in @forker2018evid].
+In the Caucasus this category is commonly expressed with a perfect form of the verb, indicating that the speaker did not witness the event. Other means to express evidentiality include particles and specialized auxiliaries (see an overview in Forker [-@forker2018evid]).
 
 My dissertation focused on the question to what extent evidentiality as a meaning of the perfect is grammaticalized in languages of the East Caucasian family, and additionally: whether it could have emerged under the influence of local Turkic languages. So in addition to comparing form and function, I plotted various maps to visualize the areal distribution of features.
 
@@ -97,13 +97,13 @@ My dissertation focused on the question to what extent evidentiality as a meanin
 
 ## Evidential markers
 
-To compare the form and function of evidential markers, I looked at descriptive grammars and papers on 44 idioms of 32 languages (all of the traditionally recognized East Caucasian languages + 3 Turkic languages, and some additional lects). A full list of sources can be found in the `bibliography.bib` file in the [page](https://github.com/sverhees/dissertation_evidentiality/page) folder of this repository.
+To compare the form and function of evidential markers, I looked at descriptive grammars and papers on 44 idioms of 32 languages (all of the traditionally recognized East Caucasian languages + 3 Turkic languages, and some additional lects). A full list of sources can be found in the [`bibliography.bib`](https://github.com/sverhees/dissertation_evidentiality/blob/master/bibliography.bib) file in this repository.
 
 ### The perfect
 
 * All East Caucasian languages have 1--4 forms resembling a perfect[^1]
 * Many, but not all of these forms express evidentiality
-* Chechen and Tsakhur employ a specialized auxiliary to express evidentiality[^2]
+* Chechen and Tsakhur instead employ a specialized auxiliary to express evidentiality[^2]
 
 The forms in question look quite similar: most common are periphrastic constructions with a converb and a present tense copula.
 
@@ -169,7 +169,7 @@ datatable(datapart, class = 'cell-border stripe', rownames = F, filter = 'top', 
 The aim of the surveys I conducted was to check whether the perfect in certain idioms has an evidential meaning. Second, I wanted to verify its grammatical status by comparing the use of past tense forms in a limited context across speakers.
 
 1. **Small evidentiality survey**: A short survey aimed at eliciting evidential forms
-2. **The Perfect Questionnaire**: Questionnaire aimed at eliciting different functions of the perfect [@dahl2000]
+2. **The Perfect Questionnaire**: Questionnaire aimed at eliciting different functions of the perfect [@dahl2000 pp. 800-818]
 3. **Narrative test**: An elaboration of the narrative questions from the Perfect Questionnaire
 
 The surveys are currently available as tables with the following information:
@@ -192,7 +192,7 @@ At some point I will convert this to .tex and .pdf also.
 
 ### Small evidentiality survey
 
-The small evidentiality survey consists of 11 questions, some of which elicit multiple sentences.[^4] The table below displays the number of sentences elicited from each speaker in conjunction with their language and idiom. This survey was exploratory in nature.[^5] Some of the Rutul results are discussed in [@verhees2017].
+The small evidentiality survey consists of 11 questions, some of which elicit multiple sentences.[^4] The table below displays the number of sentences elicited from each speaker in conjunction with their language and idiom. This survey was exploratory in nature.[^5] Some of the Rutul results are discussed in Ferxees [-@verhees2017].
 
 [^4]: The survey has different versions for male and female consultants.
 [^5]: There are most likely a lot of inaccuracies in the transcription.
@@ -335,7 +335,7 @@ ggdotchart(sum, x = "form", y = "total",
 
 ```
 
-Now let us reduce the noise by looking only at the main clauses of narrative sequences within the texts, since they form the backbone of a narrative.
+Now let us reduce the noise by looking only at the distribution of perfect with respect to general past in narrative sequences, since they form the backbone of a narrative.
 
 Unfortunately, the Bagvalal and the Tsakhur sample are unequal in comparison, and neither is balanced (see the table below). Speakers are almost exclusively male, and some of them are overrepresented while others are underrepresented. This has to do with the fact that the material was collected during field trips, thus limiting the scope to a convenience sample of speakers willing to work with linguists.
 
@@ -545,10 +545,9 @@ map.feature(lang.gltc(sys_col$gltc),
             tile = c("Esri.WorldGrayCanvas"))
 ```
 
-The map below compares the distribution of evidentiality as part of tense to different types of evidential clitics, which range from cliticized verbs to free particles. The latter does not show a clear areal or genealogical signal.
+The map below compares the distribution of evidentiality as part of tense to different types of evidential clitics, which range from cliticized verbs to free particles. Clitic types on the map do not show a clear areal or genealogical signal.
 
 #### Map: Evidentiality as part of tense and types of evidential clitics
-
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 8}
 
@@ -658,7 +657,7 @@ map.feature(lang.gltc(vill_col$gltc),
 
 As the map shows, most dots from the top layer correspond to a multitude of villages. Each of these villages represents an idiom that might differ from the one described in the sources I used. (This problem is especially relevant for Dargwa.) In addition, some of the sources may be incomplete. Many of the red dots could actually be grey, because specialized clitics are underdescribed and often misclassified. It is less likely for the pink and white dots to be inaccurate, because these languages are relatively well-studied with respect to this topic (with the exception of Tabasaran).
 
-As a result, the southern part of the area forms a reliably distinct zone, which roughly coincides with the area where Azerbaijani was historically dominant as an L2 and lingua franca. The map below plots the major market cities and their dominant lingua franca against the villages and languages, based on [@wixman1980]. 
+As a result, the southern part of the area forms a reliably distinct zone, which roughly coincides with the area where Azerbaijani was historically dominant as an L2 and lingua franca. The map below plots the major market cities and their dominant lingua franca against the villages and languages, based on Wixman [-@wixman1980]. 
 
 #### Map: All East Caucasian languages + market languages
 
