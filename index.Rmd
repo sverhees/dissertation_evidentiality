@@ -87,7 +87,7 @@ Special thanks to George Moroz for being my mentor in R.
 
 Evidential markers indicate how a person came to know about the event they are talking about, for example through personal experience, logical inference or hearsay.
 
-In the Caucasus this category is commonly expressed with a perfect form of the verb, indicating that the speaker did not witness the event. Other means to express evidentiality include particles and specialized auxiliaries (see an overview in Forker [-@forker2018evid]).
+In the Caucasus this category is commonly expressed with a perfect form of the verb, indicating that the speaker did not witness the event. Other means to express evidentiality include particles and specialized auxiliaries (see an overview on East Caucasian languages in Forker [-@forker2018evid]).
 
 My dissertation focused on the question to what extent evidentiality as a meaning of the perfect is grammaticalized in languages of the East Caucasian family, and additionally: whether it could have emerged under the influence of local Turkic languages. So in addition to comparing form and function, I plotted various maps to visualize the areal distribution of features.
 
@@ -103,7 +103,7 @@ To compare the form and function of evidential markers, I looked at descriptive 
 
 * All East Caucasian languages have 1--4 forms resembling a perfect[^1]
 * Many, but not all of these forms express evidentiality
-* Chechen and Tsakhur instead employ a specialized auxiliary to express evidentiality[^2]
+* Chechen and Tsakhur employ a specialized auxiliary instead of a perfect to express evidentiality[^2]
 
 The forms in question look quite similar: most common are periphrastic constructions with a converb and a present tense copula.
 
@@ -118,11 +118,11 @@ table(pf$lex_type, pf$aux_type)
 
 The perfect can express tense-aspect and evidentiality at the same time, when the speaker *infers* from some result or consequence at speech time that a certain event occurred in the past.
 
-If it is sufficiently grammaticalized as an evidential marker, the perfect can refer to an unwitnessed event in the past that has no such link to the moment of speech. It is important to note that a single form can function as a full-fledged unwitnessed past in some contexts (most importantly narrative sequences), while retaining prototypical perfect functions in other contexts.
+If it is sufficiently grammaticalized as an evidential marker, the perfect can refer to an unwitnessed event in the past without the implication of some relevant consequence at the moment of speech. It is important to note that a single form can function as a full-fledged unwitnessed past in some contexts (most importantly narrative sequences), while retaining prototypical perfect functions in other contexts.
 
-In some languages, the general past is considered a grammaticalized marker of direct evidentiality (witnessed past), in contrast with the perfect, which expresses indirect evidentiality (unwitnessed past). Since these direct forms also occur in nonwitnessed contexts, they could simply be neutral forms that carry witnessed overtones in particular contexts.
+In some languages, the general past is considered a grammaticalized marker of direct evidentiality (witnessed past), in contrast with the perfect, which expresses indirect evidentiality (unwitnessed past). Since these direct forms also occur in the context of unwitnessed events, they could simply be neutral forms that carry witnessed overtones in particular contexts.
 
-In the table below you can find all the forms I labeled as perfects or rather -- "perfectoids": forms that are very similar to the cross-linguistic perfect category, but which might not have current relevance (the prototypical meaning of the perfect) as their main function.[^3] (I am still working on linking the sources to their full references.)
+In the table below you can find all the forms I labeled as perfects or rather -- "perfectoids": forms that are very similar to the cross-linguistic perfect category, but which might not have current relevance (the prototypical meaning of the perfect) as their main function.[^3] (I am still working on linking the source references to their bibliographical information.)
 
 [^3]: A more detailed discussion of perfect typology and my decisions in classifying certain forms can be found in my dissertation.
 
@@ -186,7 +186,7 @@ The surveys are currently available as tables with the following information:
 * given answer
 * metadata: speaker, idiom, language, gender, birthyear, date of elicitation
 
-At some point I will convert this to .tex and .pdf also.
+At some point I will convert this to .tex and .pdf also to make the answers easier to read.
 
 <br>
 
@@ -212,9 +212,9 @@ es_content
 
 ### The Perfect Questionnaire
 
-The Perfect Questionnaire was filled out with two speakers of Avar (Khunzakh dialect) and two speakers of Andi (Rikvani and Zilo dialect). The methodology considers one speaker sufficient, though more speakers can be consulted to "enhance reliability" [@dahl2000 pp. 800].
+The Perfect Questionnaire was completed with two speakers of Avar (Khunzakh dialect) and two speakers of Andi (Rikvani and Zilo dialect). The methodology considers one speaker sufficient, though more speakers can be consulted to "enhance reliability" [@dahl2000 pp. 800].
 
-My speakers gave rather different answers, which could be due to dialectal variation (Andi) or sociolinguistic factors such as age or sex. One Avar speaker avoided using perfects (see the graph below), which I suspect might be due to his young age and lack of confidence in his own proficiency, though this is only speculation. 
+The speakers gave rather different answers, which could be due to dialectal variation (Andi) or sociolinguistic factors such as age or sex. One Avar speaker avoided using perfects (see the graph below), which I suspect might be due to his young age and lack of confidence in his own proficiency, though this is only speculation. 
 
 (The variable "not p" in the graph covers the general past tense (in this case: aorist) and its derivatives, such as the pluperfect with an aorist auxiliary, which is paradigmatically opposed to a pluperfect with a perfect auxiliary. The category "other" includes everything that is not perfect or aorist.)
 
@@ -241,7 +241,7 @@ All four speakers attested indirect evidential use of the perfect in the context
 
 ### Narrative test
 
-The Perfect Questionnaire discussed above contains several questions meant to elicit a short narrative. These narratives are very similar, but each question proposes a slight change of perspective in terms of how long ago the events occured, and whether the speaker supposedly experienced or witnessed them personally, or rather heard about them from someone else.
+The Perfect Questionnaire discussed above contains several questions meant to elicit a short narrative. These narratives are very similar, but each question proposes a slight change of perspective in terms of how long ago the events occurred, and whether the speaker supposedly experienced or witnessed them personally, or rather heard about them from someone else.
 
 I found that these questions were very effective for eliciting the indirect evidential use of the perfect. So I created a test consisting of two very similar narratives (which are also very similar to the questions from the Perfect Questionnaire), but with a different evidential perspective. Narrative 1 retells an anecdote about the speaker's grandmother (eliciting for indirect evidentiality). Narrative 2 relates a memory from personal experience (eliciting for direct evidentiality).
 
@@ -385,7 +385,7 @@ ggplot(dir_indir, aes(x = persp, fill = p)) +
 
 ```
 
-Both languages reveal an asymmetry between perfect and past that suggests a more neutral or less marked status of the latter. In addition, Bagvalal speakers seem to have stronger preference for perfect in the indirect contexts. Note that this might reflect a sample bias, rather than a difference in the grammars of the languages.
+Both languages reveal an asymmetry between perfect and past that suggests a more neutral or less marked status of the latter. In addition, Bagvalal speakers seem to have a stronger preference for perfect in the indirect contexts. Note that this might reflect a sample bias, rather than a difference in the grammars of the languages.
 
 Below are the absolute numbers that correspond to these graphs, as well as the results of a chi squared test for each of them, showing that the correlation between perspective and form is statistically significant.
 
