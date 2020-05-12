@@ -17,4 +17,726 @@ output:
 bibliography: bibliography.bib
 ---
 
-Здесь будет русская версия. :)
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE)
+
+library(DT)
+library(tidyverse)
+library(lingtypology)
+library(ggpubr)
+
+
+# нужные данные
+
+trans <- read_tsv("data/transcription_correspondences.csv") # конвенции транскрипции
+
+vill <- read_tsv("data/maps/villages.csv") # сёла, координаты, языки
+lang <- read_tsv("data/maps/languages.csv") # языки, аффилиация, глоттокоды
+col <- read_tsv("data/maps/colors.csv") # цвета
+glot <- read_tsv("data/maps/glottolog_points.csv") # координаты языков из глоттолога
+market <- read_tsv("data/maps/market_languages.csv") # распространение "языков рынка" на востоке Кавказа
+
+
+sys <- read_tsv("data/features/systems.csv") # системы эвиденциальности
+sys <- merge(sys, lang, by = "lang")
+sys <- merge(sys, glot, by = "lang")
+
+pf <- read_tsv("data/features/perfects.csv") # перфекты и их значения
+part <- read_tsv("data/features/particles.csv") # эвиденциальные частицы
+
+es <- read_tsv("data/surveys/es.csv") # данные анкеты про эвиденциальность
+pq <- read_tsv("data/surveys/pq.csv") # данные анкеты про перфект
+pn <- read_tsv("data/surveys/pn.csv") # данные элицитации нарративов
+
+narr <- read_tsv("data/narrative/narr.csv") # данные естественных нарративов
+meta <- read_tsv("data/narrative/meta.csv") # метаданные естественных нарративов
+
+```
+
+Репозиторий [dissertation_evidentiality](https://github.com/sverhees/dissertation_evidentiality) содержит данные, собранные мной для кандидатской диссертации по теме **Эвиденциальность как часть видо-временной системы в нахско-дагестанских языках** (2015--2019). Полный текст диссертации (на русском языке), автореферат (на русском) и резюме (на английском) доступны [здесь](https://www.hse.ru/sci/diss/300367563).
+
+Настоящая страница представляет данные в виде таблиц с поисковыми строками, и интерактивных карт.
+
+В репозитории можно найти следующие данные:
+
+* Таблицы с данными о разных эвиденциальных показателях
+* Аннотированные анкеты
+* Аннотированные нарративные данные
+* Интерактивные карты
+
+<br>
+
+Страница была создана с `RMarkdown` в RStudio [@rstudio], с помощью следующих пакетов: `tidyverse` [@tidyverse] для манипуляции данных, `lingtypology` [@lingtypology] для карт, `ggpubr` [@ggpubr] для особых графиков и `DT` [@dt] для таблиц с поиском.
+
+Карты, сделанные в `lingtypology` пользуются картамы из библиотеки [`leaflet`](https://leafletjs.com/). Конкретный источник той или иной визуализации (напр. [Esri](https://www.esri.com/en-us/home) или [OpenStreetMap](https://www.openstreetmap.org/)) на каждой карте упоминается внизу.
+
+
+Спасибо моему учителю по R --- Г.А. Морозу.
+
+---
+
+[Самира Ферхеес](https://sverhees.github.io/site/) | Версия: `r Sys.Date()` | jh.verhees _at_ gmail
+
+---
+
+# Введение
+
+Показатели эвиденциальности указывают на то, как человек знает о том, о чем он говорит, например, из личного опыта, из умозаключения, или с чужих слов.
+
+На Кавказе данная категория обычно выражается перфектной формой глагола, обозначающей, что говорящий не был свидетелем события. Другие способы выражения эвиденциальности включают в себя частицы и специализированные вспомогательные глаголы (см. обзор эвиденциальности в нахско-дагестанских языках [@forker2018evid]).
+
+Диссертация сосредоточилась на вопрос о том, насколько грамматикализована эвиденциальность как значение перфекта в языках нахско-дагестанской семьи, и дополнительно: вероятно ли, что оно появилось под влиянием местных тюркских языков. Помимо сравнительного исследования форм и их функции были созданы карты для визуализации распространения определенных признаков.
+
+<br>
+
+# Данные
+
+## Показатели эвиденциальности
+
+Сравнение формы и функции эвиденциальных показателей основано на грамматиках и статьях о 44 идиома и 32 языка (включая все нахско-дагестанские языки, которые традиционно различаются, три тюркских языка и несколько дополнительных идиомов). Полный список источников можно найти в файле [`bibliography.bib`](https://github.com/sverhees/dissertation_evidentiality/blob/master/bibliography.bib) в настоящем репозитории.
+
+### Перфект
+
+* Во всех нахско-дагестанских языках имеется 1-4 формы, похожие на перфект[^1]
+* Многие из них имеют эвиденциальное значение косвенной засвидетельствованности
+* В чеченском и цахурском языках вместо перфекта используется специализированный вспомогательный глагол для выражения косвенной засвидетельствованности[^2]
+
+Перфекты имеют похожую структуру по всем ветвям семьи: чаще всего они являются аналитическими формами на основе конверба и копулы настоящего времени.
+
+```{r}
+
+table(pf$lex_type, pf$aux_type)
+
+```
+
+[^1]: "формы, похожие на перфект" достаточно мутное определение. Имеется в виду, что во всех языках семьи имеется форма со структурой, типичной для перфекта (т.е. она состоит из прошедшей или перфективной нефинтной формы + вспомогательного глагола настоящего времени), или форма, восходящая к такой структуре. При этом она имеет одно или больше значений, которые ассоциируются с перфектом: результатив (в узком смысле), перфект = текущая релевантность, и косвенная засвидетельствованность.
+
+[^2]: В цахурском языке этот вспомогательный глагол также является частью перфекта.
+
+
+Перфект одновременно может выразить видо-временное значение и эвиденциальность, когда говорящий делает вывод (т.е. *умозаключение*) о случившемся в прошлом событии на основе какого-нибудь последствия в момент речи.
+
+Когда перфект достаточно грамматикализован как показатель эвиденциальности, он может указать на незасвидетельствованное событие без результата или последствия на момент речи. Важно отметить, что одна форма может выступать в качестве прошедшего "заглазного" в одних контекстах (в основном нарративные цепочки), но сохраняя более прототипичные перфектые функции (т.е. значения текущей релевантности) в других.
+
+В некоторых языках, общее прошедшее по контрасту с пефректом как показателем косвенной эвиденциальности (прошедшее заглазное) считается грамматикализованными показателем прямой эвиденциальности (прошедшее очевидное). Тем не менее, данные форм также употребляются в контексте незасвидетельствованных событиях --- скорее всего они явлются нейтральными формами, которые приобретают оттенок личного свидетельства в определенных контекстах.
+
+В таблице ниже можно найти все формы, рассмотренные нами. Среди них все перфекты, или точнее: "перфектоиды": формы, похожие на перфект как кросс-лингвистическую категорию, но для которых значение текущей релевантности может быть не самой главной функцией формы. Типология перфекта и наши решении классификации обсуждаются подробнее в диссертации.
+
+<br>
+
+#### Таблица: Перфектоиды
+
+```{r}
+
+dataperf <- pf %>%
+ select(form, type, evidential, meaning, lang, idiom, ref)
+
+colnames(dataperf)[4] <- c("function")
+
+datatable(dataperf, class = 'cell-border stripe', rownames = F, filter = 'top', options = list(pageLength = 70, autoWidth = T, info = FALSE, paginate = FALSE))
+
+```
+
+### Клитики
+
+В нахско-дагестанских языках, специализированные эвиденциальные морфемы обычно появляются в форме клитических частиц. Некоторые из них присоединяются к финитным формам глагола, а другие являются фокусными частицами, которые присоединяются к разным составляющим (хотя по умолчанию, они находятся на глаголе). Эти клитики часто восходят к глаголам речи. В некоторых языках остывшие формы глагола или спрягаемые глаголы употребляются как клитики. Большинство клитик маркируют репортатив, или информацию с чужих слов. Частицы инферентива и косвенной засвидетельствованности отмечены только в двух языках.
+
+Не все клитики для передачи чужой речи являются показателями эвиденциальности. Многие из них --- на самом деле цитатные (или "квотативные") частицы, которые указывают на границу цитаты, а не на источник информации. В нахско-дагестанских языках одна морфема может выполнять функции квотатива и репортатива. Репортатив указывает на информацию с чужих слов. В таблице ниже помечены как "эвиденциальный" (evidential) те клитики, про которые известно, что у них есть репортативная функция.
+
+Данные про клитики страдают дескриптивными лажами. Частицы являются плохо описуемой категорией, и их классификация в разных источниках --- сложно сопоставимо.
+<br>
+
+
+#### Таблица: клитики для передачи чужой речи и умозаключения
+
+```{r}
+
+datapart <- part %>%
+ select(form, type, meaning, evidential, lang, variant, ref)
+
+colnames(datapart)[c(3,6)] <- c("function", "idiom")
+
+datatable(datapart, class = 'cell-border stripe', rownames = F, filter = 'top', options = list(pageLength = 77, autoWidth = T, info = FALSE, paginate = FALSE))
+
+```
+
+## Анкеты
+
+Цель проведенных анкет заключалась в том, чтобы проверить в каких идиомах перфект имеет эвиденциальное употребление, и чтобы установить грамматический статус данной функции, сравнивая употребление разных форм прошедшего времени в ограниченном контексте у разных носителй.
+
+1. **Small evidentiality survey**: короткая анкета, нацелена на элицитацию эвиденциальных форм
+2. **The Perfect Questionnaire**: анкета для элицитации разных функций перфекта [@dahl2000 pp. 800-818]
+3. **Narrative test**: расширение "нарративных вопросов" анкеты про перфект
+
+Заполненные анкеты доступны в виде таблиц, содержащих следующую информацию:
+
+* дискурсивный контекст
+* предложение для перевода
+* translat_original -- перевод в кириллице
+* translit_morph -- перевод в транскрипции с морфемным членением
+* глоссы
+* перевод перевода -- для тех случаев, когда перевод сильно отличается от стимула
+* target_verb -- глагол из исходного предложения, форма которого интересует нас
+* target_translation -- перевод того глагола
+* ожидаемый ответ
+* действительный ответ
+* метаданные: идиом, язык, носитель, род, год рождения, дата элицитации
+
+<br>
+
+### Small evidentiality survey
+
+Маленькая анкета про эвиденциальность состоит из 11 вопросов. Некоторые из них предлагают несколько предложений на перевод.[^4] Таблица ниже показывает количество предложений, элицитированных от каждого носителя, вместе с их языком и идиомом. Данная анкета была назначена для предварительного исследования.[^5] Некоторые результаты рутульского языка обсуждаются в [@verhees2017].
+
+[^4]: Есть разные версии анкеты для мужских и женских консультантов.
+[^5]: Вероятно в транскрипции множество неточностей.
+
+```{r}
+
+es_content <- es %>%
+  select(language, idiom, speaker) %>%
+  group_by(language, idiom, speaker) %>%
+  summarise(sentences = n())
+
+es_content
+
+```
+
+<br>
+
+### The Perfect Questionnaire
+
+Анкета про перфект была заполнена с двумя носителями аварского языка (хунзахский диалект) и с двумя носителям андийского языка (рикванинский и зиловский диалекты). Согласно методолгии, одного носителя достаточно, но большее количество носителей увеличивает достоверность результата [@dahl2000 pp. 800].
+
+Носители ответили по-разному, что может отражать возрастную, гендерную, или (в случае андийского языка) диалектную разницу. Один носитель аварского языка избежал употребление перфектов (см. график нижу), что возможно является последствием неуверенности в собственном владении языка.
+
+(Переменная "not p" в графике покрывает общее прошедшее (в данном случае: аорист) и производные из него формы, например, плюсквамперфект со вспомогательным глаголом в форме аориста, напротив плюсквамперфекта со вспомогательным глаголом в форме перфекта. Категория "other" включает в себя все кроме перфекта или аориста.)
+
+<br>
+
+#### Рисунок: Формы, используемые в контекстах где ожидался бы перфект
+
+```{r}
+
+pq$speaker_id <- paste(pq$language, pq$speaker, sep = " ")
+
+pexp <- pq[(pq$exp == "perfect"),]
+
+ggplot(pexp, aes(x = given, fill = speaker_id)) + 
+  geom_bar(position = "dodge")+
+  theme_classic()
+
+```
+
+Все четыре носителя использовали перфект в контексте рассказа про незасвидетельствованные события. В связи с этим, мы решили повторить похожий эксперимент с другой выборкой носителей (см. ниже). 
+
+<br>
+
+### Narrative test
+
+Анкета про перфект, которая обсуждалась выше, содержит несколько вопросов, направленных на элицитацию похожих, коротких рассказов. В каждом рассказе происходит маленькое изменения в плане темпоральной или эвиденциальной перспективе.
+
+Эти вопросы оказались очень эффективными для элицитации использования перфекта в качестве показателя косвенной засвидетельствованности. 
+
+I found that these questions were very effective for eliciting the indirect evidential use of the perfect. So I created a test consisting of two very similar narratives (which are also very similar to the questions from the Perfect Questionnaire), but with a different evidential perspective. Narrative 1 retells an anecdote about the speaker's grandmother (eliciting for indirect evidentiality). Narrative 2 relates a memory from personal experience (eliciting for direct evidentiality).
+
+[Здесь](https://github.com/sverhees/SLE2017/blob/master/pf-test-2017-translation.pdf) можно прочитать тест и его английский перевод.
+
+Данный эксперимент был проведен с носителями разных диалектов андийского языка, в основном рикванинский и зиловский диалекты.
+
+```{r}
+
+pn_content <- pn %>%
+  filter(!duplicated(speaker)) %>%
+  select(language, idiom) %>%
+  group_by(language, idiom) %>%
+  summarise(speakers = n())
+
+pn_content
+
+```
+
+Most frequent across speakers were the aorist (which is the least marked past tense) and the perfect. As the graph below illustrates, these forms show the expected correlation with evidential perspective: aorist is more typical of the direct/witnessed context, while perfect is more frequent in the indirect/unwitnessed context.
+
+<br>
+
+#### Figure: Verb forms used in the narrative test
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2}
+
+pn_forms <- pn %>%
+  select(form_label, context, speaker, idiom) %>%
+  group_by(context, form_label) %>%
+  summarise(count = n())
+
+ggdotchart(pn_forms, x = "form_label", y = "count",
+           color = "context",
+           palette = c("navy", "mediumorchid1"), 
+           sorting = "descending",
+           add = "segments",
+           dot.size = 2,
+           xlab = "",
+           ylab = "",
+           rotate = TRUE)
+```
+
+It is not a strict division, however. Several perfects in sequence may occur in a witnessed context to denote events that are sudden and unexpected. And the aorist may be used to render a narrative about unwitnessed events as a neutral alternative to the perfect. The graph below plots the proportion of given forms per speaker by context. It shows that the distribution of forms according to the evidential perspective is a *tendency*.
+
+<br>
+
+#### Figure: Proportion of given forms per speaker by context
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2}
+
+ggplot(pn, aes(x = speaker, fill = given)) + 
+  geom_bar(position = "fill")+
+  facet_wrap(~context)+
+  theme_classic() +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+```
+
+## Narrative data
+
+This section presents some data on the use of verb forms in non-elicited narratives. I analyzed the texts published in the grammars of Bagvalal and Tsakhur, respectively. 
+
+Bagvalal (Andic) and Tsakhur (Lezgic) belong to different branches of the family, and are spoken in two distinct areas of the eastern Caucasus.
+
+Overall they show the same picture as the elicited narratives in Andi: the general past (preterite/aorist) and perfect are most frequent among the finite forms, and they show a preference for a particular evidential perspective (see graph below).
+
+<br>
+
+#### Figure: Forms used in Bagvalal and Tsakhur texts by perspective
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 8}
+
+narrmeta <- merge(narr, meta, by = "seq_nr")
+
+sum <- narrmeta %>%
+  select(language, form, persp) %>%
+  filter(persp %in% c("direct", "indirect")) %>%
+  group_by(form, language, persp) %>%
+  mutate(total = n())
+
+ggdotchart(sum, x = "form", y = "total",
+           color = "persp",
+           palette = c("navy", "mediumorchid1"), 
+           sorting = "descending",
+           add = "segments",
+           dot.size = 2,
+           facet.by = "language",
+           xlab = "",
+           ylab = "",
+           rotate = TRUE)
+
+```
+
+Now let us reduce the noise by looking only at the distribution of perfect with respect to general past in narrative sequences, since they form the backbone of a narrative.
+
+Unfortunately, the Bagvalal and the Tsakhur sample are unequal in comparison, and neither is balanced (see the table below). Speakers are almost exclusively male, and some of them are overrepresented while others are underrepresented. This has to do with the fact that the material was collected during field trips, thus limiting the scope to a convenience sample of speakers willing to work with linguists.
+
+```{r}
+
+nm_content <- narrmeta %>%
+  select(lang, sp_gender, sp_code.x) %>%
+  filter(!duplicated(sp_code.x)) %>%
+  group_by(lang, sp_gender) %>%
+  summarize(speakers = n())
+
+nm_seq <- narrmeta %>%
+  select(lang, sp_gender, seq_nr) %>%
+  filter(!duplicated(seq_nr)) %>%
+  group_by(lang, sp_gender) %>%
+  summarize(sequences = n())
+
+nm_clauses <- narrmeta %>%
+  select(lang, sp_gender) %>%
+  group_by(lang, sp_gender) %>%
+  summarize(clauses = n())
+
+nm_content$sequences <- nm_seq$sequences
+nm_content$clauses <- nm_clauses$clauses
+nm_content$av_length <- (nm_content$clauses / nm_content$sequences)
+
+nm_content
+
+```
+
+<br>
+
+#### Figure: Perfects and pasts by perspective in Bagvalal and Tsakhur
+
+```{r}
+
+dir_indir <- narrmeta %>%
+  filter(persp %in% c("direct", "indirect")) %>%
+  filter(p %in% c("pf", "pst")) %>%
+  filter(complete.cases(p))
+
+ggplot(dir_indir, aes(x = persp, fill = p)) + 
+  geom_bar(stat = "count")+
+  facet_wrap(~lang)+
+  theme_classic()
+
+```
+
+Both languages reveal an asymmetry between perfect and past that suggests a more neutral or less marked status of the latter. In addition, Bagvalal speakers seem to have a stronger preference for perfect in the indirect contexts. Note that this might reflect a sample bias, rather than a difference in the grammars of the languages.
+
+Below are the absolute numbers that correspond to these graphs, as well as the results of a chi squared test for each of them, showing that the correlation between perspective and form is statistically significant.
+
+<br>
+
+#### Bagvalal: Statistical significance
+
+```{r}
+
+bagv <- dir_indir %>%
+  filter(lang == "Bagvalal")
+
+table(bagv$persp, bagv$p)
+
+```
+
+```{r}
+
+chisq.test(bagv$persp, bagv$p)
+
+```
+
+<br>
+
+#### Tsakhur: Statistical significance
+
+```{r}
+
+tsakh <- dir_indir %>%
+  filter(lang == "Tsakhur")
+
+table(tsakh$persp, tsakh$p)
+
+```
+
+```{r}
+
+chisq.test(tsakh$persp, tsakh$p)
+
+```
+
+<br>
+
+# Maps
+
+Below is a partial reproduction of the map [`78A. Coding of Evidentiality`](http://wals.info/feature/78A#2/16.6/149.8) [@wals-78] from the [World Atlas of Language Structures (WALS)](https://wals.info/) online. It shows only the East Caucasian languages from the sample. Hover over the dots to view the language they represent, and click to see the source reference.
+
+The category **Part of the tense system** comprises languages with an evidential perfect and Chechen, which features a specialized auxiliary used to form indirect evidential tenses. **Mixed** refers to languages that combine tense forms with a **Verbal affix or clitic**.
+
+#### Map: Evidentiality in the eastern Caucasus (WALS)
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 7}
+
+# filter wals data
+
+wals <- sys[complete.cases(sys$coding),]
+
+map.feature(lang.gltc(wals$gltc),
+            latitude = wals$lat,
+            longitude = wals$lon,
+            features = wals$coding,
+            color = wals$col,
+            title = "Coding of Evidentiality",
+            width = 8,
+            tile = c("Esri.WorldTopoMap"),
+            zoom.level = 6,
+            label = wals$lang,
+            popup = wals$ref)
+
+```
+
+Based on the sources I used, individual languages received a different classification than they have on the WALS map (see my [issue](https://github.com/clld/wals-data/issues/164) at Github).
+
+The map below also includes local Turkic languages (Azerbaijani, Kumyk, Nogai) in addition to the East Caucasian languages.
+
+#### Map: Evidentiality in the eastern Caucasus (my data)
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 7}
+
+map.feature(lang.gltc(sys$gltc),
+            latitude = sys$lat,
+            longitude = sys$lon,
+            features = sys$corr,
+            color = sys$corr_col,
+            title = "Coding of Evidentiality",
+            width = 8,
+            tile = c("Esri.WorldTopoMap"),
+            zoom.level = 6,
+            label = sys$lang,
+            popup = sys$corr_ref)
+```
+
+Both maps show a similar areal pattern: evidentiality as part of the tense system seems less characteristic of the southeastern part of the area.
+
+The map below illustrates the distribution of evidentiality as part of the tense system, fusing the categories **Part of the tense system** and **Mixed** from the previous maps.
+
+#### Map: Evidentiality as part of tense in the eastern Caucasus
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 7}
+
+sys <- sys %>%
+  mutate(tense = case_when(
+    corr == "Part of the tense system" ~ "yes", 
+    corr == "Mixed" ~"yes",
+    TRUE ~ "no"))
+
+sys_col <- left_join(sys, col, by = "lang")
+
+sys_col$tense <- factor(sys_col$tense, levels = c("yes", "no"))
+
+sys_col$lang <- factor(sys_col$lang, levels = c("Ingush", "Chechen", "Bats", "Bezhta", "Hinuq", "Hunzib", "Khwarshi", "Tsez", "Avar", "Akhvakh", "Andi", "Bagvalal", "Botlikh", "Chamalal", "Godoberi", "Karata", "Tindi", "Dargwa", "Lak", "Agul", "Archi", "Budukh", "Kryz", "Lezgian", "Rutul", "Tabasaran", "Tsakhur", "Udi", "Khinalug", "Kumyk", "Nogai", "Azerbaijani"))
+
+
+map.feature(lang.gltc(sys_col$gltc),
+            features = sys_col$lang,
+            title = "Language",
+            color = sys_col$datacol,
+            width = 5,
+            stroke.features = sys_col$tense,
+            stroke.color = c("grey", "white"),
+            stroke.title = "Evidentiality and tense",
+            stroke.radius = 13,
+            label = sys_col$lang,
+            zoom.level = 7,
+            popup = paste("Source(s):", sys_col$corr_ref),
+            tile = c("Esri.WorldGrayCanvas"))
+```
+
+
+The next map shows whether the perfect has an evidential meaning.
+
+
+#### Map: Perfects with an evidential meaning in the eastern Caucasus
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 7}
+
+sys_col$lang <- factor(sys_col$lang, levels = c("Ingush", "Chechen", "Bats", "Bezhta", "Hinuq", "Hunzib", "Khwarshi", "Tsez", "Avar", "Akhvakh", "Andi", "Bagvalal", "Botlikh", "Chamalal", "Godoberi", "Karata", "Tindi", "Dargwa", "Lak", "Agul", "Archi", "Budukh", "Kryz", "Lezgian", "Rutul", "Tabasaran", "Tsakhur", "Udi", "Khinalug", "Kumyk", "Nogai", "Azerbaijani"))
+
+sys_col$perfect <- factor(sys_col$perfect, levels = c("yes", "no"))
+
+map.feature(lang.gltc(sys_col$gltc),
+            features = sys_col$lang,
+            title = "Language",
+            color = sys_col$datacol,
+            width = 5,
+            stroke.features = sys_col$perfect,
+            stroke.color = c("grey", "white"),
+            stroke.title = "Evidentiality and tense",
+            stroke.radius = 13,
+            label = sys_col$lang,
+            zoom.level = 7,
+            popup = paste("Source(s):", sys_col$corr_ref),
+            tile = c("Esri.WorldGrayCanvas"))
+```
+
+Now let us compare the distribution of the evidential function with other possible functions of the perfect
+
+
+#### Map: Functions of perfects in the eastern Caucasus
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 7}
+
+map.feature(lang.gltc(pf$gltc),
+            features = pf$res,
+            color = "white",
+            width = 13,
+            label = pf$lang,
+            zoom.level = 7,
+            popup = paste("Source(s):", pf$corr_ref),
+            tile = c("Esri.WorldGrayCanvas")) %>%
+  map.feature(lang.gltc(pf$gltc),
+            features = pf$cr,
+            color = "darkgrey",
+            width = 9,
+            label = pf$lang,
+            zoom.level = 7,
+            popup = paste("Source(s):", pf$corr_ref),
+            tile = c("Esri.WorldGrayCanvas"),
+            pipe.data = .) %>%
+  map.feature(lang.gltc(pf$gltc),
+            features = pf$evidential,
+            shape =  c("◆"),
+            label = pf$lang,
+            zoom.level = 7,
+            popup = paste("Source(s):", pf$corr_ref),
+            tile = c("Esri.WorldGrayCanvas"),
+            pipe.data = .)
+```
+
+The map below compares the distribution of evidentiality as part of tense to different types of evidential clitics, which range from cliticized verbs to free particles. Clitic types on the map do not show a clear areal or genealogical signal. 
+
+#### Map: Evidentiality as part of tense and types of evidential clitics
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 8}
+
+sys <- sys %>%
+  mutate(tense = case_when(
+    corr == "Part of the tense system" ~ "yes", 
+    corr == "Mixed" ~"yes",
+    TRUE ~ "no"))
+
+sys_col <- left_join(sys, col, by = "lang")
+sys_col <- sys_col[complete.cases(sys_col$group.y),]
+
+sys_col$tense <- factor(sys_col$tense, levels = c("yes", "no"))
+
+partev <- part %>%
+  filter(complete.cases(evidential))
+
+partev$type <- factor(partev$type, levels = c("verb particle", "free particle", "verb form", "no particle"))
+
+map.feature(sys_col$lang,
+            features = sys_col$tense,
+            title = "Evidentiality as part of tense",
+            legend.position = "topleft",
+            color = c("grey", "white"),
+            width = 10,
+            label = sys_col$lang,
+            label.hide = TRUE,
+            popup = paste("Source(s):", sys_col$ref)) %>%
+  map.feature(partev$lang,
+              features = partev$type,
+              shape = c("●", "◍", "○", "◌"),
+              shape.size = 14,
+              title = "Clitic type",
+              tile = c("Esri.WorldGrayCanvas"),
+              pipe.data = .)
+```
+
+The maps below show the actual distribution of the languages in the area. Each dot corresponds to a village. Click on a dot to see the name of the village. Hovering will show you the language. This map is based on an old version of the `East Caucasian villages dataset` (before the October 2019 update) -- get the latest version [here](https://github.com/sverhees/master_villages).
+
+#### Map: All East Caucasian villages by language
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 8}
+
+# combine villages with glottocodes and colorschemes
+
+vill_nona <- vill[complete.cases(vill$lat),]
+
+vill_gltc <- merge(vill_nona, lang, by = "lang")
+vill_col <- merge(vill_gltc, col, by = "lang")
+
+# order the languages in the legend nicely (by default they are in alphabetical order)
+
+vill_col$lang <- factor(vill_col$lang, levels =c(
+  "Dargwa", "Lak", "Bats", "Ingush", "Chechen", "Khinalug", "Archi", "Tsakhur", "Rutul", "Kryz", "Budukh", "Udi", "Lezgian", "Agul", "Tabasaran", "Avar", "Andi", "Botlikh", "Godoberi", "Chamalal", "Bagvalal", "Tindi", "Karata", "Akhvakh", "Tsez", "Hinuq", "Bezhta", "Hunzib", "Khwarshi", "Armenian", "Kumyk", "Nogai", "Azerbaijani"))
+
+
+map.feature(lang.gltc(vill_col$gltc),
+            latitude = vill_col$lat,
+            longitude = vill_col$lon,
+            features = vill_col$lang,
+            title = "Language",
+            color = vill_col$datacol,
+            width = 4,
+            zoom.control = T,
+            label = vill_col$lang,
+            popup = paste("Village:", vill_col$name),
+            minimap = T,
+            minimap.position = "bottomleft",
+            tile = c("Esri.WorldTopoMap"))
+```
+
+The following map shows how my data relate to the distribution of languages.
+
+#### Map: All East Caucasian villages by language + data on evidentiality
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height= 7}
+
+vill_col$lang <- factor(vill_col$lang, levels =c(
+  "Dargwa", "Lak", "Bats", "Ingush", "Chechen", "Khinalug", "Archi", "Tsakhur", "Rutul", "Kryz", "Budukh", "Udi", "Lezgian", "Agul", "Tabasaran", "Avar", "Andi", "Botlikh", "Godoberi", "Chamalal", "Bagvalal", "Tindi", "Karata", "Akhvakh", "Tsez", "Hinuq", "Bezhta", "Hunzib", "Khwarshi", "Armenian", "Kumyk", "Nogai", "Azerbaijani"))
+
+map.feature(lang.gltc(vill_col$gltc),
+            latitude = vill_col$lat,
+            longitude = vill_col$lon,
+            features = vill_col$lang,
+            title = "Language",
+            width = 3,
+            zoom.control = T,
+            color = vill_col$datacol,
+            label = vill_col$lang,
+            popup = paste("Village:", vill_col$name)) %>%
+  map.feature(lang.gltc(sys$gltc),
+              features = sys$corr,
+              color = sys$corr_col,
+              width = 8,
+              label = sys$lang,
+              legend.position = "bottomleft",
+              title = "Coding of Evidentiality",
+              tile = c("Esri.WorldGrayCanvas"),
+              pipe.data = .)
+
+```
+
+As the map shows, most dots from the top layer correspond to a multitude of villages. Each of these villages represents an idiom that might differ from the one described in the sources I used. (This problem is especially relevant for Dargwa.) In addition, some of the sources may be incomplete. Many of the red dots could actually be grey, because specialized clitics are underdescribed and often misclassified. It is less likely for the pink and white dots to be inaccurate, because these languages are relatively well-studied with respect to this topic (with the exception of Tabasaran).
+
+As a result, the southern part of the area forms a reliably distinct zone, which roughly coincides with the area where Azerbaijani was historically dominant as an L2 and lingua franca. 
+
+The map below plots the major market cities and their dominant lingua franca against the villages and languages, based on Wixman [-@wixman1980]. 
+
+#### Map: All East Caucasian languages + market languages
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width = 8.2, fig.height=8}
+
+vill_col$lang <- factor(vill_col$lang, levels =c(
+  "Dargwa", "Lak", "Bats", "Ingush", "Chechen", "Khinalug", "Archi", "Tsakhur", "Rutul", "Kryz", "Budukh", "Udi", "Lezgian", "Agul", "Tabasaran", "Avar", "Andi", "Botlikh", "Godoberi", "Chamalal", "Bagvalal", "Tindi", "Karata", "Akhvakh", "Tsez", "Hinuq", "Bezhta", "Hunzib", "Khwarshi", "Armenian", "Kumyk", "Nogai", "Azerbaijani"))
+
+map.feature(lang.gltc(vill_col$gltc),
+            latitude = vill_col$lat,
+            longitude = vill_col$lon,
+            features = vill_col$lang,
+            title = "Language",
+            color = vill_col$datacol,
+            width = 4,
+            label = vill_col$lang,
+            popup = paste("Village:", vill_col$name)) %>%
+                        map.feature(market$lang,
+                        latitude = market$lat,
+                        longitude = market$lon,
+                        features = market$lang,
+                        popup = paste("market language of", market$city),
+                        label = market$lang,
+                        title = "Lingua Franca",
+                        shape =  c("❖", "⬖", "◇", "◆"),
+                        shape.size = "30",
+                        tile = c("Esri.WorldTopoMap"),
+                        legend.position = "topleft",
+                        pipe.data = .)
+
+```
+
+Based on the sources I used, Kumyk and Nogai have an evidential perfect, while the Azerbaijani perfect has lost its evidential function. This coincides nicely with the observed areal distribution of presence vs. absence of evidentiality as a meaning of the perfect. However, a scenario that links the emergence of evidentiality (or lack thereof) in East Caucasian perfects to contact with Turkic languages cannot be confirmed, due to a large number of complications that I discuss in more detail in my dissertation and the forthcoming paper.
+
+<br>
+
+
+
+
+
+
+
+
+
+
+# Транскрипция
+
+В таблице ниже сопоставлены транскрипция, используемая в наших данных (**Current**) по сранвнеию с конвенциями МФА (**IPA**) и транскрипцией, используемой в грамматиках цахурского (**Tsakhur**) и багвалинского (**Bagvalal**) языков.
+
+```{r, include = TRUE, echo = FALSE, message = FALSE, warning = FALSE, fig.width=3}
+
+datatable(trans, class = 'cell-border stripe', filter = 'top', rownames = FALSE, options = list(pageLength = 52, lengthChange = FALSE, searching = FALSE, info = FALSE, paginate = FALSE, autowidth = TRUE))
+
+```
+
+
+
+
+# Литература
+

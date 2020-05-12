@@ -1,0 +1,31 @@
+---
+title: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+
+The [dissertation_evidentiality](https://github.com/sverhees/dissertation_evidentiality) repository contains data collected for my PhD project. This page introduces the data. Choose a language in the top-right corner.
+
+As of `r Sys.Date()` this page is archived. I am working on improved maps, which will become available in a forthcoming paper and the Typological Atlas of Dagestan. See [my page](https://sverhees.github.io/site/) for updates.
+
+---
+
+Репозиторий [dissertation_evidentiality](https://github.com/sverhees/dissertation_evidentiality) содержит данные, собранные для моей кандидатской диссертации. Настоящая страница представляет данные. Выбирайте язык в правом верхнем углу.
+
+Начиная с `r Sys.Date()` настоящая страница -- архивирована. Скоро будут доступны улучшенные варианты карт, в статье, которая сейчас готовится, и в Типологическом Атласе Дагестана, см. [мою страницу](https://sverhees.github.io/site/) для новостей.
+
+<br>
+
+![*Zilo, Dagestan. 07 2019*](images/zilo2019.png)
+
+---
+
+[Samira Verhees](https://sverhees.github.io/site/) | Version: `r Sys.Date()` | jh.verhees _at_ gmail
+
+---
+

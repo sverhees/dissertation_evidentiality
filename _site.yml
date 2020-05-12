@@ -1,0 +1,13 @@
+
+name: "Evidentiality in East Caucasian"
+output_dir: "."
+navbar:
+  title: "Evidentiality in East Caucasian"
+  left:
+  - text: "Home"
+    href: home.html
+  right:
+  - text: "EN"
+    href: index.html
+  - text: "РУ"
+    href: index_ru.html
