@@ -213,7 +213,10 @@ The speakers gave rather different answers, which could be due to dialectal vari
 
 pq$speaker_id <- paste(pq$language, pq$speaker, sep = " ")
 
-pexp <- pq[(pq$exp == "perfect"),]
+pq_nona <- pq[complete.cases(pq$given),]
+
+pexp <- pq_nona[(pq_nona$exp == "perfect"),]
+
 
 ggplot(pexp, aes(x = given, fill = speaker_id)) + 
   geom_bar(position = "dodge")+
